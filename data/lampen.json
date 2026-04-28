@@ -9990,6 +9990,24 @@
     "operatorName": "Syna GmbH"
   },
   {
+    "id": 6156271,
+    "operatorId": 402,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/28/2026 20:11:56",
+    "dateEnd": "05/28/2026 20:11:56",
+    "lastUpdate": "04/28/2026 20:11:57",
+    "postalCode": "85276",
+    "city": "Pfaffenhofen a.d. Ilm",
+    "district": "Pfaffenhofen an der Ilm",
+    "street": "Herzog-Wilhelm-Straße",
+    "radius": null,
+    "coordinates": "11.492079,48.528529",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bayernwerk Netz GmbH"
+  },
+  {
     "id": 6152580,
     "operatorId": 354,
     "type": 10,
@@ -14616,24 +14634,6 @@
     "operatorName": "ELE Verteilnetz GmbH"
   },
   {
-    "id": 6141017,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 19:05:35",
-    "dateEnd": "04/30/2026 19:05:35",
-    "lastUpdate": "03/31/2026 19:05:37",
-    "postalCode": "40822",
-    "city": "Mettmann",
-    "district": "Mettmann",
-    "street": "Goldberger Str.",
-    "radius": null,
-    "coordinates": "6.989200201349;51.256900811557",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6150242,
     "operatorId": 237,
     "type": 10,
@@ -15226,24 +15226,6 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6141020,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 19:06:23",
-    "dateEnd": "04/30/2026 19:06:23",
-    "lastUpdate": "03/31/2026 19:06:24",
-    "postalCode": "76848",
-    "city": "Wilgartswiesen",
-    "district": "",
-    "street": "Bahnhofstr.",
-    "radius": null,
-    "coordinates": "7.879592,49.209026",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6143026,
