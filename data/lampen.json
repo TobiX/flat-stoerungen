@@ -6408,6 +6408,24 @@
     "operatorName": "Netze Duisburg GmbH"
   },
   {
+    "id": 6155959,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/28/2026 14:28:12",
+    "dateEnd": "05/28/2026 14:28:12",
+    "lastUpdate": "04/28/2026 14:28:13",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.341823;50.014091",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
     "id": 6154524,
     "operatorId": 237,
     "type": 10,
@@ -9306,24 +9324,6 @@
     "operatorName": "Rathaus Wahlstedt"
   },
   {
-    "id": 6140788,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 13:02:08",
-    "dateEnd": "04/30/2026 13:02:08",
-    "lastUpdate": "03/31/2026 13:02:09",
-    "postalCode": "33719",
-    "city": "Bielefeld",
-    "district": "Bielefeld",
-    "street": "Altenhagener Straße",
-    "radius": null,
-    "coordinates": "8.608686,52.033186",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6126633,
     "operatorId": 5182,
     "type": 10,
@@ -9826,6 +9826,24 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6155933,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/28/2026 13:29:19",
+    "dateEnd": "05/28/2026 13:29:19",
+    "lastUpdate": "04/28/2026 13:29:20",
+    "postalCode": "76751",
+    "city": "Jockgrim",
+    "district": "",
+    "street": "Gartenstr.",
+    "radius": null,
+    "coordinates": "8.274888,49.089475",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6155460,
@@ -12636,24 +12654,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6140791,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 13:26:51",
-    "dateEnd": "04/30/2026 13:26:51",
-    "lastUpdate": "03/31/2026 13:26:52",
-    "postalCode": "41569",
-    "city": "Rommerskirchen",
-    "district": "Rhein-Kreis Neuss",
-    "street": "Frongraben",
-    "radius": null,
-    "coordinates": "6.663613,51.028812",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6135861,
     "operatorId": 2282,
     "type": 10,
@@ -14488,24 +14488,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
-    "id": 6152546,
-    "operatorId": 344,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/22/2026 18:01:29",
-    "dateEnd": "05/22/2026 18:01:29",
-    "lastUpdate": "04/22/2026 18:01:35",
-    "postalCode": "49406",
-    "city": "Eydelstedt",
-    "district": "Diepholz",
-    "street": "Holzort",
-    "radius": null,
-    "coordinates": "8.535015,52.695946",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
     "id": 6151232,
@@ -16488,6 +16470,24 @@
     "operatorName": "Syna GmbH"
   },
   {
+    "id": 6155957,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/28/2026 14:16:49",
+    "dateEnd": "05/28/2026 14:16:49",
+    "lastUpdate": "04/28/2026 14:16:49",
+    "postalCode": "53909",
+    "city": "Zülpich",
+    "district": "Niederelvenich",
+    "street": "Wilhelm-Falkenberg-Str.",
+    "radius": null,
+    "coordinates": "6.71708728;50.70638407",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
     "id": 6117016,
     "operatorId": 237,
     "type": 10,
@@ -17442,24 +17442,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6149519,
-    "operatorId": 344,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/17/2026 11:29:31",
-    "dateEnd": "05/17/2026 11:29:31",
-    "lastUpdate": "04/17/2026 11:29:31",
-    "postalCode": "49453",
-    "city": "Wetschen",
-    "district": "Diepholz",
-    "street": "Kampstraße",
-    "radius": null,
-    "coordinates": "8.450657,52.61184",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
-  },
-  {
     "id": 6145213,
     "operatorId": 237,
     "type": 10,
@@ -18304,24 +18286,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6145664,
-    "operatorId": 344,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/10/2026 12:25:58",
-    "dateEnd": "05/10/2026 12:25:58",
-    "lastUpdate": "04/10/2026 12:25:59",
-    "postalCode": "49453",
-    "city": "Wetschen",
-    "district": "Diepholz",
-    "street": "Feldstraße",
-    "radius": null,
-    "coordinates": "8.441404,52.614367",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
     "id": 6145211,
@@ -22606,24 +22570,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6149125,
-    "operatorId": 344,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/16/2026 22:03:15",
-    "dateEnd": "05/16/2026 22:03:15",
-    "lastUpdate": "04/16/2026 22:03:16",
-    "postalCode": "49406",
-    "city": "Drentwede",
-    "district": "Diepholz",
-    "street": "Heideweg",
-    "radius": null,
-    "coordinates": "8.582860,52.738385",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
     "id": 6153884,
@@ -28332,24 +28278,6 @@
     "operatorName": "Stadt Leipzig"
   },
   {
-    "id": 6154186,
-    "operatorId": 344,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/24/2026 12:02:44",
-    "dateEnd": "05/24/2026 12:02:44",
-    "lastUpdate": "04/24/2026 12:02:46",
-    "postalCode": "49406",
-    "city": "Drentwede",
-    "district": "Diepholz",
-    "street": "Im Felde",
-    "radius": null,
-    "coordinates": "8.566463,52.730056",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
-  },
-  {
     "id": 6129646,
     "operatorId": 2126,
     "type": 10,
@@ -32742,24 +32670,6 @@
     "operatorName": "Stadt Helmstedt"
   },
   {
-    "id": 6140932,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 14:39:04",
-    "dateEnd": "04/30/2026 14:39:04",
-    "lastUpdate": "03/31/2026 14:39:06",
-    "postalCode": "54675",
-    "city": "Wallendorf",
-    "district": "Wallendorf",
-    "street": "Frankenstr.",
-    "radius": null,
-    "coordinates": "6.28944234;49.87733328",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6136691,
     "operatorId": 237,
     "type": 10,
@@ -32776,24 +32686,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6140933,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 14:39:15",
-    "dateEnd": "04/30/2026 14:39:15",
-    "lastUpdate": "03/31/2026 14:39:17",
-    "postalCode": "54675",
-    "city": "Wallendorf",
-    "district": "Wallendorf",
-    "street": "Frankenstr.",
-    "radius": null,
-    "coordinates": "6.29003928;49.87711601",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6133235,
@@ -36592,24 +36484,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6154769,
-    "operatorId": 344,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 18:42:17",
-    "dateEnd": "05/26/2026 18:42:17",
-    "lastUpdate": "04/26/2026 18:42:18",
-    "postalCode": "49356",
-    "city": "Diepholz",
-    "district": "Diepholz",
-    "street": "Thea-Hucke-Straße",
-    "radius": null,
-    "coordinates": "8.393556,52.606252",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
     "id": 6153785,
