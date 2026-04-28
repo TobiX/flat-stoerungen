@@ -1,23 +1,5 @@
 [
   {
-    "id": 6153486,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "04/27/2026 09:30:00",
-    "dateEnd": "04/27/2026 15:00:00",
-    "lastUpdate": "04/23/2026 13:27:32",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Friedhofstraße, 33790 Halle (Westfalen), Deutschland",
-    "radius": 250,
-    "coordinates": "8.3695815,52.0556452",
-    "liveInfo": "Kundeninformation/Wasserabstellung\nDie TWO muss wegen dringender Arbeiten am Versorgungsnetz bzw. Hausanschluss  \ndas Wasser abstellen. \n\nBetroffene Häuser:\n[Straße] [Nr.] Freidhofstr. 1,2,3,4,6,8,9,10,11,12,14\n\nNach der Wiederinbetriebnahme kann es zu Trübungen und Druckschwankungen kommen.\nWir bitten um Ihr Verständnis.\n\nT.W.O. Technische Werke Osning GmbH\n",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6155263,
     "operatorId": 132,
     "type": 1,
@@ -178,24 +160,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Witten GmbH"
-  },
-  {
-    "id": 6154112,
-    "operatorId": 259,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "04/27/2026 08:00:00",
-    "dateEnd": "04/27/2026 15:00:00",
-    "lastUpdate": "04/24/2026 10:13:02",
-    "postalCode": "37520",
-    "city": "Osterode am Harz",
-    "district": null,
-    "street": "Gilgenburger Str., 37520 Osterode am Harz, Deutschland",
-    "radius": 500,
-    "coordinates": "10.2378513,51.7381206",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
   },
   {
     "id": 6155890,
