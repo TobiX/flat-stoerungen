@@ -40138,5 +40138,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6156740,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/29/2026 10:19:54",
+    "dateEnd": "05/29/2026 10:19:54",
+    "lastUpdate": "04/29/2026 10:19:55",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Saarn/Mintard",
+    "street": "Ernst-Tommes-Str.",
+    "radius": null,
+    "coordinates": "6.8709357;51.39828599",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
