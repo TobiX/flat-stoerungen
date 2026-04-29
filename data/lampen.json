@@ -31734,24 +31734,6 @@
     "operatorName": "Stadt Vaihingen an der Enz"
   },
   {
-    "id": 6141080,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/01/2026 01:11:58",
-    "dateEnd": "05/01/2026 01:11:58",
-    "lastUpdate": "04/01/2026 01:12:02",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Altstadt II",
-    "street": "Eppinghofer Str.",
-    "radius": null,
-    "coordinates": "6.887482;51.4346185",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6129621,
     "operatorId": 2269,
     "type": 10,
