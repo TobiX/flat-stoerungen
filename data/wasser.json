@@ -1,5 +1,23 @@
 [
   {
+    "id": 6156443,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "04/29/2026 02:51:00",
+    "dateEnd": "04/29/2026 15:00:00",
+    "lastUpdate": "04/29/2026 05:09:29",
+    "postalCode": "95445",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5533734,49.9422766",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 29.04.2026 15:00\nMonteur informiert um 29.04.2026 02:54\nMonteur vor Ort seit 29.04.2026 03:15\nStandort Notwasser: Am Hetzennest 2, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
     "id": 6155263,
     "operatorId": 132,
     "type": 1,
@@ -270,6 +288,24 @@
     "operatorName": "Westnetz GmbH"
   },
   {
+    "id": 6156446,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "04/29/2026 05:30:08",
+    "dateEnd": "04/29/2026 07:05:00",
+    "lastUpdate": "04/29/2026 05:54:10",
+    "postalCode": "46286",
+    "city": "Dorsten",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.002343,51.75312780812219",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
     "id": 6155963,
     "operatorId": 3331,
     "type": 1,
@@ -301,6 +337,24 @@
     "street": null,
     "radius": null,
     "coordinates": "6.837727107527723,51.46981168272781",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6156447,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "04/29/2026 05:39:08",
+    "dateEnd": "04/29/2026 08:40:00",
+    "lastUpdate": "04/29/2026 05:39:08",
+    "postalCode": "46284",
+    "city": "Dorsten",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.978645776280501,51.683661687925955",
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
