@@ -16,6 +16,11 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: lts
+          cache: true
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Update Strom data
@@ -24,27 +29,32 @@ jobs:
           http_url: 'https://api-public.stoerungsauskunft.de/api/v1/public/outages?SectorType=1&Fields=id,operatorId,type,origin,postalCode,city,district,street,coordinates,radius,isFixed,dateStart,dateEnd,operatorName,liveInfo,lastUpdate'
           downloaded_filename: data/strom.json
           authorization: 'Basic ZnJvbnRlbmQ6ZnJvbnRlbmQ='
+          postprocess: sort-by-id.ts
       - name: Update Gas data
         uses: githubocto/flat@v3
         with:
           http_url: 'https://api-public.stoerungsauskunft.de/api/v1/public/outages?SectorType=2&Fields=id,operatorId,type,origin,postalCode,city,district,street,coordinates,radius,isFixed,dateStart,dateEnd,operatorName,liveInfo,lastUpdate'
           downloaded_filename: data/gas.json
           authorization: 'Basic ZnJvbnRlbmQ6ZnJvbnRlbmQ='
+          postprocess: sort-by-id.ts
       - name: Update Wasser data
         uses: githubocto/flat@v3
         with:
           http_url: 'https://api-public.stoerungsauskunft.de/api/v1/public/outages?SectorType=3&Fields=id,operatorId,type,origin,postalCode,city,district,street,coordinates,radius,isFixed,dateStart,dateEnd,operatorName,liveInfo,lastUpdate'
           downloaded_filename: data/wasser.json
           authorization: 'Basic ZnJvbnRlbmQ6ZnJvbnRlbmQ='
+          postprocess: sort-by-id.ts
       - name: Update Straßenbeleuchtung data
         uses: githubocto/flat@v3
         with:
           http_url: 'https://api-public.stoerungsauskunft.de/api/v1/public/outages?SectorType=6&Fields=id,operatorId,type,origin,postalCode,city,district,street,coordinates,radius,isFixed,dateStart,dateEnd,operatorName,liveInfo,lastUpdate'
           downloaded_filename: data/lampen.json
           authorization: 'Basic ZnJvbnRlbmQ6ZnJvbnRlbmQ='
+          postprocess: sort-by-id.ts
       - name: Update Fernwärme data
         uses: githubocto/flat@v3
         with:
           http_url: 'https://api-public.stoerungsauskunft.de/api/v1/public/outages?SectorType=7&Fields=id,operatorId,type,origin,postalCode,city,district,street,coordinates,radius,isFixed,dateStart,dateEnd,operatorName,liveInfo,lastUpdate'
           downloaded_filename: data/warm.json
           authorization: 'Basic ZnJvbnRlbmQ6ZnJvbnRlbmQ='
+          postprocess: sort-by-id.ts
