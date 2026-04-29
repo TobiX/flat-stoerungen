@@ -4932,24 +4932,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6127111,
-    "operatorId": 5098,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 14:51:59",
-    "dateEnd": "04/04/2026 14:51:59",
-    "lastUpdate": "03/04/2026 14:51:59",
-    "postalCode": "06333",
-    "city": "Hettstedt",
-    "district": "Mansfeld-Südharz",
-    "street": "An der Brache",
-    "radius": null,
-    "coordinates": "11.51527,51.62746",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Hettstedt"
-  },
-  {
     "id": 6127195,
     "operatorId": 5214,
     "type": 10,
@@ -40192,5 +40174,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Schifferstadt"
+  },
+  {
+    "id": 6156910,
+    "operatorId": 418,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/29/2026 15:32:49",
+    "dateEnd": "05/29/2026 15:32:49",
+    "lastUpdate": "04/29/2026 15:32:51",
+    "postalCode": "66119",
+    "city": "Saarbrücken",
+    "district": "Regionalverband Saarbrücken",
+    "street": "Winterbergstraße",
+    "radius": null,
+    "coordinates": "7.002020,49.222783",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Saarbrücken Netz AG"
+  },
+  {
+    "id": 6156920,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/29/2026 16:25:22",
+    "dateEnd": "05/29/2026 16:25:22",
+    "lastUpdate": "04/29/2026 16:25:22",
+    "postalCode": "61449",
+    "city": "Steinbach (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.580331;50.168859",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

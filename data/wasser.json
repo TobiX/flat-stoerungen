@@ -108,24 +108,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6155270,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "04/28/2026 10:00:00",
-    "dateEnd": "04/28/2026 12:00:00",
-    "lastUpdate": "04/27/2026 13:16:52",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Hagedornstraße 13, 33790 Halle (Westfalen), Deutschland",
-    "radius": 80,
-    "coordinates": "8.3619012,52.0653932",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6155282,
     "operatorId": 132,
     "type": 1,
