@@ -22,7 +22,7 @@ jobs:
           deno-version: lts
           cache: true
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
       - name: Update Strom data
         uses: githubocto/flat@v3
         with:
