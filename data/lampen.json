@@ -9054,24 +9054,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6126627,
-    "operatorId": 5182,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:21:45",
-    "dateEnd": "04/04/2026 07:21:45",
-    "lastUpdate": "03/04/2026 07:21:46",
-    "postalCode": "57482",
-    "city": "Wenden",
-    "district": "Olpe",
-    "street": "Lerchenweg",
-    "radius": null,
-    "coordinates": "7.815347,50.979313",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Wenden"
-  },
-  {
     "id": 6154356,
     "operatorId": 132,
     "type": 10,
@@ -9360,24 +9342,6 @@
     "operatorName": "Rathaus Wahlstedt"
   },
   {
-    "id": 6126633,
-    "operatorId": 5182,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:23:17",
-    "dateEnd": "04/04/2026 07:23:17",
-    "lastUpdate": "03/04/2026 07:23:18",
-    "postalCode": "57482",
-    "city": "Wenden",
-    "district": "Olpe",
-    "street": "Lerchenweg",
-    "radius": null,
-    "coordinates": "7.814581,50.979366",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Wenden"
-  },
-  {
     "id": 6140287,
     "operatorId": 237,
     "type": 10,
@@ -9502,24 +9466,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
-  },
-  {
-    "id": 6126641,
-    "operatorId": 5182,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:35:08",
-    "dateEnd": "04/04/2026 07:35:08",
-    "lastUpdate": "03/04/2026 07:35:09",
-    "postalCode": "57482",
-    "city": "Wenden",
-    "district": "Olpe",
-    "street": "Auf den Wieden",
-    "radius": null,
-    "coordinates": "7.813594,50.978893",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Wenden"
   },
   {
     "id": 6132397,
@@ -9738,24 +9684,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6141118,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/01/2026 05:19:42",
-    "dateEnd": "05/01/2026 05:19:42",
-    "lastUpdate": "04/01/2026 05:19:43",
-    "postalCode": "67734",
-    "city": "Katzweiler",
-    "district": "",
-    "street": "Wilhelm-Gruber-Str.",
-    "radius": null,
-    "coordinates": "7.695299,49.504511",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6141296,
     "operatorId": 237,
     "type": 10,
@@ -9790,24 +9718,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6126637,
-    "operatorId": 5182,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:28:27",
-    "dateEnd": "04/04/2026 07:28:27",
-    "lastUpdate": "03/04/2026 07:28:28",
-    "postalCode": "57482",
-    "city": "Wenden",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.813381,50.97796",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Wenden"
   },
   {
     "id": 6138913,
@@ -11628,24 +11538,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6126691,
-    "operatorId": 5394,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:56:54",
-    "dateEnd": "04/04/2026 07:56:54",
-    "lastUpdate": "03/04/2026 07:56:54",
-    "postalCode": "07819",
-    "city": "Triptis",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "11.848051,50.761013",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "VG Triptis"
-  },
-  {
     "id": 6140280,
     "operatorId": 237,
     "type": 10,
@@ -13066,6 +12958,24 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Energieservice Rhein-Main GmbH"
+  },
+  {
+    "id": 6156477,
+    "operatorId": 344,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/29/2026 07:14:10",
+    "dateEnd": "05/29/2026 07:14:10",
+    "lastUpdate": "04/29/2026 07:14:10",
+    "postalCode": "49453",
+    "city": "Barver",
+    "district": "Diepholz",
+    "street": "Morgenland",
+    "radius": null,
+    "coordinates": "8.629858,52.615485",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
     "id": 6119723,
@@ -21780,24 +21690,6 @@
     "operatorName": "Gemeinde Hasbergen"
   },
   {
-    "id": 6141119,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/01/2026 05:50:52",
-    "dateEnd": "05/01/2026 05:50:52",
-    "lastUpdate": "04/01/2026 05:50:52",
-    "postalCode": "67308",
-    "city": "Einselthum",
-    "district": "",
-    "street": "Im Schönnagel",
-    "radius": null,
-    "coordinates": "8.126941,49.648883",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6153836,
     "operatorId": 237,
     "type": 10,
@@ -24048,6 +23940,24 @@
     "operatorName": "Syna GmbH"
   },
   {
+    "id": 6156606,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/29/2026 08:26:51",
+    "dateEnd": "05/29/2026 08:26:51",
+    "lastUpdate": "04/29/2026 08:26:50",
+    "postalCode": "54421",
+    "city": "Reinsfeld",
+    "district": "Reinsfeld",
+    "street": "Wiesenstr.",
+    "radius": null,
+    "coordinates": "6.870121233328;49.680926853398",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
     "id": 6152622,
     "operatorId": 237,
     "type": 10,
@@ -25108,24 +25018,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Duderstadt"
-  },
-  {
-    "id": 6126581,
-    "operatorId": 4660,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 05:10:07",
-    "dateEnd": "04/04/2026 05:10:07",
-    "lastUpdate": "03/04/2026 05:10:07",
-    "postalCode": "03130",
-    "city": "Spremberg",
-    "district": "Spree-Neiße - Sprjewja-Nysa",
-    "street": "Senftenberger Straße",
-    "radius": null,
-    "coordinates": "14.351538,51.56279",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Städtische Werke Spremberg (Lausitz) GmbH "
   },
   {
     "id": 6142330,
@@ -27810,24 +27702,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6141127,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/01/2026 07:18:01",
-    "dateEnd": "05/01/2026 07:18:01",
-    "lastUpdate": "04/01/2026 07:18:01",
-    "postalCode": "76829",
-    "city": "Leinsweiler",
-    "district": "Südliche Weinstraße",
-    "street": "Trifelsstraße",
-    "radius": null,
-    "coordinates": "8.011357,49.18561",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6151646,
     "operatorId": 402,
     "type": 10,
@@ -28438,24 +28312,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6126642,
-    "operatorId": 5182,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:37:06",
-    "dateEnd": "04/04/2026 07:37:06",
-    "lastUpdate": "03/04/2026 07:37:06",
-    "postalCode": "57482",
-    "city": "Wenden",
-    "district": "Olpe",
-    "street": "Lerchenweg",
-    "radius": null,
-    "coordinates": "7.814551,50.97862",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Wenden"
   },
   {
     "id": 6130321,
@@ -31282,24 +31138,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6126586,
-    "operatorId": 3724,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 05:48:47",
-    "dateEnd": "04/04/2026 05:48:47",
-    "lastUpdate": "03/04/2026 05:48:47",
-    "postalCode": "56814",
-    "city": "Landkern",
-    "district": "Cochem-Zell",
-    "street": "Brunnenstraße",
-    "radius": null,
-    "coordinates": "7.15579,50.1964",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Verbandsgemeinde Kaisersesch"
   },
   {
     "id": 6127849,
@@ -35728,24 +35566,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6126640,
-    "operatorId": 5182,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/04/2026 07:32:52",
-    "dateEnd": "04/04/2026 07:32:52",
-    "lastUpdate": "03/04/2026 07:32:53",
-    "postalCode": "57482",
-    "city": "Wenden",
-    "district": "Olpe",
-    "street": "Lerchenweg",
-    "radius": null,
-    "coordinates": "7.813974,50.979446",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Wenden"
   },
   {
     "id": 6145991,
