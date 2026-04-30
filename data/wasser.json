@@ -144,24 +144,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6155926,
-    "operatorId": 373,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "04/29/2026 09:00:00",
-    "dateEnd": "04/29/2026 10:00:00",
-    "lastUpdate": "04/28/2026 13:16:53",
-    "postalCode": "58455",
-    "city": "Witten",
-    "district": null,
-    "street": "Brückenkamp, 58455 Witten, Deutschland",
-    "radius": 100,
-    "coordinates": "7.2911452,51.4315556",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Witten GmbH"
-  },
-  {
     "id": 6156272,
     "operatorId": 132,
     "type": 1,
@@ -250,5 +232,23 @@
     "liveInfo": "Dringende Wartungsarbeiten!!!",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6157394,
+    "operatorId": 186,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "04/30/2026 11:26:17",
+    "dateEnd": "04/30/2026 16:24:00",
+    "lastUpdate": "04/30/2026 11:26:17",
+    "postalCode": "38444",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Dresdener Ring 51, 38444 Wolfsburg, Deutschland",
+    "radius": 500,
+    "coordinates": "10.73476,52.4021457",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
