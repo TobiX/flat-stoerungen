@@ -5256,24 +5256,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6127850,
-    "operatorId": 4450,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/05/2026 16:48:57",
-    "dateEnd": "04/05/2026 16:48:57",
-    "lastUpdate": "03/05/2026 16:51:06",
-    "postalCode": "29410",
-    "city": "Salzwedel",
-    "district": "Altmarkkreis Salzwedel",
-    "street": "Neutorstraße",
-    "radius": null,
-    "coordinates": "11.151488,52.847167",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Hansestadt Salzwedel"
-  },
-  {
     "id": 6127963,
     "operatorId": 1990,
     "type": 10,

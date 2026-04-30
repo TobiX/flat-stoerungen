@@ -108,24 +108,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6155305,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "04/29/2026 12:00:00",
-    "dateEnd": "04/29/2026 16:00:00",
-    "lastUpdate": "04/27/2026 14:10:00",
-    "postalCode": "38327",
-    "city": "Semmenstedt",
-    "district": null,
-    "street": "Pommernweg, 38327 Remlingen-Semmenstedt, Deutschland",
-    "radius": 500,
-    "coordinates": "10.7015062,52.0924031",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6156272,
     "operatorId": 132,
     "type": 1,
