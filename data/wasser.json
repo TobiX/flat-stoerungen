@@ -126,24 +126,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6156443,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "04/29/2026 02:51:00",
-    "dateEnd": "04/29/2026 17:00:00",
-    "lastUpdate": "04/29/2026 17:34:22",
-    "postalCode": "95445",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5533734,49.9422766",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 29.04.2026 15:00\nMonteur informiert um 29.04.2026 02:54\nMonteur vor Ort seit 29.04.2026 03:15\nStandort Notwasser: Am Hetzennest 2, Bayreuth, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6156978,
     "operatorId": 132,
     "type": 1,

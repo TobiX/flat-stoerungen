@@ -40228,5 +40228,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6157548,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "04/30/2026 19:46:08",
+    "dateEnd": "05/30/2026 19:46:08",
+    "lastUpdate": "04/30/2026 19:46:08",
+    "postalCode": "61440",
+    "city": "Oberursel (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.575367;50.18892",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
