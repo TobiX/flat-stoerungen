@@ -126,24 +126,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6155362,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "04/29/2026 09:30:00",
-    "dateEnd": "04/29/2026 13:30:00",
-    "lastUpdate": "04/27/2026 15:11:13",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Bielefelder Str., 33790 Halle (Westfalen), Deutschland",
-    "radius": 250,
-    "coordinates": "8.3741883,52.0530566",
-    "liveInfo": "Kundeninformation/Wasserabstellung\nDie TWO muss wegen dringender Arbeiten am Versorgungsnetz bzw. Hausanschluss  \ndas Wasser abstellen. \n\nBetroffene Häuser:\n[Straße] [Nr.] Bielefelderstr.: 3-36\n\nNach der Wiederinbetriebnahme kann es zu Trübungen und Druckschwankungen kommen.\nWir bitten um Ihr Verständnis.\n\nT.W.O. Technische Werke Osning GmbH\n",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6156272,
     "operatorId": 132,
     "type": 1,
