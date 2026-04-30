@@ -144,24 +144,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6155772,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "04/28/2026 09:09:49",
-    "dateEnd": "04/28/2026 23:59:00",
-    "lastUpdate": "04/28/2026 09:09:50",
-    "postalCode": "46049",
-    "city": "Oberhausen",
-    "district": null,
-    "street": "Obermeidericher Str. 55, 46049 Oberhausen, Deutschland",
-    "radius": 700,
-    "coordinates": "6.8172381,51.4652453",
-    "liveInfo": "Rohrbruch an der Hauptwasserleitung. Betroffen von der vorübergehenden Unterbrechung der Wasserversorgung ist die Obermeidericher Straße 1 bis 55 und die Flügelstraße 1 + 2. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
     "id": 6155926,
     "operatorId": 373,
     "type": 2,
