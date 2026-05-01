@@ -17154,24 +17154,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6142867,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/03/2026 09:18:37",
-    "dateEnd": "05/03/2026 09:18:37",
-    "lastUpdate": "04/03/2026 09:18:36",
-    "postalCode": "54552",
-    "city": "Mehren",
-    "district": "Landkreis Vulkaneifel",
-    "street": "Radbüschstraße",
-    "radius": null,
-    "coordinates": "6.8751279933839555,50.18211198123137",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6142874,
     "operatorId": 422,
     "type": 10,
@@ -40336,5 +40318,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6157623,
+    "operatorId": 3950,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/01/2026 09:47:07",
+    "dateEnd": "06/01/2026 09:47:07",
+    "lastUpdate": "05/01/2026 09:47:08",
+    "postalCode": "59494",
+    "city": "Soest",
+    "district": "Soest",
+    "street": "Maastrichter Weg",
+    "radius": null,
+    "coordinates": "8.126688,51.566987",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Soest"
   }
 ]
