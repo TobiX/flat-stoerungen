@@ -5526,24 +5526,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6128502,
-    "operatorId": 2167,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/07/2026 00:12:27",
-    "dateEnd": "04/07/2026 00:12:27",
-    "lastUpdate": "03/07/2026 00:12:27",
-    "postalCode": "57439",
-    "city": "Attendorn",
-    "district": "Olpe",
-    "street": "Hunnebrink",
-    "radius": null,
-    "coordinates": "7.843924,51.15576",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Attendorn"
-  },
-  {
     "id": 6128527,
     "operatorId": 1919,
     "type": 10,
