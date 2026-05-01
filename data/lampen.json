@@ -36108,24 +36108,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6154158,
-    "operatorId": 302,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/24/2026 11:21:29",
-    "dateEnd": "05/24/2026 11:21:29",
-    "lastUpdate": "04/24/2026 11:21:29",
-    "postalCode": "58515",
-    "city": "Lüdenscheid",
-    "district": "",
-    "street": "Paulmannshöher Str.",
-    "radius": null,
-    "coordinates": "7.660386,51.207408",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ENERVIE Vernetzt GmbH"
-  },
-  {
     "id": 6154173,
     "operatorId": 237,
     "type": 10,
@@ -40336,5 +40318,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Soest"
+  },
+  {
+    "id": 6157689,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/01/2026 12:20:40",
+    "dateEnd": "06/01/2026 12:20:40",
+    "lastUpdate": "05/01/2026 12:20:40",
+    "postalCode": "54666",
+    "city": "Irrel",
+    "district": "Irrel",
+    "street": "Ewerhartstr.",
+    "radius": null,
+    "coordinates": "6.453527601286;49.845188916288",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6157691,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/01/2026 12:30:34",
+    "dateEnd": "06/01/2026 12:30:34",
+    "lastUpdate": "05/01/2026 12:30:34",
+    "postalCode": "54666",
+    "city": "Irrel",
+    "district": "Irrel",
+    "street": "Prümzurlayer Str.",
+    "radius": null,
+    "coordinates": "6.452986372642;49.846901710822",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
