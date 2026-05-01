@@ -5526,24 +5526,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6128449,
-    "operatorId": 3892,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/06/2026 17:59:02",
-    "dateEnd": "04/06/2026 17:59:02",
-    "lastUpdate": "03/06/2026 17:59:02",
-    "postalCode": "57072",
-    "city": "Siegen",
-    "district": "Siegen",
-    "street": "Hirtengasse",
-    "radius": null,
-    "coordinates": "8.028298,50.873832",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Siegen"
-  },
-  {
     "id": 6128455,
     "operatorId": 3163,
     "type": 10,
