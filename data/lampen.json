@@ -40120,5 +40120,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6157763,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/01/2026 23:56:47",
+    "dateEnd": "06/01/2026 23:56:47",
+    "lastUpdate": "05/01/2026 23:56:51",
+    "postalCode": "35792",
+    "city": "Löhnberg",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.262495;50.535921",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6157764,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/01/2026 23:57:48",
+    "dateEnd": "06/01/2026 23:57:48",
+    "lastUpdate": "05/01/2026 23:57:52",
+    "postalCode": "35792",
+    "city": "Löhnberg",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.262381;50.53647",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
