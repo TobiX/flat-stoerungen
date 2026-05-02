@@ -39976,5 +39976,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6157997,
+    "operatorId": 290,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/03/2026 00:26:25",
+    "dateEnd": "06/03/2026 00:26:25",
+    "lastUpdate": "05/03/2026 00:26:25",
+    "postalCode": "41363",
+    "city": "Jüchen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.507597,51.109700",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "NEW Netz GmbH"
+  },
+  {
+    "id": 6157998,
+    "operatorId": 222,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/03/2026 00:27:15",
+    "dateEnd": "06/03/2026 00:27:15",
+    "lastUpdate": "05/03/2026 00:27:14",
+    "postalCode": "33615",
+    "city": "Bielefeld",
+    "district": "Bielefeld",
+    "street": "Große-Kurfürsten-Straße",
+    "radius": null,
+    "coordinates": "8.523269,52.025548",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
