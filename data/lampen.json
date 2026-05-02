@@ -17334,24 +17334,6 @@
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   },
   {
-    "id": 6143102,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/04/2026 07:27:00",
-    "dateEnd": "05/04/2026 07:27:00",
-    "lastUpdate": "04/04/2026 07:27:00",
-    "postalCode": "54634",
-    "city": "Bitburg",
-    "district": "Bitburg",
-    "street": "ZZ-Fußweg Denkm.Str/Freib.",
-    "radius": null,
-    "coordinates": "6.52711018;49.97293928",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6143198,
     "operatorId": 3460,
     "type": 10,
