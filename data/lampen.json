@@ -5526,24 +5526,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6128527,
-    "operatorId": 1919,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/07/2026 08:16:54",
-    "dateEnd": "04/07/2026 08:16:54",
-    "lastUpdate": "03/07/2026 08:16:54",
-    "postalCode": "31141",
-    "city": "Hildesheim",
-    "district": "Hildesheim",
-    "street": "Am Kuhanger",
-    "radius": null,
-    "coordinates": "9.9689,52.12942",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Hildesheim"
-  },
-  {
     "id": 6128546,
     "operatorId": 2919,
     "type": 10,
