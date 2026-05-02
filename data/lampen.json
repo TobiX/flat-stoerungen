@@ -40228,5 +40228,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6157938,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/02/2026 16:51:14",
+    "dateEnd": "06/02/2026 16:51:14",
+    "lastUpdate": "05/02/2026 16:51:14",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Menden-Holthausen",
+    "street": "Rumbachtal",
+    "radius": null,
+    "coordinates": "6.9200668;51.42286",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
