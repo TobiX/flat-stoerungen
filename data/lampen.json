@@ -5526,24 +5526,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6128655,
-    "operatorId": 5046,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/07/2026 18:56:22",
-    "dateEnd": "04/07/2026 18:56:22",
-    "lastUpdate": "03/07/2026 18:56:21",
-    "postalCode": "74229",
-    "city": "Oedheim",
-    "district": "Heilbronn",
-    "street": "Adolf-Mantz-Straße",
-    "radius": null,
-    "coordinates": "9.287793,49.249435",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Oedheim"
-  },
-  {
     "id": 6128667,
     "operatorId": 2262,
     "type": 10,
