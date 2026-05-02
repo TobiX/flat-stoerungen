@@ -5526,24 +5526,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6128546,
-    "operatorId": 2919,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/07/2026 12:10:33",
-    "dateEnd": "04/07/2026 12:10:33",
-    "lastUpdate": "03/07/2026 12:10:35",
-    "postalCode": "53937",
-    "city": "Schleiden",
-    "district": "Euskirchen",
-    "street": "Höhenweg",
-    "radius": null,
-    "coordinates": "6.467482,50.53401",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "e-regio GmbH & Co. KG"
-  },
-  {
     "id": 6128655,
     "operatorId": 5046,
     "type": 10,
