@@ -40210,5 +40210,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6157805,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/02/2026 10:47:28",
+    "dateEnd": "06/02/2026 10:47:28",
+    "lastUpdate": "05/02/2026 10:47:13",
+    "postalCode": "54296",
+    "city": "Trier",
+    "district": "Stadt Trier",
+    "street": "Am Gottbach",
+    "radius": null,
+    "coordinates": "6.698071165675117,49.72907848134034",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
