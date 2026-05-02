@@ -17316,24 +17316,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6143080,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/04/2026 01:54:41",
-    "dateEnd": "05/04/2026 01:54:41",
-    "lastUpdate": "04/04/2026 01:54:42",
-    "postalCode": "66904",
-    "city": "Brücken (Pfalz)",
-    "district": "",
-    "street": "Glanstr.",
-    "radius": null,
-    "coordinates": "7.364248,49.432444",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6143092,
     "operatorId": 1782,
     "type": 10,
