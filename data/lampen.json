@@ -17406,24 +17406,6 @@
     "operatorName": "Gemeinde Liebenburg"
   },
   {
-    "id": 6143442,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/06/2026 00:01:54",
-    "dateEnd": "05/06/2026 00:01:54",
-    "lastUpdate": "04/06/2026 00:01:54",
-    "postalCode": "67434",
-    "city": "Neustadt an der Weinstraße",
-    "district": "Neustadt an der Weinstraße",
-    "street": "Sternbergstraße",
-    "radius": null,
-    "coordinates": "8.130658,49.323982",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6143444,
     "operatorId": 237,
     "type": 10,
