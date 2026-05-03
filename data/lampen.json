@@ -39994,5 +39994,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6158137,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/03/2026 10:55:19",
+    "dateEnd": "06/03/2026 10:55:19",
+    "lastUpdate": "05/03/2026 10:55:16",
+    "postalCode": "57392",
+    "city": "Schmallenberg",
+    "district": "Bracht",
+    "street": "Bachstraße",
+    "radius": null,
+    "coordinates": "8.167141428868;51.166899237631",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
