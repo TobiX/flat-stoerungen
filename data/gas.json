@@ -592,23 +592,5 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6157845,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "05/02/2026 14:10:30",
-    "dateEnd": null,
-    "lastUpdate": "05/02/2026 15:11:15",
-    "postalCode": "59964",
-    "city": "Medebach",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.703426743197369,51.196968999999996",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]

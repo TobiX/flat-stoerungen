@@ -40066,5 +40066,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6158237,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/03/2026 17:33:23",
+    "dateEnd": "06/03/2026 17:33:23",
+    "lastUpdate": "05/03/2026 17:33:24",
+    "postalCode": "52388",
+    "city": "Nörvenich",
+    "district": "Nörvenich",
+    "street": "Schillerstr.",
+    "radius": null,
+    "coordinates": "6.6401486;50.8110344",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
