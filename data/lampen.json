@@ -40012,5 +40012,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6158245,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/03/2026 19:10:09",
+    "dateEnd": "06/03/2026 19:10:09",
+    "lastUpdate": "05/03/2026 19:10:09",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.544153;50.154191",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6158256,
+    "operatorId": 222,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/03/2026 19:50:07",
+    "dateEnd": "06/03/2026 19:50:07",
+    "lastUpdate": "05/03/2026 19:50:05",
+    "postalCode": "33615",
+    "city": "Bielefeld",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.513361,52.026852",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
