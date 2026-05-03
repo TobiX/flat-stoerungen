@@ -17298,24 +17298,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6143283,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/05/2026 06:33:45",
-    "dateEnd": "05/05/2026 06:33:45",
-    "lastUpdate": "04/05/2026 06:33:45",
-    "postalCode": "54313",
-    "city": "Zemmer",
-    "district": "Zemmer",
-    "street": "Gihrenstr.",
-    "radius": null,
-    "coordinates": "6.700282;49.8937226",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6143286,
     "operatorId": 237,
     "type": 10,
@@ -36106,24 +36088,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6154653,
-    "operatorId": 302,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 07:58:38",
-    "dateEnd": "05/26/2026 07:58:38",
-    "lastUpdate": "04/26/2026 07:58:39",
-    "postalCode": "58509",
-    "city": "Lüdenscheid",
-    "district": "",
-    "street": "Heedfelder Str.",
-    "radius": null,
-    "coordinates": "7.610046,51.236488",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ENERVIE Vernetzt GmbH"
   },
   {
     "id": 6154655,
