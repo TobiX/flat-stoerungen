@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6158804,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/04/2026 06:52:54",
+    "dateEnd": null,
+    "lastUpdate": "05/04/2026 08:45:04",
+    "postalCode": "55425",
+    "city": "Waldalgesheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.83499849237476,49.953631",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
