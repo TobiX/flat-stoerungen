@@ -40210,5 +40210,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "e-regio GmbH & Co. KG"
+  },
+  {
+    "id": 6158789,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/04/2026 06:00:58",
+    "dateEnd": "06/04/2026 06:00:58",
+    "lastUpdate": "05/04/2026 06:00:59",
+    "postalCode": "56589",
+    "city": "Niederbreitbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.418128;50.526022",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
