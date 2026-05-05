@@ -23,8 +23,8 @@
     "type": 1,
     "origin": 5,
     "dateStart": "05/05/2026 09:46:14",
-    "dateEnd": null,
-    "lastUpdate": "05/05/2026 11:00:57",
+    "dateEnd": "05/05/2026 17:44:50",
+    "lastUpdate": "05/05/2026 17:44:50",
     "postalCode": "50169",
     "city": "Kerpen",
     "district": null,
@@ -32,7 +32,7 @@
     "radius": null,
     "coordinates": "6.710091736546669,50.9160185",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -52,5 +52,23 @@
     "liveInfo": "Dringende Wartungsarbeiten!!!",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6160262,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/05/2026 17:06:31",
+    "dateEnd": null,
+    "lastUpdate": "05/05/2026 17:44:50",
+    "postalCode": "45739",
+    "city": "Oer-Erkenschwick",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.236627979128015,51.6452135",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
