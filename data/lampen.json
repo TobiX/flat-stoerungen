@@ -18072,24 +18072,6 @@
     "operatorName": "ELE Verteilnetz GmbH"
   },
   {
-    "id": 6144736,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/09/2026 00:48:09",
-    "dateEnd": "05/09/2026 00:48:09",
-    "lastUpdate": "04/09/2026 00:48:10",
-    "postalCode": "33609",
-    "city": "Bielefeld",
-    "district": "Kreisfreie Stadt Bielefeld",
-    "street": "Jungbrunnenweg",
-    "radius": null,
-    "coordinates": "8.595205,52.045766",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6144755,
     "operatorId": 132,
     "type": 10,
@@ -39544,5 +39526,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6161411,
+    "operatorId": 2002,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/07/2026 00:29:50",
+    "dateEnd": "06/07/2026 00:29:50",
+    "lastUpdate": "05/07/2026 00:29:50",
+    "postalCode": "53757",
+    "city": "Sankt Augustin",
+    "district": "Rhein-Sieg-Kreis",
+    "street": "Brückenstraße",
+    "radius": null,
+    "coordinates": "7.225864,50.784717",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bauhof Sankt Augustin"
   }
 ]
