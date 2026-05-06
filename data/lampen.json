@@ -6084,42 +6084,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6130950,
-    "operatorId": 1928,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/11/2026 18:56:09",
-    "dateEnd": "04/11/2026 18:56:09",
-    "lastUpdate": "03/11/2026 18:56:09",
-    "postalCode": "45661",
-    "city": "Recklinghausen",
-    "district": "Recklinghausen",
-    "street": "Senghorst",
-    "radius": null,
-    "coordinates": "7.190549,51.566676",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
-  },
-  {
-    "id": 6130998,
-    "operatorId": 1922,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/11/2026 19:44:37",
-    "dateEnd": "04/11/2026 19:44:37",
-    "lastUpdate": "03/11/2026 19:44:37",
-    "postalCode": "44879",
-    "city": "Bochum",
-    "district": "Bochum",
-    "street": "Axstraße",
-    "radius": null,
-    "coordinates": "7.156127,51.425747",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Bochum"
-  },
-  {
     "id": 6131000,
     "operatorId": 237,
     "type": 10,
@@ -39400,5 +39364,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6161303,
+    "operatorId": 315,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/06/2026 19:14:53",
+    "dateEnd": "06/06/2026 19:14:53",
+    "lastUpdate": "05/06/2026 19:14:53",
+    "postalCode": "47198",
+    "city": "Duisburg",
+    "district": "Duisburg",
+    "street": "Eisenstraße",
+    "radius": null,
+    "coordinates": "6.695863,51.44819",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Netze Duisburg GmbH"
   }
 ]
