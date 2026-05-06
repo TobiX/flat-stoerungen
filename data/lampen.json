@@ -39382,5 +39382,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6161193,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/06/2026 18:12:20",
+    "dateEnd": "06/06/2026 18:12:20",
+    "lastUpdate": "05/06/2026 18:12:20",
+    "postalCode": "71409",
+    "city": "Schwaikheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.345323;48.872115",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

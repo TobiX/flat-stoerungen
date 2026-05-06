@@ -90,24 +90,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6159778,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "05/05/2026 08:22:00",
-    "dateEnd": "05/05/2026 16:00:00",
-    "lastUpdate": "05/05/2026 08:23:15",
-    "postalCode": "37444",
-    "city": "Braunlage",
-    "district": null,
-    "street": "37444 Braunlage-St. Andreasberg, Deutschland",
-    "radius": 1000,
-    "coordinates": "10.5234651,51.7151206",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6159846,
     "operatorId": 3311,
     "type": 2,
