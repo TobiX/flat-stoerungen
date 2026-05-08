@@ -18504,24 +18504,6 @@
     "operatorName": "energis-Netzgesellschaft mbH"
   },
   {
-    "id": 6145266,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/10/2026 03:00:41",
-    "dateEnd": "05/10/2026 03:00:41",
-    "lastUpdate": "04/10/2026 03:00:41",
-    "postalCode": "42781",
-    "city": "Haan",
-    "district": "Haan",
-    "street": "Falkenweg",
-    "radius": null,
-    "coordinates": "7.004987263061;51.196822323863",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6145346,
     "operatorId": 368,
     "type": 10,
