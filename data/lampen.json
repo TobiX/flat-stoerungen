@@ -38752,5 +38752,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Energieversorgung Halle Netz GmbH"
+  },
+  {
+    "id": 6162666,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/09/2026 00:35:42",
+    "dateEnd": "06/09/2026 00:35:42",
+    "lastUpdate": "05/09/2026 00:35:43",
+    "postalCode": "45473",
+    "city": "Mülheim an der Ruhr",
+    "district": "Mülheim an der Ruhr",
+    "street": "Otto-Hahn-Straße",
+    "radius": null,
+    "coordinates": "6.914920753465566,51.442622231782536",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
