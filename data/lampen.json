@@ -1,41 +1,5 @@
 [
   {
-    "id": 6117402,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/15/2026 00:30:35",
-    "dateEnd": "03/15/2026 00:30:35",
-    "lastUpdate": "02/15/2026 00:30:35",
-    "postalCode": "71522",
-    "city": "Backnang",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.430986;48.946839",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6117403,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/15/2026 00:56:31",
-    "dateEnd": "03/15/2026 00:56:31",
-    "lastUpdate": "02/15/2026 00:56:32",
-    "postalCode": "65719",
-    "city": "Hofheim am Taunus",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.436662;50.074756",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6117518,
     "operatorId": 237,
     "type": 10,
@@ -6046,24 +6010,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6132681,
-    "operatorId": 4870,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/15/2026 00:47:26",
-    "dateEnd": "04/15/2026 00:47:26",
-    "lastUpdate": "03/15/2026 00:47:26",
-    "postalCode": "78532",
-    "city": "Tuttlingen",
-    "district": "Tuttlingen",
-    "street": "Liptinger Straße",
-    "radius": null,
-    "coordinates": "8.83104,47.97458",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Tuttlingen"
   },
   {
     "id": 6132728,
@@ -38410,5 +38356,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Gemeinde Kronshagen"
+  },
+  {
+    "id": 6162859,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/10/2026 01:03:14",
+    "dateEnd": "06/10/2026 01:03:14",
+    "lastUpdate": "05/10/2026 01:03:13",
+    "postalCode": "55487",
+    "city": "Laufersweiler",
+    "district": "Rhein-Hunsrück-Kreis",
+    "street": "Sonnenstraße",
+    "radius": null,
+    "coordinates": "7.3013488178337695,49.8944664549864",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
