@@ -6120,24 +6120,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6132614,
-    "operatorId": 2262,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/14/2026 17:12:40",
-    "dateEnd": "04/14/2026 17:12:40",
-    "lastUpdate": "03/14/2026 17:12:41",
-    "postalCode": "37075",
-    "city": "Göttingen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.957843,51.547120",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Göttingen"
-  },
-  {
     "id": 6132629,
     "operatorId": 3385,
     "type": 10,
@@ -18016,24 +17998,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bauverwaltung Friedrichroda"
-  },
-  {
-    "id": 6145955,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/11/2026 17:45:33",
-    "dateEnd": "05/11/2026 17:45:33",
-    "lastUpdate": "04/11/2026 17:45:33",
-    "postalCode": "54313",
-    "city": "Zemmer",
-    "district": "Daufenbach",
-    "street": "Bergstr.",
-    "radius": null,
-    "coordinates": "6.6414965;49.8772941",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6145975,
@@ -38770,5 +38734,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Gemeinde Schorfheide"
+  },
+  {
+    "id": 6162814,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/09/2026 17:42:28",
+    "dateEnd": "06/09/2026 17:42:28",
+    "lastUpdate": "05/09/2026 17:42:28",
+    "postalCode": "46284",
+    "city": "Dorsten",
+    "district": "Hervest",
+    "street": "An der Windmühle",
+    "radius": null,
+    "coordinates": "7.011156022145;51.675570348110",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
