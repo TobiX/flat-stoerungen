@@ -6102,24 +6102,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6132525,
-    "operatorId": 1990,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/14/2026 03:12:27",
-    "dateEnd": "04/14/2026 03:12:27",
-    "lastUpdate": "03/14/2026 03:12:28",
-    "postalCode": "22041",
-    "city": "Hamburg",
-    "district": null,
-    "street": "Rantzaustraße",
-    "radius": null,
-    "coordinates": "10.066523,53.56803",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Hamburg Verkehrsanlagen GmbH"
-  },
-  {
     "id": 6132540,
     "operatorId": null,
     "type": 10,
@@ -38770,5 +38752,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6162683,
+    "operatorId": 1928,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/09/2026 03:26:34",
+    "dateEnd": "06/09/2026 03:26:34",
+    "lastUpdate": "05/09/2026 03:26:33",
+    "postalCode": "45663",
+    "city": "Recklinghausen",
+    "district": "Kreis Recklinghausen",
+    "street": "Otto-Wels-Straße",
+    "radius": null,
+    "coordinates": "7.230315,51.56995",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
   }
 ]
