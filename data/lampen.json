@@ -38752,5 +38752,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6162752,
+    "operatorId": 1938,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/09/2026 11:21:29",
+    "dateEnd": "06/09/2026 11:21:29",
+    "lastUpdate": "05/09/2026 11:21:30",
+    "postalCode": "16244",
+    "city": "Schorfheide",
+    "district": "Barnim",
+    "street": "Biesenthaler Straße",
+    "radius": null,
+    "coordinates": "13.672530,52.834999",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Schorfheide"
   }
 ]
