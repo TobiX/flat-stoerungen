@@ -6102,24 +6102,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6132540,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/14/2026 06:26:33",
-    "dateEnd": "04/14/2026 06:26:33",
-    "lastUpdate": "03/14/2026 06:26:33",
-    "postalCode": "36142",
-    "city": "Tann (Rhön)",
-    "district": "Fulda",
-    "street": "Kleine Marktstraße",
-    "radius": null,
-    "coordinates": "10.022862,50.64247",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6132568,
     "operatorId": 4009,
     "type": 10,
@@ -17980,24 +17962,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Wolfsburg"
-  },
-  {
-    "id": 6145754,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/11/2026 06:23:55",
-    "dateEnd": "05/11/2026 06:23:55",
-    "lastUpdate": "04/11/2026 06:23:55",
-    "postalCode": "53909",
-    "city": "Zülpich",
-    "district": "Euskirchen",
-    "street": "Im Knekel",
-    "radius": null,
-    "coordinates": "6.627633441209724,50.70489502756189",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6145808,
