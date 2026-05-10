@@ -6048,24 +6048,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6132797,
-    "operatorId": 2282,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/15/2026 14:27:00",
-    "dateEnd": "04/15/2026 14:27:00",
-    "lastUpdate": "03/15/2026 14:18:37",
-    "postalCode": "47495",
-    "city": "Rheinberg",
-    "district": "Wesel",
-    "street": "Vallanstraße",
-    "radius": null,
-    "coordinates": "6.604184,51.54222",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Rheinberg"
-  },
-  {
     "id": 6132801,
     "operatorId": 3410,
     "type": 10,
