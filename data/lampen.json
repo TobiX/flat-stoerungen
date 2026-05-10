@@ -38374,5 +38374,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6162865,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/10/2026 06:23:24",
+    "dateEnd": "06/10/2026 06:23:24",
+    "lastUpdate": "05/10/2026 06:23:16",
+    "postalCode": "61440",
+    "city": "Oberursel (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.577188;50.209225",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6162870,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/10/2026 07:09:58",
+    "dateEnd": "06/10/2026 07:09:58",
+    "lastUpdate": "05/10/2026 07:09:56",
+    "postalCode": "55487",
+    "city": "Laufersweiler",
+    "district": "Laufersweiler",
+    "street": "Sonnenstraße",
+    "radius": null,
+    "coordinates": "7.3019312;49.8948467",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
