@@ -6030,24 +6030,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6132735,
-    "operatorId": 2103,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/15/2026 10:08:59",
-    "dateEnd": "04/15/2026 10:08:59",
-    "lastUpdate": "03/15/2026 10:08:59",
-    "postalCode": "99092",
-    "city": "Erfurt",
-    "district": "Erfurt",
-    "street": "Am Peterborn",
-    "radius": null,
-    "coordinates": "10.98138,50.97442",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Landeshauptstadt Erfurt"
-  },
-  {
     "id": 6132783,
     "operatorId": 237,
     "type": 10,
@@ -17944,24 +17926,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
-  },
-  {
-    "id": 6146079,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/12/2026 10:14:49",
-    "dateEnd": "05/12/2026 10:14:49",
-    "lastUpdate": "04/12/2026 10:14:48",
-    "postalCode": "54439",
-    "city": "Palzem",
-    "district": "Palzem",
-    "street": "Friedens Aue",
-    "radius": null,
-    "coordinates": "6.37043393;49.56673503",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6146133,
@@ -38410,5 +38374,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6162892,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/10/2026 08:47:26",
+    "dateEnd": "06/10/2026 08:47:26",
+    "lastUpdate": "05/10/2026 08:47:27",
+    "postalCode": "56379",
+    "city": "Obernhof",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.854722;50.317245",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
