@@ -6048,24 +6048,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6132801,
-    "operatorId": 3410,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/15/2026 15:20:22",
-    "dateEnd": "04/15/2026 15:20:22",
-    "lastUpdate": "03/15/2026 15:20:22",
-    "postalCode": "42281",
-    "city": "Wuppertal",
-    "district": "Wuppertal",
-    "street": "Zietenstraße",
-    "radius": null,
-    "coordinates": "7.193964,51.28206",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Wuppertal"
-  },
-  {
     "id": 6132808,
     "operatorId": 237,
     "type": 10,
@@ -38194,5 +38176,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6162928,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/10/2026 16:34:58",
+    "dateEnd": "06/10/2026 16:34:58",
+    "lastUpdate": "05/10/2026 16:34:59",
+    "postalCode": "67742",
+    "city": "Lauterecken",
+    "district": "",
+    "street": "Veldenzplatz",
+    "radius": null,
+    "coordinates": "7.592069,49.649076",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
