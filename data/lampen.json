@@ -17910,24 +17910,6 @@
     "operatorName": "Gemeinde Weeze"
   },
   {
-    "id": 6146020,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/12/2026 01:01:00",
-    "dateEnd": "05/12/2026 01:01:00",
-    "lastUpdate": "04/12/2026 01:01:00",
-    "postalCode": "57234",
-    "city": "Wilnsdorf",
-    "district": "Siegen-Wittgenstein",
-    "street": "Bürgerstraße",
-    "radius": null,
-    "coordinates": "8.155559,50.841194",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6146022,
     "operatorId": 483,
     "type": 10,
@@ -38374,5 +38356,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6162861,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/10/2026 02:10:46",
+    "dateEnd": "06/10/2026 02:10:46",
+    "lastUpdate": "05/10/2026 02:10:46",
+    "postalCode": "64546",
+    "city": "Mörfelden-Walldorf",
+    "district": "Groß-Gerau",
+    "street": "Hugenottenstraße",
+    "radius": null,
+    "coordinates": "8.570703,49.996815",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
