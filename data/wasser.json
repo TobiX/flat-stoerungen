@@ -106,5 +106,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6164431,
+    "operatorId": 186,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "05/12/2026 15:37:00",
+    "dateEnd": "05/12/2026 21:00:00",
+    "lastUpdate": "05/12/2026 15:39:10",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Windmühlenbreite 1, 38448 Wolfsburg, Deutschland",
+    "radius": 150,
+    "coordinates": "10.8094159,52.4421816",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
