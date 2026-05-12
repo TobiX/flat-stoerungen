@@ -88,5 +88,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6164089,
+    "operatorId": 1763,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "05/12/2026 08:00:00",
+    "dateEnd": "05/12/2026 16:00:00",
+    "lastUpdate": "05/12/2026 08:22:59",
+    "postalCode": "94227",
+    "city": "Zwiesel",
+    "district": null,
+    "street": "Franz-Betz-Straße 55, 94227 Zwiesel, Deutschland",
+    "radius": 200,
+    "coordinates": "13.2433304,49.0210968",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Zwiesel"
   }
 ]
