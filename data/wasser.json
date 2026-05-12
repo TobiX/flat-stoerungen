@@ -18,24 +18,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6163452,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "05/11/2026 11:12:04",
-    "dateEnd": null,
-    "lastUpdate": "05/11/2026 11:14:18",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.752052473557246,50.965383",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6163519,
     "operatorId": 220,
     "type": 2,
@@ -106,5 +88,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Zwiesel"
+  },
+  {
+    "id": 6164386,
+    "operatorId": 186,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "05/12/2026 13:26:00",
+    "dateEnd": "05/12/2026 18:00:00",
+    "lastUpdate": "05/12/2026 13:28:06",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Örtzestraße 35, 38448 Wolfsburg, Deutschland",
+    "radius": 100,
+    "coordinates": "10.8126026,52.4460181",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
