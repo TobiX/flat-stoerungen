@@ -6102,24 +6102,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6133515,
-    "operatorId": 3619,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/17/2026 02:06:43",
-    "dateEnd": "04/17/2026 02:06:43",
-    "lastUpdate": "03/17/2026 02:06:27",
-    "postalCode": "04442",
-    "city": "Zwenkau",
-    "district": "Leipzig",
-    "street": "Zum Wasserwerk",
-    "radius": null,
-    "coordinates": "12.320982,51.205357",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Zwenkau"
-  },
-  {
     "id": 6133516,
     "operatorId": 237,
     "type": 10,
@@ -6136,24 +6118,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6133561,
-    "operatorId": 4553,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/17/2026 05:32:42",
-    "dateEnd": "04/17/2026 05:32:42",
-    "lastUpdate": "03/17/2026 05:32:43",
-    "postalCode": "15738",
-    "city": "Zeuthen",
-    "district": "Dahme-Spreewald",
-    "street": "Hochlandweg",
-    "radius": null,
-    "coordinates": "13.626621,52.335815",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeindeverwaltung Zeuthen"
   },
   {
     "id": 6133566,
@@ -37924,5 +37888,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6163915,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/12/2026 03:07:28",
+    "dateEnd": "06/12/2026 03:07:28",
+    "lastUpdate": "05/12/2026 03:07:29",
+    "postalCode": "27498",
+    "city": "Helgoland",
+    "district": "Pinneberg",
+    "street": "Steanaker",
+    "radius": null,
+    "coordinates": "7.885810,54.182552",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
