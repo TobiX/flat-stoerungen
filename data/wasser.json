@@ -214,5 +214,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6165047,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/13/2026 14:40:59",
+    "dateEnd": null,
+    "lastUpdate": "05/13/2026 14:44:48",
+    "postalCode": "50127",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.679755972722212,50.9316025",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
