@@ -6318,24 +6318,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6134179,
-    "operatorId": 4598,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/18/2026 02:24:33",
-    "dateEnd": "04/18/2026 02:24:33",
-    "lastUpdate": "03/18/2026 02:24:33",
-    "postalCode": "48249",
-    "city": "Dülmen",
-    "district": "Coesfeld",
-    "street": "Waterfor",
-    "radius": null,
-    "coordinates": "7.275933,51.837994",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtverwaltung Dülmen"
-  },
-  {
     "id": 6134237,
     "operatorId": 290,
     "type": 10,
@@ -38266,5 +38248,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6164569,
+    "operatorId": 2919,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/13/2026 02:48:34",
+    "dateEnd": "06/13/2026 02:48:34",
+    "lastUpdate": "05/13/2026 02:48:34",
+    "postalCode": "53902",
+    "city": "Bad Münstereifel",
+    "district": "Kreis Euskirchen",
+    "street": "Am Bloch",
+    "radius": null,
+    "coordinates": "6.770889,50.582825",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "e-regio GmbH & Co. KG"
   }
 ]
