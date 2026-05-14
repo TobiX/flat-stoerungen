@@ -1,23 +1,5 @@
 [
   {
-    "id": 6119945,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/19/2026 20:18:53",
-    "dateEnd": "03/19/2026 20:18:53",
-    "lastUpdate": "02/19/2026 20:18:53",
-    "postalCode": "65439",
-    "city": "Flörsheim am Main",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.398778;50.002846",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6119976,
     "operatorId": 237,
     "type": 10,
@@ -5866,24 +5848,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6135939,
-    "operatorId": 2134,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/19/2026 20:27:04",
-    "dateEnd": "04/19/2026 20:27:04",
-    "lastUpdate": "03/19/2026 20:27:06",
-    "postalCode": "72768",
-    "city": "Reutlingen",
-    "district": "Reutlingen",
-    "street": "Martin-Knapp-Straße",
-    "radius": null,
-    "coordinates": "9.171698,48.52202",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Reutlingen"
   },
   {
     "id": 6135940,
@@ -37780,5 +37744,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6165424,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/14/2026 20:10:22",
+    "dateEnd": "06/14/2026 20:10:22",
+    "lastUpdate": "05/14/2026 20:10:22",
+    "postalCode": "55430",
+    "city": "Urbar",
+    "district": "Urbar",
+    "street": "Weinstraße",
+    "radius": null,
+    "coordinates": "7.7174593286;50.13042184001",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
