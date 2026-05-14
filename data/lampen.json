@@ -5904,24 +5904,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6135903,
-    "operatorId": 1969,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/19/2026 15:25:43",
-    "dateEnd": "04/19/2026 15:25:43",
-    "lastUpdate": "03/19/2026 15:25:44",
-    "postalCode": "51491",
-    "city": "Overath",
-    "district": "Rheinisch-Bergischer Kreis",
-    "street": "Kölner Straße",
-    "radius": null,
-    "coordinates": "7.319164,50.96168",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AggerEnergie GmbH"
-  },
-  {
     "id": 6135912,
     "operatorId": 237,
     "type": 10,
@@ -17350,24 +17332,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6149086,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/16/2026 16:31:26",
-    "dateEnd": "05/16/2026 16:31:26",
-    "lastUpdate": "04/16/2026 16:31:23",
-    "postalCode": "55606",
-    "city": "Hochstetten-Dhaun",
-    "district": "Dhaun",
-    "street": "Am Bürgerhaus",
-    "radius": null,
-    "coordinates": "7.491293515997;49.81439180415",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6149114,
@@ -37870,5 +37834,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6165399,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/14/2026 15:55:02",
+    "dateEnd": "06/14/2026 15:55:02",
+    "lastUpdate": "05/14/2026 15:55:05",
+    "postalCode": "54413",
+    "city": "Grimburg",
+    "district": "Grimburg",
+    "street": "Graf-Kachel-Str.",
+    "radius": null,
+    "coordinates": "6.8811027;49.6200703",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
