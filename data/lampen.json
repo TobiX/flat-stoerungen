@@ -37528,5 +37528,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6165911,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/16/2026 00:07:01",
+    "dateEnd": "06/16/2026 00:07:01",
+    "lastUpdate": "05/16/2026 00:07:06",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.349388;50.009773",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6165913,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/16/2026 00:55:20",
+    "dateEnd": "06/16/2026 00:55:20",
+    "lastUpdate": "05/16/2026 00:55:20",
+    "postalCode": "65824",
+    "city": "Schwalbach am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.541612;50.145079",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
