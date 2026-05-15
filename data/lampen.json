@@ -1,23 +1,5 @@
 [
   {
-    "id": 6120380,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/20/2026 19:37:36",
-    "dateEnd": "03/20/2026 19:37:36",
-    "lastUpdate": "02/20/2026 19:37:36",
-    "postalCode": "71570",
-    "city": "Oppenweiler",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.457072;48.974103",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6120382,
     "operatorId": 237,
     "type": 10,
