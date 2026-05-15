@@ -70,5 +70,41 @@
     "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6165537,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/15/2026 05:52:28",
+    "dateEnd": null,
+    "lastUpdate": "05/15/2026 06:14:05",
+    "postalCode": "50181",
+    "city": "Bedburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.55209220685656,50.9694535",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6165538,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/15/2026 05:52:28",
+    "dateEnd": null,
+    "lastUpdate": "05/15/2026 06:14:05",
+    "postalCode": "50189",
+    "city": "Elsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.55209220685656,50.9694535",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
