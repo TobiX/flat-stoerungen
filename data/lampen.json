@@ -37492,5 +37492,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6166082,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/16/2026 15:59:29",
+    "dateEnd": "06/16/2026 15:59:29",
+    "lastUpdate": "05/16/2026 15:59:28",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Zehntwiesenstraße",
+    "radius": null,
+    "coordinates": "8.392231,48.945617",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]

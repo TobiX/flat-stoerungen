@@ -52,41 +52,5 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6165418,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "05/14/2026 18:46:00",
-    "dateEnd": "05/15/2026 14:00:00",
-    "lastUpdate": "05/14/2026 18:49:31",
-    "postalCode": "48734",
-    "city": "Reken",
-    "district": null,
-    "street": "Dorfheide, 48734 Reken-Groß Reken, Deutschland",
-    "radius": 200,
-    "coordinates": "7.047593,51.832023",
-    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
-    "id": 6165814,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "05/15/2026 12:45:09",
-    "dateEnd": "05/15/2026 14:50:00",
-    "lastUpdate": "05/15/2026 13:18:12",
-    "postalCode": "50189",
-    "city": "Elsdorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.578595499307748,50.926048569589234",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]
