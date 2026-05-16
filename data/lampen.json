@@ -1,23 +1,5 @@
 [
   {
-    "id": 6120890,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/21/2026 23:01:06",
-    "dateEnd": "03/21/2026 23:01:06",
-    "lastUpdate": "02/21/2026 23:01:05",
-    "postalCode": "65719",
-    "city": "Hofheim am Taunus",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.438755;50.071968",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6121041,
     "operatorId": 237,
     "type": 10,
@@ -17440,24 +17422,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Leipzig"
-  },
-  {
-    "id": 6149990,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/18/2026 23:46:22",
-    "dateEnd": "05/18/2026 23:46:22",
-    "lastUpdate": "04/18/2026 23:46:23",
-    "postalCode": "49838",
-    "city": "Langen",
-    "district": "Emsland",
-    "street": "Am Hügel",
-    "radius": null,
-    "coordinates": "7.464965,52.542515",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6149991,
@@ -37636,5 +37600,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6166162,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/16/2026 23:57:47",
+    "dateEnd": "06/16/2026 23:57:47",
+    "lastUpdate": "05/16/2026 23:57:51",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.347234;50.019775",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6166167,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/17/2026 00:52:20",
+    "dateEnd": "06/17/2026 00:52:20",
+    "lastUpdate": "05/17/2026 00:52:20",
+    "postalCode": "64665",
+    "city": "Alsbach-Hähnlein",
+    "district": "Darmstadt-Dieburg",
+    "street": "Bickenbacher Straße",
+    "radius": null,
+    "coordinates": "8.623097,49.741062",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
