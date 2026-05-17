@@ -37636,5 +37636,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6166168,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/17/2026 01:19:42",
+    "dateEnd": "06/17/2026 01:19:42",
+    "lastUpdate": "05/17/2026 01:19:43",
+    "postalCode": "67294",
+    "city": "Morschheim",
+    "district": "",
+    "street": "Im Viertelgarten",
+    "radius": null,
+    "coordinates": "8.027459,49.698525",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
