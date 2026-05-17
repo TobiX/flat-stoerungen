@@ -17514,24 +17514,6 @@
     "operatorName": "Stadt Apolda"
   },
   {
-    "id": 6149997,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/19/2026 02:04:56",
-    "dateEnd": "05/19/2026 02:04:56",
-    "lastUpdate": "04/19/2026 02:04:57",
-    "postalCode": "54634",
-    "city": "Bitburg",
-    "district": "Eifelkreis Bitburg-Prüm",
-    "street": "Industriestraße",
-    "radius": null,
-    "coordinates": "6.519897,49.95984",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6149998,
     "operatorId": 237,
     "type": 10,
