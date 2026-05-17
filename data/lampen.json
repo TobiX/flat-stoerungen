@@ -37636,5 +37636,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6166207,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/17/2026 06:50:49",
+    "dateEnd": "06/17/2026 06:50:49",
+    "lastUpdate": "05/17/2026 06:50:49",
+    "postalCode": "57258",
+    "city": "Freudenberg",
+    "district": "Alchen",
+    "street": "Bruchsgarten",
+    "radius": null,
+    "coordinates": "7.944385066657;50.898831853241",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
