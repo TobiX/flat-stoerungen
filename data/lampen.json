@@ -37600,5 +37600,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6166303,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/18/2026 02:05:25",
+    "dateEnd": "06/18/2026 02:05:25",
+    "lastUpdate": "05/18/2026 02:05:25",
+    "postalCode": "45770",
+    "city": "Marl",
+    "district": "Alt - Marl",
+    "street": "Merkurstr.",
+    "radius": null,
+    "coordinates": "7.098534102361;51.651644974558",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6166306,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/18/2026 02:57:51",
+    "dateEnd": "06/18/2026 02:57:51",
+    "lastUpdate": "05/18/2026 02:57:51",
+    "postalCode": "45772",
+    "city": "Marl",
+    "district": "Kreis Recklinghausen",
+    "street": "Dormagener Straße",
+    "radius": null,
+    "coordinates": "7.113379,51.674057",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
