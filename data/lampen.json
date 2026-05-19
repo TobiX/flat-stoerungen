@@ -5562,24 +5562,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6138422,
-    "operatorId": 3753,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/24/2026 23:35:05",
-    "dateEnd": "04/24/2026 23:35:05",
-    "lastUpdate": "03/24/2026 23:35:07",
-    "postalCode": "68794",
-    "city": "Oberhausen-Rheinhausen",
-    "district": "Karlsruhe",
-    "street": "Hebelstraße",
-    "radius": null,
-    "coordinates": "8.46771,49.27855",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeindeverwaltung Oberhausen-Rheinhausen"
-  },
-  {
     "id": 6138455,
     "operatorId": 237,
     "type": 10,
@@ -36214,5 +36196,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bayernwerk Netz GmbH"
+  },
+  {
+    "id": 6167342,
+    "operatorId": 583,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/20/2026 00:34:15",
+    "dateEnd": "06/20/2026 00:34:15",
+    "lastUpdate": "05/20/2026 00:34:15",
+    "postalCode": "86391",
+    "city": "Stadtbergen",
+    "district": "Augsburg",
+    "street": "Hauptstraße",
+    "radius": null,
+    "coordinates": "10.841117,48.349495",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LEW Verteilnetz GmbH"
+  },
+  {
+    "id": 6167343,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/20/2026 01:12:37",
+    "dateEnd": "06/20/2026 01:12:37",
+    "lastUpdate": "05/20/2026 01:12:37",
+    "postalCode": "45711",
+    "city": "Datteln",
+    "district": "Hagem",
+    "street": "Theiheide",
+    "radius": null,
+    "coordinates": "7.3314185;51.6395814",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
