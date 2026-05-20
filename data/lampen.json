@@ -36232,5 +36232,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6167350,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/20/2026 03:36:27",
+    "dateEnd": "06/20/2026 03:36:27",
+    "lastUpdate": "05/20/2026 03:36:27",
+    "postalCode": "54317",
+    "city": "Gusterath",
+    "district": "Gusterath",
+    "street": "Ringstr.",
+    "radius": null,
+    "coordinates": "6.7220748;49.701984",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
