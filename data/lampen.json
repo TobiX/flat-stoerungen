@@ -1,23 +1,5 @@
 [
   {
-    "id": 6123477,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/25/2026 13:10:25",
-    "dateEnd": "03/25/2026 13:10:25",
-    "lastUpdate": "02/25/2026 13:10:25",
-    "postalCode": "74925",
-    "city": "Epfenbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.910889;49.337247",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6123587,
     "operatorId": 237,
     "type": 10,
@@ -5616,24 +5598,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6138814,
-    "operatorId": 308,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/25/2026 14:10:37",
-    "dateEnd": "04/25/2026 14:10:37",
-    "lastUpdate": "03/25/2026 14:10:37",
-    "postalCode": "45881",
-    "city": "Gelsenkirchen",
-    "district": "Gelsenkirchen",
-    "street": "Grillostraße",
-    "radius": null,
-    "coordinates": "7.077684,51.51624",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ELE Verteilnetz GmbH"
-  },
-  {
     "id": 6138827,
     "operatorId": 237,
     "type": 10,
@@ -5650,24 +5614,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6138847,
-    "operatorId": 4925,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/25/2026 15:38:45",
-    "dateEnd": "04/25/2026 15:38:45",
-    "lastUpdate": "03/25/2026 15:38:44",
-    "postalCode": "84424",
-    "city": "Isen",
-    "district": "Erding",
-    "street": "Taubrunnenweg",
-    "radius": null,
-    "coordinates": "12.029331,48.163116",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Markt Isen"
   },
   {
     "id": 6138853,
@@ -17062,24 +17008,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6152321,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/22/2026 13:44:13",
-    "dateEnd": "05/22/2026 13:44:13",
-    "lastUpdate": "04/22/2026 13:44:14",
-    "postalCode": "53343",
-    "city": "Wachtberg",
-    "district": "Oberbachem",
-    "street": "Am Brunnen",
-    "radius": null,
-    "coordinates": "7.15169594;50.63342182",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6152350,
@@ -36124,5 +36052,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6167696,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/20/2026 14:30:51",
+    "dateEnd": "06/20/2026 14:30:51",
+    "lastUpdate": "05/20/2026 14:30:52",
+    "postalCode": "65439",
+    "city": "Flörsheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.416626;50.013426",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6167764,
+    "operatorId": 3686,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/20/2026 16:44:03",
+    "dateEnd": "06/20/2026 16:44:03",
+    "lastUpdate": "05/20/2026 16:44:04",
+    "postalCode": "55294",
+    "city": "Bodenheim",
+    "district": "Mainz-Bingen",
+    "street": "Kapellenstraße",
+    "radius": null,
+    "coordinates": "8.310304,49.928104",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Verbandsgemeinde Bodenheim"
   }
 ]
