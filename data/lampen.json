@@ -4806,24 +4806,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6139620,
-    "operatorId": 2057,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/27/2026 01:58:09",
-    "dateEnd": "04/27/2026 01:58:09",
-    "lastUpdate": "03/27/2026 01:58:12",
-    "postalCode": "65232",
-    "city": "Taunusstein",
-    "district": "Rheingau-Taunus-Kreis",
-    "street": "Sperberweg",
-    "radius": null,
-    "coordinates": "8.149673,50.131256",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtverwaltung Taunusstein"
-  },
-  {
     "id": 6139622,
     "operatorId": 237,
     "type": 10,
