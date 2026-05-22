@@ -4914,24 +4914,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6139769,
-    "operatorId": 5306,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/27/2026 11:35:39",
-    "dateEnd": "04/27/2026 11:35:39",
-    "lastUpdate": "03/27/2026 11:35:40",
-    "postalCode": "65326",
-    "city": "Aarbergen",
-    "district": "Rheingau-Taunus-Kreis",
-    "street": "Im Dreispitz",
-    "radius": null,
-    "coordinates": "8.083285,50.248737",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Aarbergen"
-  },
-  {
     "id": 6139809,
     "operatorId": 2039,
     "type": 10,
@@ -32020,5 +32002,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "AVU Netz GmbH"
+  },
+  {
+    "id": 6168877,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/22/2026 11:51:59",
+    "dateEnd": "06/22/2026 11:51:59",
+    "lastUpdate": "05/22/2026 11:51:59",
+    "postalCode": "45711",
+    "city": "Datteln",
+    "district": "Horneburg",
+    "street": "Dietrichstr.",
+    "radius": null,
+    "coordinates": "7.2885565;51.6295336",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
