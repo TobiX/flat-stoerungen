@@ -52,5 +52,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6168696,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "05/27/2026 08:00:00",
+    "dateEnd": "05/27/2026 12:11:00",
+    "lastUpdate": "05/22/2026 07:14:19",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Im Eichholz 22, 38448 Wolfsburg, Deutschland",
+    "radius": 100,
+    "coordinates": "10.8343296,52.4444215",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6168697,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "06/03/2026 08:00:00",
+    "dateEnd": "06/03/2026 12:00:00",
+    "lastUpdate": "05/22/2026 07:18:37",
+    "postalCode": "38446",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Reislinger Str. 69, 38446 Wolfsburg, Deutschland",
+    "radius": 200,
+    "coordinates": "10.8085438,52.4225942",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
