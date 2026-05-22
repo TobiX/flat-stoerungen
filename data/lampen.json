@@ -4914,24 +4914,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6139830,
-    "operatorId": 294,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/27/2026 19:40:41",
-    "dateEnd": "04/27/2026 19:40:41",
-    "lastUpdate": "03/27/2026 19:40:44",
-    "postalCode": "45529",
-    "city": "Hattingen",
-    "district": "Ennepe-Ruhr-Kreis",
-    "street": "Essener Straße",
-    "radius": null,
-    "coordinates": "7.137165,51.404960",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AVU Netz GmbH"
-  },
-  {
     "id": 6139839,
     "operatorId": 237,
     "type": 10,
@@ -16900,24 +16882,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6154309,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/24/2026 19:24:46",
-    "dateEnd": "05/24/2026 19:24:46",
-    "lastUpdate": "04/24/2026 19:24:46",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Speldorf",
-    "street": "Martin-Gerste-Str.",
-    "radius": null,
-    "coordinates": "6.8357262;51.4217134",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6154315,
@@ -32020,5 +31984,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6169506,
+    "operatorId": 298,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/22/2026 18:29:39",
+    "dateEnd": "06/22/2026 18:29:39",
+    "lastUpdate": "05/22/2026 18:29:39",
+    "postalCode": "42555",
+    "city": "Velbert",
+    "district": "Mettmann",
+    "street": "Bodensfeld",
+    "radius": null,
+    "coordinates": "7.1292651;51.3625583",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Velbert GmbH"
+  },
+  {
+    "id": 6169594,
+    "operatorId": 294,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/22/2026 19:57:49",
+    "dateEnd": "06/22/2026 19:57:49",
+    "lastUpdate": "05/22/2026 19:57:50",
+    "postalCode": "58300",
+    "city": "Wetter (Ruhr)",
+    "district": "Ennepe-Ruhr-Kreis",
+    "street": "Ahornstraße",
+    "radius": null,
+    "coordinates": "7.316849,51.373741",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "AVU Netz GmbH"
   }
 ]
