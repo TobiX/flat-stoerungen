@@ -1,23 +1,5 @@
 [
   {
-    "id": 6167877,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "05/21/2026 08:00:00",
-    "dateEnd": "05/21/2026 13:00:00",
-    "lastUpdate": "05/21/2026 07:37:42",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Tilsiter Str. 17, 38440 Wolfsburg, Deutschland",
-    "radius": 100,
-    "coordinates": "10.7635228,52.4232285",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6167882,
     "operatorId": 186,
     "type": 2,
