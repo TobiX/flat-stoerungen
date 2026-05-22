@@ -232,5 +232,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6168691,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "05/26/2026 09:00:00",
+    "dateEnd": "05/26/2026 14:00:00",
+    "lastUpdate": "05/22/2026 06:58:17",
+    "postalCode": "38315",
+    "city": "Schladen-Werla",
+    "district": null,
+    "street": "Jahnstraße, 38315 Schladen-Werla-Schladen, Deutschland",
+    "radius": 100,
+    "coordinates": "10.5534907,52.0183044",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
