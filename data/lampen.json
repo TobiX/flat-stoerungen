@@ -31822,5 +31822,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6169852,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/23/2026 17:55:14",
+    "dateEnd": "06/23/2026 17:55:14",
+    "lastUpdate": "05/23/2026 17:55:15",
+    "postalCode": "57250",
+    "city": "Netphen",
+    "district": "Dreis Tiefenbach",
+    "street": "Austr.",
+    "radius": null,
+    "coordinates": "8.0549366;50.9114447",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6169856,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/23/2026 19:01:52",
+    "dateEnd": "06/23/2026 19:01:52",
+    "lastUpdate": "05/23/2026 19:01:52",
+    "postalCode": "65558",
+    "city": "Holzheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.049172;50.354474",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
