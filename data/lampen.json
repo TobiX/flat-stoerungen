@@ -31912,5 +31912,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6169890,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 00:34:10",
+    "dateEnd": "06/24/2026 00:34:10",
+    "lastUpdate": "05/24/2026 00:34:11",
+    "postalCode": "51545",
+    "city": "Waldbröl",
+    "district": "Oberbergischer Kreis",
+    "street": "Turnerstraße",
+    "radius": null,
+    "coordinates": "7.62109387547045,50.88186942740572",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6169892,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 00:46:18",
+    "dateEnd": "06/24/2026 00:46:18",
+    "lastUpdate": "05/24/2026 00:46:23",
+    "postalCode": "65375",
+    "city": "Oestrich-Winkel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.029779;50.029762",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
