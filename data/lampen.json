@@ -1,23 +1,5 @@
 [
   {
-    "id": 6125084,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "02/28/2026 07:49:36",
-    "dateEnd": "03/28/2026 07:49:36",
-    "lastUpdate": "02/28/2026 07:49:36",
-    "postalCode": "65326",
-    "city": "Aarbergen",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.059013;50.230847",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6125381,
     "operatorId": 237,
     "type": 10,
@@ -31894,5 +31876,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6169714,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/23/2026 08:22:37",
+    "dateEnd": "06/23/2026 08:22:37",
+    "lastUpdate": "05/23/2026 08:22:35",
+    "postalCode": "67278",
+    "city": "Bockenheim an der Weinstraße",
+    "district": "",
+    "street": "Auf dem Hübel",
+    "radius": null,
+    "coordinates": "8.180588,49.612350",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
