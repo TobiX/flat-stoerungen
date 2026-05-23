@@ -16884,24 +16884,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6154420,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/25/2026 11:47:40",
-    "dateEnd": "05/25/2026 11:47:40",
-    "lastUpdate": "04/25/2026 11:47:40",
-    "postalCode": "46419",
-    "city": "Isselburg",
-    "district": "Isselburg",
-    "street": "Schillerstraße",
-    "radius": null,
-    "coordinates": "6.45999037;51.83077869",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6154507,
     "operatorId": 132,
     "type": 10,
