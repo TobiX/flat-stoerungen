@@ -31966,5 +31966,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Gemeinde Lossatal"
+  },
+  {
+    "id": 6170187,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 23:12:09",
+    "dateEnd": "06/24/2026 23:12:09",
+    "lastUpdate": "05/24/2026 23:12:12",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.355045;50.0147",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
