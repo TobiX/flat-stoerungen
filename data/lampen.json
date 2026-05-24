@@ -16704,24 +16704,6 @@
     "operatorName": "Telekom"
   },
   {
-    "id": 6154688,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 13:20:19",
-    "dateEnd": "05/26/2026 13:20:19",
-    "lastUpdate": "04/26/2026 13:20:19",
-    "postalCode": "59519",
-    "city": "Möhnesee",
-    "district": "Körbecke",
-    "street": "Grüner Weg",
-    "radius": null,
-    "coordinates": "8.128526766682;51.501215486211",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6154699,
     "operatorId": 315,
     "type": 10,
@@ -31930,5 +31912,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6170084,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 14:10:33",
+    "dateEnd": "06/24/2026 14:10:33",
+    "lastUpdate": "05/24/2026 14:10:33",
+    "postalCode": "57629",
+    "city": "Luckenbach",
+    "district": "Luckenbach",
+    "street": "Am Beul",
+    "radius": null,
+    "coordinates": "7.836112650231;50.701644333261",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6170089,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 15:37:47",
+    "dateEnd": "06/24/2026 15:37:47",
+    "lastUpdate": "05/24/2026 15:37:46",
+    "postalCode": "54311",
+    "city": "Trierweiler",
+    "district": "Trierweiler",
+    "street": "Koppbach",
+    "radius": null,
+    "coordinates": "6.548395;49.7584572",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
