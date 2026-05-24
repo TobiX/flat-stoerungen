@@ -16776,24 +16776,6 @@
     "operatorName": "Telekom"
   },
   {
-    "id": 6154661,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 08:31:27",
-    "dateEnd": "05/26/2026 08:31:27",
-    "lastUpdate": "04/26/2026 08:31:27",
-    "postalCode": "46419",
-    "city": "Isselburg",
-    "district": "Isselburg",
-    "street": "Bachstraße",
-    "radius": null,
-    "coordinates": "6.458006;51.83107406",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6154688,
     "operatorId": 132,
     "type": 10,
@@ -31948,5 +31930,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Siegen"
+  },
+  {
+    "id": 6170059,
+    "operatorId": 1928,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 09:31:34",
+    "dateEnd": "06/24/2026 09:31:34",
+    "lastUpdate": "05/24/2026 09:31:35",
+    "postalCode": "45663",
+    "city": "Recklinghausen",
+    "district": "Recklinghausen",
+    "street": "Südstraße",
+    "radius": null,
+    "coordinates": "7.237297,51.575106",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
+  },
+  {
+    "id": 6170061,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 09:49:03",
+    "dateEnd": "06/24/2026 09:49:03",
+    "lastUpdate": "05/24/2026 09:49:03",
+    "postalCode": "59519",
+    "city": "Möhnesee",
+    "district": "Völlinghausen",
+    "street": "Kettelbötel",
+    "radius": null,
+    "coordinates": "8.184556011056;51.477266031752",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]

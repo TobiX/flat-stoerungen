@@ -106,5 +106,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6169996,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/24/2026 07:00:00",
+    "dateEnd": "05/24/2026 14:00:00",
+    "lastUpdate": "05/24/2026 09:21:59",
+    "postalCode": "95448",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.6163365,49.9589238",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 24.05.2026 14:00\nMonteur informiert um 24.05.2026 06:50\nMonteur vor Ort seit 24.05.2026 07:21\nStandort Notwasser: Danziger Straße 12, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
