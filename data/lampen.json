@@ -1,23 +1,5 @@
 [
   {
-    "id": 6125381,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/01/2026 10:31:01",
-    "dateEnd": "04/01/2026 10:31:01",
-    "lastUpdate": "03/01/2026 10:31:01",
-    "postalCode": "61440",
-    "city": "Oberursel (Taunus)",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.565602;50.214453",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6125434,
     "operatorId": 237,
     "type": 10,
