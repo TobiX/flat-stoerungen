@@ -31948,5 +31948,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6169893,
+    "operatorId": 3892,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 01:03:17",
+    "dateEnd": "06/24/2026 01:03:17",
+    "lastUpdate": "05/24/2026 01:03:17",
+    "postalCode": "57078",
+    "city": "Siegen",
+    "district": "Geisweid",
+    "street": "Dr.h.c.-Karl-Barich-Str.",
+    "radius": null,
+    "coordinates": "7.993213,50.915012",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Siegen"
   }
 ]
