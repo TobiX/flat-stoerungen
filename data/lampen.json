@@ -16740,24 +16740,6 @@
     "operatorName": "Bayernwerk Netz GmbH"
   },
   {
-    "id": 6154614,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 03:36:34",
-    "dateEnd": "05/26/2026 03:36:34",
-    "lastUpdate": "04/26/2026 03:36:34",
-    "postalCode": "67307",
-    "city": "Göllheim",
-    "district": "",
-    "street": "Woogweg",
-    "radius": null,
-    "coordinates": "8.042235,49.591740",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6154649,
     "operatorId": 237,
     "type": 10,
