@@ -31948,5 +31948,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6170139,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/24/2026 16:49:38",
+    "dateEnd": "06/24/2026 16:49:38",
+    "lastUpdate": "05/24/2026 16:49:51",
+    "postalCode": "54329",
+    "city": "Konz",
+    "district": "Konz",
+    "street": "Römerstr.",
+    "radius": null,
+    "coordinates": "6.5858161;49.7079816",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
