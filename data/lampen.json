@@ -31750,5 +31750,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6170518,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/25/2026 14:51:11",
+    "dateEnd": "06/25/2026 14:51:11",
+    "lastUpdate": "05/25/2026 14:51:11",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.557027;50.161611",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
