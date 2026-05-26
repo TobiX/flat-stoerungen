@@ -31786,5 +31786,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6171050,
+    "operatorId": 411,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/26/2026 04:55:30",
+    "dateEnd": "06/26/2026 04:55:30",
+    "lastUpdate": "05/26/2026 04:55:29",
+    "postalCode": "76327",
+    "city": "Pfinztal",
+    "district": "Karlsruhe",
+    "street": "Goethestraße",
+    "radius": null,
+    "coordinates": "8.544364,48.991053",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Netze BW GmbH"
   }
 ]
