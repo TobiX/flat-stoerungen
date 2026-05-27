@@ -32056,5 +32056,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Pinneberg"
+  },
+  {
+    "id": 6171676,
+    "operatorId": 3410,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/27/2026 03:44:36",
+    "dateEnd": "06/27/2026 03:44:36",
+    "lastUpdate": "05/27/2026 03:44:36",
+    "postalCode": "42117",
+    "city": "Wuppertal",
+    "district": "Wuppertal",
+    "street": "Mainstraße",
+    "radius": null,
+    "coordinates": "7.141203,51.24624",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Wuppertal"
   }
 ]
