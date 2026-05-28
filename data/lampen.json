@@ -15786,24 +15786,6 @@
     "operatorName": "Bayernwerk Netz GmbH"
   },
   {
-    "id": 6157104,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/30/2026 04:30:49",
-    "dateEnd": "05/30/2026 04:30:49",
-    "lastUpdate": "04/30/2026 04:30:50",
-    "postalCode": "46419",
-    "city": "Isselburg",
-    "district": "Isselburg",
-    "street": "Bachstraße",
-    "radius": null,
-    "coordinates": "6.45777592;51.83127269",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6157362,
     "operatorId": 237,
     "type": 10,
