@@ -4086,24 +4086,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6142800,
-    "operatorId": 2136,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/02/2026 20:53:40",
-    "dateEnd": "05/02/2026 20:53:40",
-    "lastUpdate": "04/02/2026 20:53:43",
-    "postalCode": "16356",
-    "city": "Ahrensfelde",
-    "district": "Barnim",
-    "street": "Eichner Dorfstraße",
-    "radius": null,
-    "coordinates": "13.589912,52.562756",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Ahrensfelde"
-  },
-  {
     "id": 6142803,
     "operatorId": 1875,
     "type": 10,
