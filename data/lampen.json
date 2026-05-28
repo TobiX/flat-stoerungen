@@ -30688,5 +30688,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6174018,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/29/2026 00:42:40",
+    "dateEnd": "06/29/2026 00:42:40",
+    "lastUpdate": "05/29/2026 00:42:40",
+    "postalCode": "53913",
+    "city": "Swisttal",
+    "district": "Heimerzheim",
+    "street": "Lessingstr.",
+    "radius": null,
+    "coordinates": "6.92290532;50.7118479",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6174019,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/29/2026 00:43:23",
+    "dateEnd": "06/29/2026 00:43:23",
+    "lastUpdate": "05/29/2026 00:43:23",
+    "postalCode": "53913",
+    "city": "Swisttal",
+    "district": "Heimerzheim",
+    "street": "Lessingstr.",
+    "radius": null,
+    "coordinates": "6.92318689;50.71159884",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
