@@ -1744,23 +1744,5 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6173722,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "05/28/2026 16:04:48",
-    "dateEnd": null,
-    "lastUpdate": "05/28/2026 19:24:52",
-    "postalCode": "59759",
-    "city": "Arnsberg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.999466988223293,51.435768499999995",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]
