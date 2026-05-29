@@ -286,5 +286,23 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6174461,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "05/29/2026 09:27:22",
+    "dateEnd": "05/29/2026 12:30:00",
+    "lastUpdate": "05/29/2026 09:27:22",
+    "postalCode": "46514",
+    "city": "Schermbeck",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.876612528305479,51.69751816797614",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
