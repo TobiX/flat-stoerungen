@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6175855,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "05/30/2026 09:30:10",
+    "dateEnd": null,
+    "lastUpdate": "05/30/2026 09:45:11",
+    "postalCode": "33034",
+    "city": "Brakel",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "9.18129750213279,51.7310995",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
