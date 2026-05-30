@@ -11934,24 +11934,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6157838,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/02/2026 13:25:19",
-    "dateEnd": "06/02/2026 13:25:19",
-    "lastUpdate": "05/02/2026 13:25:21",
-    "postalCode": "57562",
-    "city": "Herdorf",
-    "district": "Altenkirchen (Ww)",
-    "street": "Glockenfeld",
-    "radius": null,
-    "coordinates": "7.947813271807519,50.76920069467215",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6157938,
     "operatorId": 132,
     "type": 10,
@@ -27754,5 +27736,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6176047,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/30/2026 12:50:40",
+    "dateEnd": "06/30/2026 12:50:40",
+    "lastUpdate": "05/30/2026 12:50:39",
+    "postalCode": "56340",
+    "city": "Dachsenhausen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.723725;50.256171",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
