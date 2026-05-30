@@ -27754,5 +27754,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6176285,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/30/2026 15:39:42",
+    "dateEnd": "06/30/2026 15:39:42",
+    "lastUpdate": "05/30/2026 15:39:42",
+    "postalCode": "53560",
+    "city": "Vettelschloß",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.316191;50.614955",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
