@@ -28042,5 +28042,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "ENERVIE Vernetzt GmbH"
+  },
+  {
+    "id": 6176943,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/31/2026 02:27:11",
+    "dateEnd": "06/30/2026 02:27:11",
+    "lastUpdate": "05/31/2026 02:27:11",
+    "postalCode": "65439",
+    "city": "Flörsheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.433113;50.045956",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6176991,
+    "operatorId": 3609,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/31/2026 03:15:30",
+    "dateEnd": "06/30/2026 03:15:30",
+    "lastUpdate": "05/31/2026 03:15:32",
+    "postalCode": "56727",
+    "city": "Mayen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.241802,50.323558",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Mayen"
   }
 ]
