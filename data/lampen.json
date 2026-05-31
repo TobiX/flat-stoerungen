@@ -2988,24 +2988,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6143287,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/05/2026 09:54:52",
-    "dateEnd": "05/05/2026 09:54:52",
-    "lastUpdate": "04/05/2026 09:54:51",
-    "postalCode": "84032",
-    "city": "Altdorf",
-    "district": "Landshut",
-    "street": "Zypressenstraße",
-    "radius": null,
-    "coordinates": "12.088438,48.54716",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
-  },
-  {
     "id": 6143299,
     "operatorId": 5385,
     "type": 10,
@@ -11896,24 +11878,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
-    "id": 6158137,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/03/2026 10:55:19",
-    "dateEnd": "06/03/2026 10:55:19",
-    "lastUpdate": "05/03/2026 10:55:16",
-    "postalCode": "57392",
-    "city": "Schmallenberg",
-    "district": "Bracht",
-    "street": "Bachstraße",
-    "radius": null,
-    "coordinates": "8.167141428868;51.166899237631",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6158158,
@@ -28078,5 +28042,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Mayen"
+  },
+  {
+    "id": 6177208,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "05/31/2026 08:37:47",
+    "dateEnd": "06/30/2026 08:37:47",
+    "lastUpdate": "05/31/2026 08:37:47",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.351466;50.001614",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
