@@ -484,5 +484,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6178734,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/01/2026 06:12:00",
+    "dateEnd": "06/01/2026 16:00:00",
+    "lastUpdate": "06/01/2026 06:14:40",
+    "postalCode": "46286",
+    "city": "Dorsten",
+    "district": null,
+    "street": "Rothstraße, 46286 Dorsten-Lembeck, Deutschland",
+    "radius": 500,
+    "coordinates": "7.0019161,51.7545132",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
