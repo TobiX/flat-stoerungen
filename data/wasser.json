@@ -502,5 +502,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6179064,
+    "operatorId": 1763,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/01/2026 09:16:00",
+    "dateEnd": "06/01/2026 11:30:00",
+    "lastUpdate": "06/01/2026 09:18:20",
+    "postalCode": "94227",
+    "city": "Zwiesel",
+    "district": null,
+    "street": "Böhmerwaldstraße, 94227 Zwiesel, Deutschland",
+    "radius": 200,
+    "coordinates": "13.2380067,49.0129583",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Zwiesel"
   }
 ]

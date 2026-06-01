@@ -5,8 +5,8 @@
     "type": 1,
     "origin": 5,
     "dateStart": "05/30/2026 09:30:10",
-    "dateEnd": "05/31/2026 13:41:04",
-    "lastUpdate": "05/31/2026 13:41:04",
+    "dateEnd": "06/01/2026 12:01:11",
+    "lastUpdate": "06/01/2026 12:01:11",
     "postalCode": "33034",
     "city": "Brakel",
     "district": null,
@@ -23,8 +23,8 @@
     "type": 1,
     "origin": 5,
     "dateStart": "05/31/2026 13:00:00",
-    "dateEnd": null,
-    "lastUpdate": "05/31/2026 13:41:04",
+    "dateEnd": "06/01/2026 12:01:11",
+    "lastUpdate": "06/01/2026 12:01:11",
     "postalCode": "49635",
     "city": "Badbergen",
     "district": null,
@@ -32,7 +32,7 @@
     "radius": null,
     "coordinates": "7.9798989933646025,52.640847",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -88,5 +88,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Elektroenergieversorgung Cottbus GmbH"
+  },
+  {
+    "id": 6179269,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "06/01/2026 11:30:32",
+    "dateEnd": null,
+    "lastUpdate": "06/01/2026 12:01:11",
+    "postalCode": "34431",
+    "city": "Marsberg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.85871899833117,51.4642145",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
