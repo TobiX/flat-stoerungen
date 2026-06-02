@@ -70,5 +70,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6182546,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/02/2026 06:36:00",
+    "dateEnd": "06/02/2026 07:36:00",
+    "lastUpdate": "06/02/2026 06:37:25",
+    "postalCode": "37431",
+    "city": "Bad Lauterberg im Harz",
+    "district": null,
+    "street": "An den Lutterhöfen, 37431 Bad Lauterberg im Harz, Deutschland",
+    "radius": 500,
+    "coordinates": "10.4586109,51.6265452",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6182561,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "06/02/2026 06:45:10",
+    "dateEnd": "06/02/2026 08:20:00",
+    "lastUpdate": "06/02/2026 07:51:13",
+    "postalCode": "37431",
+    "city": "Bad Lauterberg im Harz",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.43584068306301,51.62125291918386",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
