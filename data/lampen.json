@@ -1,41 +1,5 @@
 [
   {
-    "id": 6130308,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/10/2026 19:05:13",
-    "dateEnd": "04/10/2026 19:05:13",
-    "lastUpdate": "03/10/2026 19:05:14",
-    "postalCode": "71711",
-    "city": "Murr",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.256843;48.962716",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6130309,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/10/2026 19:05:49",
-    "dateEnd": "04/10/2026 19:05:49",
-    "lastUpdate": "03/10/2026 19:05:51",
-    "postalCode": "71711",
-    "city": "Murr",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.256346;48.96267",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6130739,
     "operatorId": 237,
     "type": 10,
@@ -2842,24 +2806,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6144007,
-    "operatorId": 259,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/07/2026 17:20:59",
-    "dateEnd": "05/07/2026 17:20:59",
-    "lastUpdate": "04/07/2026 17:21:00",
-    "postalCode": "38690",
-    "city": "Goslar",
-    "district": "Goslar",
-    "street": "Kirchweg",
-    "radius": null,
-    "coordinates": "10.559176,51.952568",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
   },
   {
     "id": 6144017,
@@ -27394,5 +27340,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6185272,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/02/2026 18:08:47",
+    "dateEnd": "07/02/2026 18:08:47",
+    "lastUpdate": "06/02/2026 18:09:30",
+    "postalCode": "54459",
+    "city": "Wiltingen",
+    "district": "Wiltingen",
+    "street": "Scharzhofstr.",
+    "radius": null,
+    "coordinates": "6.5926524;49.6560178",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
