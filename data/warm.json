@@ -34,5 +34,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6183870,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "06/03/2026 08:00:00",
+    "dateEnd": "06/03/2026 15:00:00",
+    "lastUpdate": "06/02/2026 12:17:39",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "",
+    "radius": 0,
+    "coordinates": "10.781001400733622,52.427071",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
