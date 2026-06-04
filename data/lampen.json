@@ -11268,24 +11268,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6162054,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/07/2026 15:39:02",
-    "dateEnd": "06/07/2026 15:39:02",
-    "lastUpdate": "05/07/2026 15:39:02",
-    "postalCode": "54313",
-    "city": "Zemmer",
-    "district": "Rodt",
-    "street": "Talstr.",
-    "radius": null,
-    "coordinates": "6.67339081;49.86944481",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6162076,
     "operatorId": 237,
     "type": 10,
@@ -11302,24 +11284,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6162085,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/07/2026 17:20:50",
-    "dateEnd": "06/07/2026 17:20:50",
-    "lastUpdate": "05/07/2026 17:20:50",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Heißen",
-    "street": "Otto-Hahn-Str.",
-    "radius": null,
-    "coordinates": "6.91475396;51.44233394",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6162097,
@@ -27142,5 +27106,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
+  },
+  {
+    "id": 6193436,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/04/2026 14:29:51",
+    "dateEnd": "07/04/2026 14:29:51",
+    "lastUpdate": "06/04/2026 14:29:46",
+    "postalCode": "54486",
+    "city": "Mülheim an der Mosel",
+    "district": "Mülheim an der Mosel",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "7.01355651;49.91251672",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6193995,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/04/2026 18:00:42",
+    "dateEnd": "07/04/2026 18:00:42",
+    "lastUpdate": "06/04/2026 18:00:41",
+    "postalCode": "61273",
+    "city": "Wehrheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.547515;50.279589",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
