@@ -16,23 +16,5 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6190145,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "06/04/2026 08:30:00",
-    "dateEnd": "06/04/2026 14:30:00",
-    "lastUpdate": "06/03/2026 16:03:06",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Rigaer Str., 38440 Wolfsburg-Mitte-West, Deutschland",
-    "radius": 100,
-    "coordinates": "10.7638905,52.4240884",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
