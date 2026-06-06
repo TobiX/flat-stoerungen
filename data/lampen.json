@@ -2934,24 +2934,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6145753,
-    "operatorId": 3639,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/11/2026 06:05:32",
-    "dateEnd": "05/11/2026 06:05:32",
-    "lastUpdate": "04/11/2026 06:05:33",
-    "postalCode": "38444",
-    "city": "Wolfsburg",
-    "district": "Wolfsburg",
-    "street": "Jenaer Straße",
-    "radius": null,
-    "coordinates": "10.738194,52.402203",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Wolfsburg"
-  },
-  {
     "id": 6145942,
     "operatorId": 2167,
     "type": 10,
