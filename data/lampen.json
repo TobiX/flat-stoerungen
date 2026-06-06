@@ -11070,24 +11070,6 @@
     "operatorName": "Gemeinde Schorfheide"
   },
   {
-    "id": 6162814,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/09/2026 17:42:28",
-    "dateEnd": "06/09/2026 17:42:28",
-    "lastUpdate": "05/09/2026 17:42:28",
-    "postalCode": "46284",
-    "city": "Dorsten",
-    "district": "Hervest",
-    "street": "An der Windmühle",
-    "radius": null,
-    "coordinates": "7.011156022145;51.675570348110",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6162839,
     "operatorId": 3693,
     "type": 10,
@@ -27052,5 +27034,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6200494,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/06/2026 17:22:34",
+    "dateEnd": "07/06/2026 17:22:34",
+    "lastUpdate": "06/06/2026 17:22:34",
+    "postalCode": "65830",
+    "city": "Kriftel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.48314;50.085786",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
