@@ -2934,24 +2934,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6145949,
-    "operatorId": 5413,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/11/2026 14:46:02",
-    "dateEnd": "05/11/2026 14:46:02",
-    "lastUpdate": "04/11/2026 14:46:03",
-    "postalCode": "99894",
-    "city": "Friedrichroda",
-    "district": "Gotha",
-    "street": "Sterzingstraße",
-    "radius": null,
-    "coordinates": "10.618437,50.86551",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bauverwaltung Friedrichroda"
-  },
-  {
     "id": 6145983,
     "operatorId": 2181,
     "type": 10,
