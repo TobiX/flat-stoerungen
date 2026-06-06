@@ -11106,42 +11106,6 @@
     "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
   },
   {
-    "id": 6162745,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/09/2026 09:11:00",
-    "dateEnd": "06/09/2026 09:11:00",
-    "lastUpdate": "05/09/2026 09:11:00",
-    "postalCode": "57234",
-    "city": "Wilnsdorf",
-    "district": "Niederdielfen",
-    "street": "Siegener Str.",
-    "radius": null,
-    "coordinates": "8.083314666647;50.856703692725",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6162746,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/09/2026 09:11:30",
-    "dateEnd": "06/09/2026 09:11:30",
-    "lastUpdate": "05/09/2026 09:11:30",
-    "postalCode": "57234",
-    "city": "Wilnsdorf",
-    "district": "Kreis Siegen-Wittgenstein",
-    "street": "Gartenstraße",
-    "radius": null,
-    "coordinates": "8.088575531353996,50.85323152620302",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6162752,
     "operatorId": 1938,
     "type": 10,
@@ -27124,5 +27088,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LokalWerke GmbH"
+  },
+  {
+    "id": 6199566,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/06/2026 10:48:00",
+    "dateEnd": "07/06/2026 10:48:00",
+    "lastUpdate": "06/06/2026 10:48:00",
+    "postalCode": "53909",
+    "city": "Zülpich",
+    "district": "Linzenich",
+    "street": "Im Tiergarten",
+    "radius": null,
+    "coordinates": "6.67123551;50.66585891",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
