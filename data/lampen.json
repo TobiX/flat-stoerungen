@@ -27052,5 +27052,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6200766,
+    "operatorId": 337,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/06/2026 19:41:20",
+    "dateEnd": "07/06/2026 19:41:20",
+    "lastUpdate": "06/06/2026 19:41:21",
+    "postalCode": "46354",
+    "city": "Südlohn",
+    "district": "Borken",
+    "street": "Wibbeltstraße",
+    "radius": null,
+    "coordinates": "6.873954,51.94562",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LokalWerke GmbH"
+  },
+  {
+    "id": 6200767,
+    "operatorId": 337,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/06/2026 19:41:53",
+    "dateEnd": "07/06/2026 19:41:53",
+    "lastUpdate": "06/06/2026 19:41:53",
+    "postalCode": "46354",
+    "city": "Südlohn",
+    "district": "Borken",
+    "street": "Wibbeltstraße",
+    "radius": null,
+    "coordinates": "6.873449,51.94572",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LokalWerke GmbH"
   }
 ]
