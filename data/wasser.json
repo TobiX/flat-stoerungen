@@ -1,23 +1,5 @@
 [
   {
-    "id": 6200899,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "06/06/2026 20:36:02",
-    "dateEnd": null,
-    "lastUpdate": "06/07/2026 13:30:26",
-    "postalCode": "50189",
-    "city": "Elsdorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.583333207405346,50.937737999999996",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6201906,
     "operatorId": 3331,
     "type": 1,
