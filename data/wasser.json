@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "06/06/2026 20:36:02",
     "dateEnd": null,
-    "lastUpdate": "06/07/2026 07:44:32",
+    "lastUpdate": "06/07/2026 11:24:31",
     "postalCode": "50189",
     "city": "Elsdorf",
     "district": null,
@@ -32,6 +32,24 @@
     "radius": 500,
     "coordinates": "6.8360052,51.5286489",
     "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6203102,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "06/07/2026 10:24:22",
+    "dateEnd": "06/07/2026 13:25:00",
+    "lastUpdate": "06/07/2026 10:51:06",
+    "postalCode": "46149",
+    "city": "Oberhausen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.833055464214903,51.52051781259685",
+    "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
