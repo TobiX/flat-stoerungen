@@ -2952,24 +2952,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6146175,
-    "operatorId": 2198,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/12/2026 17:26:16",
-    "dateEnd": "05/12/2026 17:26:16",
-    "lastUpdate": "04/12/2026 17:26:16",
-    "postalCode": "22844",
-    "city": "Norderstedt",
-    "district": "Segeberg",
-    "street": "Quickborner Straße",
-    "radius": null,
-    "coordinates": "9.982402,53.734623",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Norderstedt"
-  },
-  {
     "id": 6146189,
     "operatorId": null,
     "type": 10,
@@ -10942,24 +10924,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Mörfelden-Walldorf"
-  },
-  {
-    "id": 6162928,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/10/2026 16:34:58",
-    "dateEnd": "06/10/2026 16:34:58",
-    "lastUpdate": "05/10/2026 16:34:59",
-    "postalCode": "67742",
-    "city": "Lauterecken",
-    "district": "",
-    "street": "Veldenzplatz",
-    "radius": null,
-    "coordinates": "7.592069,49.649076",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6162944,
@@ -26908,5 +26872,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "AVU Netz GmbH"
+  },
+  {
+    "id": 6204261,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/07/2026 18:03:16",
+    "dateEnd": "07/07/2026 18:03:16",
+    "lastUpdate": "06/07/2026 18:03:17",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Schluttenbach",
+    "street": "Am Hägle",
+    "radius": null,
+    "coordinates": "8.403942,48.899568",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
