@@ -1,23 +1,5 @@
 [
   {
-    "id": 6132786,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/15/2026 12:28:55",
-    "dateEnd": "04/15/2026 12:28:55",
-    "lastUpdate": "03/15/2026 12:28:53",
-    "postalCode": "65439",
-    "city": "Flörsheim am Main",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.403307;50.028703",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6132844,
     "operatorId": 237,
     "type": 10,
