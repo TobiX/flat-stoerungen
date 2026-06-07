@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "06/06/2026 20:36:02",
     "dateEnd": null,
-    "lastUpdate": "06/07/2026 02:13:38",
+    "lastUpdate": "06/07/2026 07:44:32",
     "postalCode": "50189",
     "city": "Elsdorf",
     "district": null,
@@ -16,5 +16,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6201906,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/07/2026 02:31:00",
+    "dateEnd": "06/07/2026 15:00:00",
+    "lastUpdate": "06/07/2026 02:32:25",
+    "postalCode": "46149",
+    "city": "Oberhausen",
+    "district": null,
+    "street": "Forsthofstraße, 46149 Oberhausen, Deutschland",
+    "radius": 500,
+    "coordinates": "6.8360052,51.5286489",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]

@@ -2970,24 +2970,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6146056,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/12/2026 04:58:47",
-    "dateEnd": "05/12/2026 04:58:47",
-    "lastUpdate": "04/12/2026 04:58:47",
-    "postalCode": "35781",
-    "city": "Weilburg",
-    "district": "Limburg-Weilburg",
-    "street": "Am Kirmesplatz",
-    "radius": null,
-    "coordinates": "8.25898,50.49126",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6146146,
     "operatorId": 3519,
     "type": 10,
