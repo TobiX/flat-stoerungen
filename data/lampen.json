@@ -1,23 +1,5 @@
 [
   {
-    "id": 6133483,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/16/2026 19:38:27",
-    "dateEnd": "04/16/2026 19:38:27",
-    "lastUpdate": "03/16/2026 19:38:41",
-    "postalCode": "56368",
-    "city": "Klingelbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.976405;50.276426",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6133633,
     "operatorId": 237,
     "type": 10,
@@ -27301,6 +27283,24 @@
     "street": "",
     "radius": null,
     "coordinates": "9.505495;48.999887",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6208544,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/08/2026 20:34:53",
+    "dateEnd": "07/08/2026 20:34:53",
+    "lastUpdate": "06/08/2026 20:34:54",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.434593;50.080869",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
