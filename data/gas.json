@@ -34,5 +34,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6206269,
+    "operatorId": 527,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/08/2026 07:34:00",
+    "dateEnd": "06/08/2026 08:34:00",
+    "lastUpdate": "06/08/2026 07:36:18",
+    "postalCode": "76185",
+    "city": "Karlsruhe",
+    "district": null,
+    "street": "Daxlander Str., 76 Karlsruhe-Grünwinkel, Deutschland",
+    "radius": 500,
+    "coordinates": "8.3431,49.0071305",
+    "liveInfo": "Testmeldung",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Karlsruhe Netzservice GmbH"
   }
 ]
