@@ -27070,5 +27070,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "E.dis Netz GmbH"
+  },
+  {
+    "id": 6205168,
+    "operatorId": 298,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/08/2026 00:39:19",
+    "dateEnd": "07/08/2026 00:39:19",
+    "lastUpdate": "06/08/2026 00:39:19",
+    "postalCode": "42553",
+    "city": "Velbert",
+    "district": "",
+    "street": "Konrad-Adenauer-Straße",
+    "radius": null,
+    "coordinates": "7.0971367;51.3021915",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Velbert GmbH"
+  },
+  {
+    "id": 6205457,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/08/2026 02:17:37",
+    "dateEnd": "07/08/2026 02:17:37",
+    "lastUpdate": "06/08/2026 02:17:38",
+    "postalCode": "59439",
+    "city": "Holzwickede",
+    "district": "Innenstadt",
+    "street": "Eichenweg",
+    "radius": null,
+    "coordinates": "7.635067049434;51.502280420638",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
