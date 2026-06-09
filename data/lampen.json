@@ -1,23 +1,5 @@
 [
   {
-    "id": 6134140,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/17/2026 19:57:50",
-    "dateEnd": "04/17/2026 19:57:50",
-    "lastUpdate": "03/17/2026 19:57:50",
-    "postalCode": "74925",
-    "city": "Epfenbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.910698;49.344179",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6134970,
     "operatorId": 237,
     "type": 10,
@@ -2716,24 +2698,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6147620,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/14/2026 20:47:55",
-    "dateEnd": "05/14/2026 20:47:55",
-    "lastUpdate": "04/14/2026 20:47:56",
-    "postalCode": "34125",
-    "city": "Kassel",
-    "district": "Kassel",
-    "street": "Hinter dem Fasanenhof",
-    "radius": null,
-    "coordinates": "9.521087,51.330387",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
   },
   {
     "id": 6147633,
