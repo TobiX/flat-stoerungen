@@ -1,23 +1,5 @@
 [
   {
-    "id": 6136439,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/20/2026 18:46:24",
-    "dateEnd": "04/20/2026 18:46:24",
-    "lastUpdate": "03/20/2026 18:46:25",
-    "postalCode": "71409",
-    "city": "Schwaikheim",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.355155;48.874217",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6136490,
     "operatorId": 237,
     "type": 10,
