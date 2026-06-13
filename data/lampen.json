@@ -25864,5 +25864,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6227453,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/13/2026 16:20:30",
+    "dateEnd": "07/13/2026 16:20:30",
+    "lastUpdate": "06/13/2026 16:20:30",
+    "postalCode": "65375",
+    "city": "Oestrich-Winkel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.02772;50.008398",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
