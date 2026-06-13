@@ -198,24 +198,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6222633,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "06/12/2026 09:52:00",
-    "dateEnd": "06/12/2026 21:26:00",
-    "lastUpdate": "06/12/2026 21:28:20",
-    "postalCode": "95448",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.6246663,49.93312969999999",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 12.06.2026 20:30\nMonteur informiert um 12.06.2026 09:52\nMonteur vor Ort seit 12.06.2026 10:05\nStandort Notwasser: Kemnather Str.bei 62a, Bayreuth-Aichig, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6227667,
     "operatorId": 1782,
     "type": 1,
