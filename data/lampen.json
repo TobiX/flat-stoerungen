@@ -10134,24 +10134,6 @@
     "operatorName": "e-netz Südhessen AG"
   },
   {
-    "id": 6166226,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/17/2026 11:03:11",
-    "dateEnd": "06/17/2026 11:03:11",
-    "lastUpdate": "05/17/2026 11:03:13",
-    "postalCode": "54413",
-    "city": "Gusenburg",
-    "district": "Gusenburg",
-    "street": "Zum Kreuzbaum",
-    "radius": null,
-    "coordinates": "6.9032895;49.633447",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6166251,
     "operatorId": 237,
     "type": 10,
@@ -25864,5 +25846,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Alliander Netz Heinsberg GmbH"
+  },
+  {
+    "id": 6231006,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/14/2026 13:26:04",
+    "dateEnd": "07/14/2026 13:26:04",
+    "lastUpdate": "06/14/2026 13:26:04",
+    "postalCode": "53804",
+    "city": "Much",
+    "district": "Much",
+    "street": "Niederbech",
+    "radius": null,
+    "coordinates": "7.471865218127;50.920283391506",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
