@@ -52,5 +52,23 @@
     "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 13.06.2026 23:00\nMonteur informiert um 13.06.2026 12:51\nMonteur vor Ort seit 13.06.2026 13:27\nStandort Notwasser: Bei Hindenburgstraße 1, Rotmaincenter, Bayreuth-Schießhaus, Germany",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6230533,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "06/14/2026 10:53:58",
+    "dateEnd": null,
+    "lastUpdate": "06/14/2026 11:50:29",
+    "postalCode": "50189",
+    "city": "Elsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.636264472258304,50.914547",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
