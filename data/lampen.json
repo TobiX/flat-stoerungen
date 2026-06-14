@@ -25864,5 +25864,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6231472,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/14/2026 16:13:47",
+    "dateEnd": "07/14/2026 16:13:47",
+    "lastUpdate": "06/14/2026 16:13:48",
+    "postalCode": "67681",
+    "city": "Wartenberg-Rohrbach",
+    "district": "",
+    "street": "Krain",
+    "radius": null,
+    "coordinates": "7.853205,49.529838",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6231473,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/14/2026 16:14:14",
+    "dateEnd": "07/14/2026 16:14:14",
+    "lastUpdate": "06/14/2026 16:14:15",
+    "postalCode": "67681",
+    "city": "Wartenberg-Rohrbach",
+    "district": "",
+    "street": "Krain",
+    "radius": null,
+    "coordinates": "7.853700,49.529892",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
