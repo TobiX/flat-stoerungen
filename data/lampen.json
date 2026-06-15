@@ -1,23 +1,5 @@
 [
   {
-    "id": 6137794,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/23/2026 18:44:45",
-    "dateEnd": "04/23/2026 18:44:45",
-    "lastUpdate": "03/23/2026 18:43:26",
-    "postalCode": "74257",
-    "city": "Untereisesheim",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.201452;49.210823",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6138093,
     "operatorId": 237,
     "type": 10,
@@ -2410,24 +2392,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6150739,
-    "operatorId": 2103,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/20/2026 17:10:10",
-    "dateEnd": "05/20/2026 17:10:10",
-    "lastUpdate": "04/20/2026 17:10:11",
-    "postalCode": "99094",
-    "city": "Erfurt",
-    "district": "Erfurt",
-    "street": "Ehrenburgweg",
-    "radius": null,
-    "coordinates": "11.00694,50.96325",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Landeshauptstadt Erfurt"
   },
   {
     "id": 6150771,
@@ -10044,24 +10008,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6166771,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/18/2026 15:00:17",
-    "dateEnd": "06/18/2026 15:00:17",
-    "lastUpdate": "05/18/2026 15:00:18",
-    "postalCode": "47551",
-    "city": "Bedburg-Hau",
-    "district": "Kleve",
-    "street": "Holzstraße",
-    "radius": null,
-    "coordinates": "6.208864,51.76853",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6166775,
     "operatorId": 237,
     "type": 10,
@@ -10096,24 +10042,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6166781,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/18/2026 15:58:20",
-    "dateEnd": "06/18/2026 15:58:20",
-    "lastUpdate": "05/18/2026 15:58:20",
-    "postalCode": "54439",
-    "city": "Saarburg",
-    "district": "Saarburg",
-    "street": "Friedensaue",
-    "radius": null,
-    "coordinates": "6.54555481;49.60484746",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6166834,
