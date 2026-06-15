@@ -1,23 +1,5 @@
 [
   {
-    "id": 6136889,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/23/2026 00:59:55",
-    "dateEnd": "04/23/2026 00:59:55",
-    "lastUpdate": "03/23/2026 00:59:55",
-    "postalCode": "71409",
-    "city": "Schwaikheim",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.350176;48.869395",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6136910,
     "operatorId": 237,
     "type": 10,
@@ -10060,24 +10042,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6166302,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/18/2026 00:13:48",
-    "dateEnd": "06/18/2026 00:13:48",
-    "lastUpdate": "05/18/2026 00:13:49",
-    "postalCode": "45770",
-    "city": "Marl",
-    "district": "Drewer",
-    "street": "Widukindstr.",
-    "radius": null,
-    "coordinates": "7.117283897441;51.663322342941",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6166303,
