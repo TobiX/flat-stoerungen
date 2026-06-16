@@ -52,5 +52,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6238279,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "06/18/2026 08:00:00",
+    "dateEnd": "06/18/2026 12:00:00",
+    "lastUpdate": "06/16/2026 07:41:57",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Friedrich-Lambrecht-Straße 15, 38448 Wolfsburg-Vorsfelde, Deutschland",
+    "radius": 200,
+    "coordinates": "10.8405275,52.4448753",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6239036,
+    "operatorId": 186,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/16/2026 11:01:00",
+    "dateEnd": "06/16/2026 15:01:00",
+    "lastUpdate": "06/16/2026 11:02:29",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Fritz-Weiberg-Straße, 38448 Wolfsburg-Vorsfelde, Deutschland",
+    "radius": 500,
+    "coordinates": "10.8547786,52.4320209",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
