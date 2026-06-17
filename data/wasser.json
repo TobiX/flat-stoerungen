@@ -54,24 +54,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6234655,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "06/16/2026 10:00:00",
-    "dateEnd": "06/16/2026 12:00:00",
-    "lastUpdate": "06/15/2026 10:12:45",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Tiefer Weg 15, 33790 Halle (Westfalen), Deutschland",
-    "radius": 500,
-    "coordinates": "8.3557804,52.0668285",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6235492,
     "operatorId": 3311,
     "type": 2,
