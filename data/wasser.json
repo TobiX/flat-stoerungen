@@ -18,24 +18,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6234271,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "06/16/2026 12:00:00",
-    "dateEnd": "06/16/2026 16:00:00",
-    "lastUpdate": "06/15/2026 08:59:49",
-    "postalCode": "38315",
-    "city": "Schladen-Werla",
-    "district": null,
-    "street": "",
-    "radius": 500,
-    "coordinates": "10.567284774986799,52.02245225",
-    "liveInfo": "Geplante U-Hydrant Wechsel ",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6234464,
     "operatorId": 132,
     "type": 1,
