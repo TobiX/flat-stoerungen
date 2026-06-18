@@ -178,5 +178,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6247113,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/01/2026 08:00:00",
+    "dateEnd": "07/01/2026 13:46:00",
+    "lastUpdate": "06/18/2026 08:47:53",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Ostlandstraße, 38442 Wolfsburg-Ehmen-Mörse, Deutschland",
+    "radius": 250,
+    "coordinates": "10.7344139,52.3946541",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
