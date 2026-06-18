@@ -144,24 +144,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6240697,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "06/16/2026 20:42:00",
-    "dateEnd": "06/16/2026 23:59:00",
-    "lastUpdate": "06/16/2026 20:42:53",
-    "postalCode": "37431",
-    "city": "Bad Lauterberg im Harz",
-    "district": null,
-    "street": "Am Paradies, 37431 Bad Lauterberg im Harz, Deutschland",
-    "radius": 100,
-    "coordinates": "10.4675938,51.6185699",
-    "liveInfo": "Techniker ist zur Entstörung vor Ort",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6242271,
     "operatorId": 3311,
     "type": 1,

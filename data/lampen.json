@@ -1,41 +1,5 @@
 [
   {
-    "id": 6139132,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/26/2026 01:52:20",
-    "dateEnd": "04/26/2026 01:52:20",
-    "lastUpdate": "03/26/2026 01:52:22",
-    "postalCode": "65830",
-    "city": "Kriftel",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.47836;50.08869",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6139133,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/26/2026 01:55:42",
-    "dateEnd": "04/26/2026 01:55:42",
-    "lastUpdate": "03/26/2026 01:55:51",
-    "postalCode": "65830",
-    "city": "Kriftel",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.479585;50.088954",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6139134,
     "operatorId": 237,
     "type": 10,
@@ -25180,5 +25144,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6245735,
+    "operatorId": 1922,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/18/2026 01:00:45",
+    "dateEnd": "07/18/2026 01:00:45",
+    "lastUpdate": "06/18/2026 01:00:46",
+    "postalCode": "44797",
+    "city": "Bochum",
+    "district": "Bochum",
+    "street": "Flaßkuhlstr.",
+    "radius": null,
+    "coordinates": "7.232797,51.431064",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Bochum"
   }
 ]
