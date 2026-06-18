@@ -1854,24 +1854,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6153640,
-    "operatorId": 5227,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/23/2026 16:00:26",
-    "dateEnd": "05/23/2026 16:00:26",
-    "lastUpdate": "04/23/2026 16:00:28",
-    "postalCode": "66557",
-    "city": "Illingen",
-    "district": "Neunkirchen",
-    "street": "Ackerstraße",
-    "radius": null,
-    "coordinates": "7.012105,49.373945",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Illingen"
-  },
-  {
     "id": 6153774,
     "operatorId": 237,
     "type": 10,
