@@ -3384,24 +3384,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6154339,
-    "operatorId": 290,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/24/2026 23:01:40",
-    "dateEnd": "05/24/2026 23:01:40",
-    "lastUpdate": "04/24/2026 23:01:40",
-    "postalCode": "41516",
-    "city": "Grevenbroich",
-    "district": "Rhein-Kreis Neuss",
-    "street": "Lindenhof",
-    "radius": null,
-    "coordinates": "6.601499,51.129192",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "NEW Netz GmbH"
-  },
-  {
     "id": 6154343,
     "operatorId": 237,
     "type": 10,
@@ -24064,5 +24046,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bauhof Stadt Remagen"
+  },
+  {
+    "id": 6254330,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/19/2026 23:35:40",
+    "dateEnd": "07/19/2026 23:35:40",
+    "lastUpdate": "06/19/2026 23:35:40",
+    "postalCode": "61462",
+    "city": "Königstein im Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.466973;50.179266",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6254331,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/19/2026 23:39:58",
+    "dateEnd": "07/19/2026 23:39:58",
+    "lastUpdate": "06/19/2026 23:39:58",
+    "postalCode": "61462",
+    "city": "Königstein im Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.470092;50.177105",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
