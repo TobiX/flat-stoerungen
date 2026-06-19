@@ -1,23 +1,5 @@
 [
   {
-    "id": 6139839,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/27/2026 20:29:15",
-    "dateEnd": "04/27/2026 20:29:15",
-    "lastUpdate": "03/27/2026 20:29:15",
-    "postalCode": "71404",
-    "city": "Korb",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.36856722772855;48.8425616188385",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6139850,
     "operatorId": 237,
     "type": 10,
