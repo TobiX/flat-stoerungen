@@ -24010,5 +24010,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6252416,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/19/2026 14:29:51",
+    "dateEnd": "07/19/2026 14:29:51",
+    "lastUpdate": "06/19/2026 14:29:52",
+    "postalCode": "56588",
+    "city": "Waldbreitbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.418916;50.555304",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
