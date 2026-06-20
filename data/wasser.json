@@ -142,5 +142,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6255595,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "06/20/2026 06:33:16",
+    "dateEnd": "06/20/2026 09:35:00",
+    "lastUpdate": "06/20/2026 06:33:16",
+    "postalCode": "37431",
+    "city": "Bad Lauterberg im Harz",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.470778584111114,51.5943073427556",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
