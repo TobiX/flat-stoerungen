@@ -3420,24 +3420,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6154588,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/25/2026 18:48:06",
-    "dateEnd": "05/25/2026 18:48:06",
-    "lastUpdate": "04/25/2026 18:48:08",
-    "postalCode": "85368",
-    "city": "Moosburg a.d. Isar",
-    "district": "Freising",
-    "street": "Isarstraße",
-    "radius": null,
-    "coordinates": "11.952318,48.468309",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
-  },
-  {
     "id": 6154649,
     "operatorId": 237,
     "type": 10,
