@@ -3420,24 +3420,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6154721,
-    "operatorId": 290,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 18:12:08",
-    "dateEnd": "05/26/2026 18:12:08",
-    "lastUpdate": "04/26/2026 18:12:08",
-    "postalCode": "41352",
-    "city": "Korschenbroich",
-    "district": "Rhein-Kreis Neuss",
-    "street": "Am Kerper Weiher",
-    "radius": null,
-    "coordinates": "6.581811,51.170708",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "NEW Netz GmbH"
-  },
-  {
     "id": 6154777,
     "operatorId": 402,
     "type": 10,
@@ -23992,5 +23974,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6262771,
+    "operatorId": 1782,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/21/2026 18:09:10",
+    "dateEnd": "07/21/2026 18:09:10",
+    "lastUpdate": "06/21/2026 18:09:10",
+    "postalCode": "95500",
+    "city": "Heinersreuth",
+    "district": "Bayreuth",
+    "street": "Unterkonnersreuth",
+    "radius": null,
+    "coordinates": "11.529715;49.977926",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
