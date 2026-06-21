@@ -3420,24 +3420,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6154699,
-    "operatorId": 315,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 14:25:46",
-    "dateEnd": "05/26/2026 14:25:46",
-    "lastUpdate": "04/26/2026 14:25:47",
-    "postalCode": "47051",
-    "city": "Duisburg",
-    "district": null,
-    "street": "Tiefe Weide",
-    "radius": null,
-    "coordinates": "6.822260,51.495215",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Netze Duisburg GmbH"
-  },
-  {
     "id": 6154721,
     "operatorId": 290,
     "type": 10,
@@ -9412,24 +9394,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
-  },
-  {
-    "id": 6170084,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/24/2026 14:10:33",
-    "dateEnd": "06/24/2026 14:10:33",
-    "lastUpdate": "05/24/2026 14:10:33",
-    "postalCode": "57629",
-    "city": "Luckenbach",
-    "district": "Luckenbach",
-    "street": "Am Beul",
-    "radius": null,
-    "coordinates": "7.836112650231;50.701644333261",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6170089,
@@ -24046,5 +24010,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
+  },
+  {
+    "id": 6261570,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/21/2026 12:53:21",
+    "dateEnd": "07/21/2026 12:53:21",
+    "lastUpdate": "06/21/2026 12:53:21",
+    "postalCode": "56379",
+    "city": "Winden",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.830162;50.337528",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
