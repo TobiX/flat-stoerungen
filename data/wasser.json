@@ -178,5 +178,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6260224,
+    "operatorId": 3311,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "06/21/2026 06:51:20",
+    "dateEnd": "06/21/2026 09:55:00",
+    "lastUpdate": "06/21/2026 06:51:20",
+    "postalCode": "38518",
+    "city": "Gifhorn",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.50039139335784,52.505507552357344",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
+  },
+  {
+    "id": 6260225,
+    "operatorId": 3311,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "06/21/2026 06:51:20",
+    "dateEnd": "06/21/2026 09:55:00",
+    "lastUpdate": "06/21/2026 06:51:20",
+    "postalCode": "38518",
+    "city": "Gifhorn",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.50039139335784,52.505507552357344",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
   }
 ]

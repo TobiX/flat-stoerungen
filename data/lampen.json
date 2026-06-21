@@ -23956,5 +23956,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6259307,
+    "operatorId": 344,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/21/2026 02:21:00",
+    "dateEnd": "07/21/2026 02:21:00",
+    "lastUpdate": "06/21/2026 02:21:00",
+    "postalCode": "49356",
+    "city": "Diepholz",
+    "district": "Diepholz",
+    "street": "Ossenbecker Straße",
+    "radius": null,
+    "coordinates": "8.360099,52.638866",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   }
 ]
