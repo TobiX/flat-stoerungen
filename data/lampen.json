@@ -24100,5 +24100,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6263917,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/21/2026 23:26:33",
+    "dateEnd": "07/21/2026 23:26:33",
+    "lastUpdate": "06/21/2026 23:26:34",
+    "postalCode": "57258",
+    "city": "Freudenberg",
+    "district": "Alchen",
+    "street": "Hochstr.",
+    "radius": null,
+    "coordinates": "7.9342823;50.90138544",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6263926,
+    "operatorId": 2274,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/21/2026 23:36:12",
+    "dateEnd": "07/21/2026 23:36:12",
+    "lastUpdate": "06/21/2026 23:36:13",
+    "postalCode": "67063",
+    "city": "Ludwigshafen am Rhein",
+    "district": "Kreisfreie Stadt Ludwigshafen am Rhein",
+    "street": "Taubenstraße",
+    "radius": null,
+    "coordinates": "8.418199,49.496187",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Ludwigshafen am Rhein"
   }
 ]

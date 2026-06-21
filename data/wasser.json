@@ -221,15 +221,15 @@
     "type": 1,
     "origin": 5,
     "dateStart": "06/21/2026 17:03:00",
-    "dateEnd": "06/22/2026 00:30:00",
-    "lastUpdate": "06/21/2026 19:28:57",
+    "dateEnd": "06/22/2026 00:05:00",
+    "lastUpdate": "06/22/2026 01:10:31",
     "postalCode": "95448",
     "city": "Bayreuth",
     "district": null,
     "street": null,
     "radius": 1,
     "coordinates": "11.590013,49.9416949",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 22.06.2026 00:30\nMonteur informiert um 21.06.2026 17:06\nStandort Notwasser: Äußere Badstraße, 16  Bayreuth-Schießhaus, Germany",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 22.06.2026 00:30\nMonteur informiert um 21.06.2026 17:06\nMonteur vor Ort seit 21.06.2026 17:29\nStandort Notwasser: Äußere Badstraße, 16  Bayreuth-Schießhaus, Germany",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
