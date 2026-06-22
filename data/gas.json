@@ -5,8 +5,8 @@
     "type": 1,
     "origin": 5,
     "dateStart": "06/21/2026 13:44:43",
-    "dateEnd": "06/21/2026 14:46:26",
-    "lastUpdate": "06/21/2026 14:46:26",
+    "dateEnd": "06/22/2026 07:16:12",
+    "lastUpdate": "06/22/2026 07:16:12",
     "postalCode": "45768",
     "city": "Marl",
     "district": null,
@@ -23,8 +23,8 @@
     "type": 1,
     "origin": 5,
     "dateStart": "06/21/2026 13:54:54",
-    "dateEnd": null,
-    "lastUpdate": "06/21/2026 14:46:26",
+    "dateEnd": "06/22/2026 07:16:12",
+    "lastUpdate": "06/22/2026 07:16:12",
     "postalCode": "55494",
     "city": "Rheinböllen",
     "district": null,
@@ -32,7 +32,7 @@
     "radius": null,
     "coordinates": "7.666944742258483,50.008465",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
