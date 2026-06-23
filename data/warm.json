@@ -106,5 +106,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6270617,
+    "operatorId": 220,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "06/29/2026 09:00:00",
+    "dateEnd": "06/30/2026 15:00:00",
+    "lastUpdate": "06/23/2026 06:58:55",
+    "postalCode": "33790",
+    "city": "Halle (Westf.)",
+    "district": null,
+    "street": "Am Laibach 19/a, 33790 Halle (Westfalen), Deutschland",
+    "radius": 150,
+    "coordinates": "8.3555327,52.06513450000001",
+    "liveInfo": "Kundeninformation/Fernwärmeabstellung\nDie TWO muss wegen dringender Arbeiten am Versorgungsnetz bzw. Hausanschluss\nam\t[Montag], den 29.06.2026 bis Dienstag, den 30.06.2026\nin der Zeit von ca.  09:00 Uhr – 15:00 Uhr\ndas Fernwärmenetz abstellen. \n\nIn diesem Zeitraum kommt es zur Unterbrechung der Wärmeversorgung für Heizung und Warmwasser.\n\nWir bitten um Ihr Verständnis.\nT.W.O. Technische Werke Osning GmbH\n",
+    "isFixed": false,
+    "operatorName": "T.W.O. Technische Werke Osning GmbH"
+  },
+  {
+    "id": 6270757,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "06/25/2026 08:00:00",
+    "dateEnd": "06/25/2026 15:00:00",
+    "lastUpdate": "06/23/2026 07:04:42",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Am Berge, 38442 Wolfsburg-Fallersleben-Sülfeld, Deutschland",
+    "radius": 150,
+    "coordinates": "10.6929611,52.4152993",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
