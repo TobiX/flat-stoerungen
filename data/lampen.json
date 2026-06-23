@@ -23542,5 +23542,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6273196,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/23/2026 18:58:46",
+    "dateEnd": "07/23/2026 18:58:46",
+    "lastUpdate": "06/23/2026 18:58:46",
+    "postalCode": "54634",
+    "city": "Bitburg",
+    "district": "Bitburg",
+    "street": "Daimlerstr.",
+    "radius": null,
+    "coordinates": "6.5302866;49.9490603",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
