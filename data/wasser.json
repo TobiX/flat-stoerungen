@@ -180,24 +180,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6263055,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "06/21/2026 17:03:00",
-    "dateEnd": "06/22/2026 00:05:00",
-    "lastUpdate": "06/22/2026 01:10:31",
-    "postalCode": "95448",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.590013,49.9416949",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 22.06.2026 00:30\nMonteur informiert um 21.06.2026 17:06\nMonteur vor Ort seit 21.06.2026 17:29\nStandort Notwasser: Äußere Badstraße, 16  Bayreuth-Schießhaus, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6265949,
     "operatorId": 132,
     "type": 1,
