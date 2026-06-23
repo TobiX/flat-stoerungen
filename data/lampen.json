@@ -1,23 +1,5 @@
 [
   {
-    "id": 6141031,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "03/31/2026 20:35:29",
-    "dateEnd": "04/30/2026 20:35:29",
-    "lastUpdate": "03/31/2026 20:35:28",
-    "postalCode": "65239",
-    "city": "Hochheim am Main",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.34721;50.02155",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6141077,
     "operatorId": 237,
     "type": 10,
@@ -3526,24 +3508,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6156271,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/28/2026 20:11:56",
-    "dateEnd": "05/28/2026 20:11:56",
-    "lastUpdate": "04/28/2026 20:11:57",
-    "postalCode": "85276",
-    "city": "Pfaffenhofen a.d. Ilm",
-    "district": "Pfaffenhofen an der Ilm",
-    "street": "Herzog-Wilhelm-Straße",
-    "radius": null,
-    "coordinates": "11.492079,48.528529",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
   },
   {
     "id": 6156321,
