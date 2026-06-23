@@ -23506,5 +23506,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6272662,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/23/2026 15:57:41",
+    "dateEnd": "07/23/2026 15:57:41",
+    "lastUpdate": "06/23/2026 15:57:41",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Altstadt I",
+    "street": "Gracht",
+    "radius": null,
+    "coordinates": "6.914289;51.4296309",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6273025,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/23/2026 17:31:51",
+    "dateEnd": "07/23/2026 17:31:51",
+    "lastUpdate": "06/23/2026 17:31:51",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.422286;50.114243",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
