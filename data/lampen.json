@@ -23452,5 +23452,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6274454,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/24/2026 01:08:51",
+    "dateEnd": "07/24/2026 01:08:51",
+    "lastUpdate": "06/24/2026 01:08:51",
+    "postalCode": "65326",
+    "city": "Aarbergen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.080618;50.245847",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
