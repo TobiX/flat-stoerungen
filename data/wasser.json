@@ -322,5 +322,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6277987,
+    "operatorId": 1837,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/24/2026 18:24:00",
+    "dateEnd": "06/24/2026 22:00:00",
+    "lastUpdate": "06/24/2026 18:25:37",
+    "postalCode": "23569",
+    "city": "Lübeck",
+    "district": null,
+    "street": "Hudestraße, 23569 Lübeck-Kücknitz, Deutschland",
+    "radius": 500,
+    "coordinates": "10.8186544,53.9102594",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "TraveNetz GmbH"
   }
 ]
