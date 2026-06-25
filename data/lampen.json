@@ -22732,5 +22732,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6279473,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/25/2026 03:11:35",
+    "dateEnd": "07/25/2026 03:11:35",
+    "lastUpdate": "06/25/2026 03:11:35",
+    "postalCode": "52372",
+    "city": "Kreuzau",
+    "district": "Leversbach",
+    "street": "Am Leversbach",
+    "radius": null,
+    "coordinates": "6.472250917619;50.717738111743",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
