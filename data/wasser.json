@@ -288,42 +288,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6280774,
-    "operatorId": 3311,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "06/25/2026 09:15:25",
-    "dateEnd": "06/25/2026 12:20:00",
-    "lastUpdate": "06/25/2026 10:00:30",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.541404511766508,52.455571839158196",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
-    "id": 6280775,
-    "operatorId": 3311,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "06/25/2026 09:15:25",
-    "dateEnd": "06/25/2026 12:20:00",
-    "lastUpdate": "06/25/2026 10:00:30",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.541404511766508,52.455571839158196",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
     "id": 6281644,
     "operatorId": 132,
     "type": 1,
@@ -358,5 +322,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6285608,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/26/2026 14:57:00",
+    "dateEnd": "06/26/2026 21:00:00",
+    "lastUpdate": "06/26/2026 15:34:24",
+    "postalCode": "45475",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": "",
+    "radius": 0,
+    "coordinates": "6.8952280418185605,51.459287",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nStandrohr zur Notversorgung: Denkhauser Höfe Ecke Auf den Bruch.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]

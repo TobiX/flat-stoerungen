@@ -54,24 +54,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6270757,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "06/25/2026 08:00:00",
-    "dateEnd": "06/25/2026 15:00:00",
-    "lastUpdate": "06/23/2026 07:04:42",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Am Berge, 38442 Wolfsburg-Fallersleben-Sülfeld, Deutschland",
-    "radius": 150,
-    "coordinates": "10.6929611,52.4152993",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6277453,
     "operatorId": 186,
     "type": 2,
