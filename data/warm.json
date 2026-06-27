@@ -54,24 +54,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6277453,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "06/26/2026 08:59:00",
-    "dateEnd": "06/26/2026 12:59:00",
-    "lastUpdate": "06/24/2026 15:36:42",
-    "postalCode": "38446",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Benzstraße, 38446 Wolfsburg-Neuhaus-Reislingen, Deutschland",
-    "radius": 200,
-    "coordinates": "10.8215735,52.4294314",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6280966,
     "operatorId": 19,
     "type": 2,
@@ -88,24 +70,6 @@
     "liveInfo": "Planmäßige Wartungsarbeiten. Es kann zu Versorgungseinschränkungen kommen.",
     "isFixed": false,
     "operatorName": "Elektroenergieversorgung Cottbus GmbH"
-  },
-  {
-    "id": 6284123,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "06/26/2026 08:00:00",
-    "dateEnd": "06/26/2026 12:45:00",
-    "lastUpdate": "06/26/2026 06:45:57",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Leitschweg, 38448 Wolfsburg-Kästorf, Deutschland",
-    "radius": 500,
-    "coordinates": "10.7775785,52.4450168",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
     "id": 6285085,
