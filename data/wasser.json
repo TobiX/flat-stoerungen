@@ -360,24 +360,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6289207,
-    "operatorId": 350,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "06/27/2026 10:36:35",
-    "dateEnd": "06/27/2026 14:40:00",
-    "lastUpdate": "06/27/2026 12:57:34",
-    "postalCode": "52064",
-    "city": "Aachen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.090044384145841,50.77159909490224",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Regionetz GmbH"
-  },
-  {
     "id": 6289496,
     "operatorId": 132,
     "type": 1,
