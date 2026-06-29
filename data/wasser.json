@@ -538,5 +538,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6302080,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "06/29/2026 20:28:00",
+    "dateEnd": "06/29/2026 23:59:00",
+    "lastUpdate": "06/29/2026 20:30:36",
+    "postalCode": "38644",
+    "city": "Goslar",
+    "district": null,
+    "street": "",
+    "radius": 0,
+    "coordinates": "10.393483909838574,51.9071622",
+    "liveInfo": "Techniker ist zur Entstörung vor Ort",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6302103,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "06/29/2026 20:57:24",
+    "dateEnd": "06/30/2026 00:00:00",
+    "lastUpdate": "06/29/2026 20:57:24",
+    "postalCode": "38644",
+    "city": "Goslar",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.441179549999378,51.95815593094079",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]

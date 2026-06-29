@@ -9108,24 +9108,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6180781,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/01/2026 20:59:48",
-    "dateEnd": "07/01/2026 20:59:48",
-    "lastUpdate": "06/01/2026 20:59:48",
-    "postalCode": "53909",
-    "city": "Zülpich",
-    "district": "Niederelvenich",
-    "street": "Wilhelm-Falkenberg-Str.",
-    "radius": null,
-    "coordinates": "6.71708728;50.70638407",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6181107,
     "operatorId": 132,
     "type": 10,
@@ -23056,5 +23038,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6302100,
+    "operatorId": 298,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/29/2026 20:54:19",
+    "dateEnd": "07/29/2026 20:54:19",
+    "lastUpdate": "06/29/2026 20:54:22",
+    "postalCode": "42553",
+    "city": "Velbert",
+    "district": "",
+    "street": "Nordrather Straße",
+    "radius": null,
+    "coordinates": "7.1522735;51.3168211",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Velbert GmbH"
   }
 ]
