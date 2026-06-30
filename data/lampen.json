@@ -23002,5 +23002,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bayernwerk Netz GmbH"
+  },
+  {
+    "id": 6303043,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/30/2026 00:37:22",
+    "dateEnd": "07/30/2026 00:37:22",
+    "lastUpdate": "06/30/2026 00:37:22",
+    "postalCode": "54634",
+    "city": "Bitburg",
+    "district": "Erdorf",
+    "street": "Kapellenstr.",
+    "radius": null,
+    "coordinates": "6.56837038;50.00582079",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6303044,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "06/30/2026 00:38:54",
+    "dateEnd": "07/30/2026 00:38:54",
+    "lastUpdate": "06/30/2026 00:38:54",
+    "postalCode": "54634",
+    "city": "Bitburg",
+    "district": "Erdorf",
+    "street": "Kyllburger Str.",
+    "radius": null,
+    "coordinates": "6.56779657;50.00566177",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
