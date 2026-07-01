@@ -14634,24 +14634,6 @@
     "operatorName": "Technische Betriebe Solingen"
   },
   {
-    "id": 6224928,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/13/2026 00:45:14",
-    "dateEnd": "07/13/2026 00:45:14",
-    "lastUpdate": "06/13/2026 00:45:14",
-    "postalCode": "71397",
-    "city": "Leutenbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.375979;48.897596",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6225118,
     "operatorId": 237,
     "type": 10,
@@ -16902,24 +16884,6 @@
     "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
-    "id": 6251687,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/19/2026 10:39:59",
-    "dateEnd": "07/19/2026 10:39:59",
-    "lastUpdate": "06/19/2026 10:39:59",
-    "postalCode": "71570",
-    "city": "Oppenweiler",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.45614;48.984797",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6252416,
     "operatorId": 237,
     "type": 10,
@@ -17172,24 +17136,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6256478,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/20/2026 11:25:12",
-    "dateEnd": "07/20/2026 11:25:12",
-    "lastUpdate": "06/20/2026 11:25:12",
-    "postalCode": "71404",
-    "city": "Korb",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.375451;48.830151",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6256642,
     "operatorId": 132,
     "type": 10,
@@ -17347,24 +17293,6 @@
     "street": "",
     "radius": null,
     "coordinates": "9.550802;48.859894",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6258725,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/20/2026 23:32:13",
-    "dateEnd": "07/20/2026 23:32:13",
-    "lastUpdate": "06/20/2026 23:32:13",
-    "postalCode": "73635",
-    "city": "Rudersberg",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.550865;48.859727",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
@@ -21636,24 +21564,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6298726,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/29/2026 06:45:32",
-    "dateEnd": "07/29/2026 06:45:32",
-    "lastUpdate": "06/29/2026 06:45:32",
-    "postalCode": "65326",
-    "city": "Aarbergen",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.071675;50.242972",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6299155,
     "operatorId": 132,
     "type": 10,
@@ -23200,5 +23110,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bayernwerk Netz GmbH"
+  },
+  {
+    "id": 6309084,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/01/2026 06:15:29",
+    "dateEnd": "08/01/2026 06:15:29",
+    "lastUpdate": "07/01/2026 06:15:29",
+    "postalCode": "64367",
+    "city": "Mühltal",
+    "district": "Darmstadt-Dieburg",
+    "street": "Lindenstraße",
+    "radius": null,
+    "coordinates": "8.704183,49.841125",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
