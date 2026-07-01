@@ -3240,24 +3240,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6160421,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/06/2026 00:33:32",
-    "dateEnd": "06/06/2026 00:33:32",
-    "lastUpdate": "05/06/2026 00:33:32",
-    "postalCode": "75038",
-    "city": "Oberderdingen",
-    "district": "Karlsruhe",
-    "street": "Oberderdingen-Flehingen",
-    "radius": null,
-    "coordinates": "8.77562,49.0835",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6160823,
     "operatorId": 237,
     "type": 10,
@@ -9052,24 +9034,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LEW Verteilnetz GmbH"
-  },
-  {
-    "id": 6186944,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/03/2026 00:52:28",
-    "dateEnd": "07/03/2026 00:52:28",
-    "lastUpdate": "06/03/2026 00:52:29",
-    "postalCode": "66879",
-    "city": "Steinwenden",
-    "district": "",
-    "street": "Schoppstr.",
-    "radius": null,
-    "coordinates": "7.509638,49.457171",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6188156,
@@ -23200,5 +23164,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6308092,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/01/2026 01:11:47",
+    "dateEnd": "08/01/2026 01:11:47",
+    "lastUpdate": "07/01/2026 01:11:48",
+    "postalCode": "56291",
+    "city": "Leiningen",
+    "district": "Leiningen",
+    "street": "Bayer Weg",
+    "radius": null,
+    "coordinates": "7.568237391512;50.131192551732",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6308140,
+    "operatorId": 402,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/01/2026 01:50:35",
+    "dateEnd": "08/01/2026 01:50:35",
+    "lastUpdate": "07/01/2026 01:50:35",
+    "postalCode": "85737",
+    "city": "Ismaning",
+    "district": "München",
+    "street": "Reisingerstraße",
+    "radius": null,
+    "coordinates": "11.668612,48.21841",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bayernwerk Netz GmbH"
   }
 ]
