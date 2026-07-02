@@ -1,23 +1,5 @@
 [
   {
-    "id": 6247113,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/01/2026 08:00:00",
-    "dateEnd": "07/01/2026 13:46:00",
-    "lastUpdate": "06/18/2026 08:47:53",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Ostlandstraße, 38442 Wolfsburg-Ehmen-Mörse, Deutschland",
-    "radius": 250,
-    "coordinates": "10.7344139,52.3946541",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6280966,
     "operatorId": 19,
     "type": 2,
@@ -157,24 +139,6 @@
     "street": "Lerchenweg, 38446 Wolfsburg, Deutschland",
     "radius": 400,
     "coordinates": "10.8113631,52.4256909",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6309113,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/01/2026 08:00:00",
-    "dateEnd": "07/01/2026 13:29:00",
-    "lastUpdate": "07/01/2026 06:39:18",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Bahnhofstraße, 38442 Wolfsburg-Fallersleben-Sülfeld, Deutschland",
-    "radius": 500,
-    "coordinates": "10.7168567,52.4209727",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
