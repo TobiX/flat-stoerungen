@@ -558,24 +558,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6309692,
-    "operatorId": 220,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "07/01/2026 08:53:00",
-    "dateEnd": "07/01/2026 17:00:00",
-    "lastUpdate": "07/01/2026 08:55:29",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Holunderstraße 16, 33790 Halle (Westfalen)-Hörste, Deutschland",
-    "radius": 100,
-    "coordinates": "8.299120499999999,52.04912789999999",
-    "liveInfo": "Der Bereitschaftsdienst der TWO ist vor Ort und behebt die Störung.",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6309695,
     "operatorId": 528,
     "type": 2,

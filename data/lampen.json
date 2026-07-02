@@ -1,23 +1,5 @@
 [
   {
-    "id": 6145163,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/09/2026 18:10:37",
-    "dateEnd": "05/09/2026 18:10:37",
-    "lastUpdate": "04/09/2026 18:10:37",
-    "postalCode": "71404",
-    "city": "Korb",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.359996;48.838526",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6145227,
     "operatorId": 237,
     "type": 10,
@@ -22804,5 +22786,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6316821,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/02/2026 20:29:51",
+    "dateEnd": "08/02/2026 20:29:51",
+    "lastUpdate": "07/02/2026 20:29:52",
+    "postalCode": "55765",
+    "city": "Rimsberg",
+    "district": "Rimsberg",
+    "street": "Weiherweg",
+    "radius": null,
+    "coordinates": "7.2102837;49.6575445",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
