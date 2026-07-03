@@ -594,24 +594,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6309869,
-    "operatorId": 149,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/01/2026 21:00:00",
-    "dateEnd": "07/02/2026 01:00:00",
-    "lastUpdate": "07/01/2026 09:28:46",
-    "postalCode": "24589",
-    "city": "Nortorf",
-    "district": null,
-    "street": "Rudolf-Kinau-str., 24589 Nortorf, Deutschland",
-    "radius": 100,
-    "coordinates": "9.8644796,54.1704705",
-    "liveInfo": "Betrifft: Rudolf-Kinau-Straße, Am Hunnenkamp , Hermann-Löns-Weg (teilweise) und Kieler Straße 40-44 (optional)",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Nortorf AöR"
-  },
-  {
     "id": 6310354,
     "operatorId": 186,
     "type": 2,

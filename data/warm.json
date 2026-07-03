@@ -196,5 +196,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6318572,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/07/2026 07:30:00",
+    "dateEnd": "07/07/2026 12:30:00",
+    "lastUpdate": "07/03/2026 06:50:23",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Auf d. Rönnecke, 38440 Wolfsburg, Deutschland",
+    "radius": 500,
+    "coordinates": "10.7876324,52.4139059",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
