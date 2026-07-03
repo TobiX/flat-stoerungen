@@ -22894,5 +22894,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "ENERVIE Vernetzt GmbH"
+  },
+  {
+    "id": 6317530,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/03/2026 00:23:31",
+    "dateEnd": "08/03/2026 00:23:31",
+    "lastUpdate": "07/03/2026 00:23:31",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Saarn/Mintard",
+    "street": "Cécile-Vogt-Str.",
+    "radius": null,
+    "coordinates": "6.86686524;51.3986547",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
