@@ -522,24 +522,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6304622,
-    "operatorId": 3311,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/02/2026 13:00:00",
-    "dateEnd": "07/02/2026 16:00:00",
-    "lastUpdate": "06/30/2026 08:40:25",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": "Haydnweg, 38518 Gifhorn, Deutschland",
-    "radius": 50,
-    "coordinates": "10.5633618,52.4702458",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
     "id": 6304791,
     "operatorId": 132,
     "type": 1,

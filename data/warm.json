@@ -108,24 +108,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6310146,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/02/2026 08:00:00",
-    "dateEnd": "07/02/2026 14:30:00",
-    "lastUpdate": "07/01/2026 10:39:10",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Am Schützenpl., 38442 Wolfsburg-Ehmen-Mörse, Deutschland",
-    "radius": 200,
-    "coordinates": "10.7126537,52.3902258",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6310154,
     "operatorId": 186,
     "type": 2,
