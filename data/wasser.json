@@ -682,5 +682,41 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6319019,
+    "operatorId": 220,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/08/2026 07:30:00",
+    "dateEnd": "07/08/2026 16:00:00",
+    "lastUpdate": "07/03/2026 08:42:36",
+    "postalCode": "33790",
+    "city": "Halle (Westf.)",
+    "district": null,
+    "street": "Mittelstraße, 33790 Halle (Westfalen), Deutschland",
+    "radius": 140,
+    "coordinates": "8.3730133,52.0522996",
+    "liveInfo": "Kundeninformation/Wasserabstellung\nDie TWO muss wegen dringender Arbeiten am Versorgungsnetz bzw. Hausanschluss  \ndas Wasser abstellen. \n\nBetroffene Häuser:\n\nOststr.:2,4,3,6,5,8,10,12,14,7\nMittelstr.:2,63,8,12,14,16,9,11,13,86\nOsningstr.:44,44a,47,46,48,50\n\n\nNach der Wiederinbetriebnahme kann es zu Trübungen und Druckschwankungen kommen.\nWir bitten um Ihr Verständnis.\n\nT.W.O. Technische Werke Osning GmbH\n",
+    "isFixed": false,
+    "operatorName": "T.W.O. Technische Werke Osning GmbH"
+  },
+  {
+    "id": 6319064,
+    "operatorId": 222,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "07/03/2026 08:45:00",
+    "dateEnd": "07/03/2026 15:00:00",
+    "lastUpdate": "07/03/2026 08:51:18",
+    "postalCode": "33619",
+    "city": "Bielefeld",
+    "district": null,
+    "street": "",
+    "radius": 0,
+    "coordinates": "8.45764780404205,52.04078855",
+    "liveInfo": "Monteur ist vor Ort und behebt die Störung.",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
