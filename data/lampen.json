@@ -22678,5 +22678,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6325022,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/04/2026 16:08:23",
+    "dateEnd": "08/04/2026 16:08:23",
+    "lastUpdate": "07/04/2026 16:08:24",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Borsigstraße",
+    "radius": null,
+    "coordinates": "8.379398,48.937698",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
