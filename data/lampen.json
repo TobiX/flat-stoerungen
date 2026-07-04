@@ -3078,24 +3078,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6162683,
-    "operatorId": 1928,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/09/2026 03:26:34",
-    "dateEnd": "06/09/2026 03:26:34",
-    "lastUpdate": "05/09/2026 03:26:33",
-    "postalCode": "45663",
-    "city": "Recklinghausen",
-    "district": "Kreis Recklinghausen",
-    "street": "Otto-Wels-Straße",
-    "radius": null,
-    "coordinates": "7.230315,51.56995",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
-  },
-  {
     "id": 6162752,
     "operatorId": 1938,
     "type": 10,
@@ -22696,5 +22678,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6322833,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/04/2026 04:00:21",
+    "dateEnd": "08/04/2026 04:00:21",
+    "lastUpdate": "07/04/2026 04:00:21",
+    "postalCode": "33181",
+    "city": "Bad Wünnenberg",
+    "district": "Fürstenberg",
+    "street": "Langenweg",
+    "radius": null,
+    "coordinates": "8.750776409523;51.512009431400",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6323197,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/04/2026 06:23:52",
+    "dateEnd": "08/04/2026 06:23:52",
+    "lastUpdate": "07/04/2026 06:23:51",
+    "postalCode": "54317",
+    "city": "Riveris",
+    "district": "Riveris",
+    "street": "Stauseestr.",
+    "radius": null,
+    "coordinates": "6.76404859;49.72582752",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
