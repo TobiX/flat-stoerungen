@@ -22804,5 +22804,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6329250,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 13:33:03",
+    "dateEnd": "08/05/2026 13:33:03",
+    "lastUpdate": "07/05/2026 13:33:03",
+    "postalCode": "53567",
+    "city": "Asbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.435858;50.686838",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6329443,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 14:25:10",
+    "dateEnd": "08/05/2026 14:25:10",
+    "lastUpdate": "07/05/2026 14:25:11",
+    "postalCode": "59439",
+    "city": "Holzwickede",
+    "district": "Innenstadt",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "7.620504176126;51.490996466038",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
