@@ -22768,5 +22768,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6329041,
+    "operatorId": 298,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 12:11:40",
+    "dateEnd": "08/05/2026 12:11:40",
+    "lastUpdate": "07/05/2026 12:11:41",
+    "postalCode": "42549",
+    "city": "Velbert",
+    "district": "",
+    "street": "Herderstraße",
+    "radius": null,
+    "coordinates": "7.0247563;51.3273014",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Velbert GmbH"
+  },
+  {
+    "id": 6329059,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 12:50:00",
+    "dateEnd": "08/05/2026 12:50:00",
+    "lastUpdate": "07/05/2026 12:50:02",
+    "postalCode": "71522",
+    "city": "Backnang",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.436119;48.950118",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
