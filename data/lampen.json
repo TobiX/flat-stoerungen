@@ -8730,24 +8730,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6204286,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/07/2026 18:49:50",
-    "dateEnd": "07/07/2026 18:49:50",
-    "lastUpdate": "06/07/2026 18:49:53",
-    "postalCode": "54619",
-    "city": "Heckhuscheid",
-    "district": "Heckhuscheid",
-    "street": "Dorfstr.",
-    "radius": null,
-    "coordinates": "6.22086411;50.17751472",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6204420,
     "operatorId": 132,
     "type": 10,
@@ -22876,5 +22858,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6330073,
+    "operatorId": 394,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 17:26:38",
+    "dateEnd": "08/05/2026 17:26:38",
+    "lastUpdate": "07/05/2026 17:26:39",
+    "postalCode": "63165",
+    "city": "Mühlheim am Main",
+    "district": "Mühlheim am Main",
+    "street": "Josefstraße",
+    "radius": null,
+    "coordinates": "8.852819,50.120515",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Mühlheim am Main GmbH"
   }
 ]
