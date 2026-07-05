@@ -22840,5 +22840,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6329862,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 16:20:19",
+    "dateEnd": "08/05/2026 16:20:19",
+    "lastUpdate": "07/05/2026 16:20:21",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Dieselstraße",
+    "radius": null,
+    "coordinates": "8.394070,48.946009",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6329865,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/05/2026 16:20:58",
+    "dateEnd": "08/05/2026 16:20:58",
+    "lastUpdate": "07/05/2026 16:21:00",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Dieselstraße",
+    "radius": null,
+    "coordinates": "8.393826,48.946107",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
