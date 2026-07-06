@@ -720,24 +720,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6328040,
-    "operatorId": 350,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "07/05/2026 07:15:00",
-    "dateEnd": "07/05/2026 13:30:00",
-    "lastUpdate": "07/05/2026 12:45:45",
-    "postalCode": "52156",
-    "city": "Monschau",
-    "district": null,
-    "street": "",
-    "radius": 0,
-    "coordinates": "6.263876989294072,50.55268130554269",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Regionetz GmbH"
-  },
-  {
     "id": 6328447,
     "operatorId": 132,
     "type": 1,

@@ -250,5 +250,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6335294,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/27/2026 08:05:00",
+    "dateEnd": "07/27/2026 12:05:00",
+    "lastUpdate": "07/06/2026 16:06:38",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Schönebecker Straße 31",
+    "radius": 500,
+    "coordinates": "10.83394,52.45057",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6335299,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/08/2026 07:15:00",
+    "dateEnd": "07/08/2026 15:15:00",
+    "lastUpdate": "07/06/2026 16:14:15",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Neisser Straße",
+    "radius": 250,
+    "coordinates": "10.854317,52.458984",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
