@@ -232,5 +232,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6332991,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/08/2026 08:00:00",
+    "dateEnd": "07/08/2026 14:15:00",
+    "lastUpdate": "07/06/2026 07:18:47",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Neisser Str., 38448 Wolfsburg-Wendschott, Deutschland",
+    "radius": 150,
+    "coordinates": "10.8536845,52.4582359",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
