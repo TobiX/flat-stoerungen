@@ -72,24 +72,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6309893,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/06/2026 09:30:00",
-    "dateEnd": "07/06/2026 12:00:00",
-    "lastUpdate": "07/01/2026 09:53:44",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Leitschweg, 38448 Wolfsburg-Kästorf, Deutschland",
-    "radius": 500,
-    "coordinates": "10.7775203,52.4453196",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6310094,
     "operatorId": 186,
     "type": 2,
