@@ -3150,24 +3150,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6163915,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/12/2026 03:07:28",
-    "dateEnd": "06/12/2026 03:07:28",
-    "lastUpdate": "05/12/2026 03:07:29",
-    "postalCode": "27498",
-    "city": "Helgoland",
-    "district": "Pinneberg",
-    "street": "Steanaker",
-    "radius": null,
-    "coordinates": "7.885810,54.182552",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6164171,
     "operatorId": 237,
     "type": 10,
@@ -22984,5 +22966,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6337885,
+    "operatorId": 1999,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/07/2026 04:17:56",
+    "dateEnd": "08/07/2026 04:17:56",
+    "lastUpdate": "07/07/2026 04:19:21",
+    "postalCode": "50129",
+    "city": "Bergheim",
+    "district": "Rhein-Erft-Kreis",
+    "street": "Pfarrer-Heinrich-von-Solre-Straße",
+    "radius": null,
+    "coordinates": "6.689285,50.971668",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bergheim GmbH"
   }
 ]
