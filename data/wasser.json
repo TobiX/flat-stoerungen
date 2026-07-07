@@ -952,5 +952,41 @@
     "liveInfo": "Irenicusstr. 20-34",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6341909,
+    "operatorId": 3311,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/07/2026 22:48:16",
+    "dateEnd": "07/08/2026 01:50:00",
+    "lastUpdate": "07/07/2026 22:48:16",
+    "postalCode": "38518",
+    "city": "Gifhorn",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.50039139335784,52.505507552357344",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
+  },
+  {
+    "id": 6341910,
+    "operatorId": 3311,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/07/2026 22:48:16",
+    "dateEnd": "07/08/2026 01:50:00",
+    "lastUpdate": "07/07/2026 22:48:16",
+    "postalCode": "38518",
+    "city": "Gifhorn",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.50039139335784,52.505507552357344",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
   }
 ]
