@@ -132,7 +132,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 11:15:27",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 17:09:08",
+    "lastUpdate": "07/07/2026 18:03:36",
     "postalCode": "32805",
     "city": "Horn-Bad Meinberg",
     "district": null,
@@ -140,7 +140,7 @@
     "radius": null,
     "coordinates": "8.985703749907287,51.8930185",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -186,7 +186,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 13:43:33",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 17:09:08",
+    "lastUpdate": "07/07/2026 20:06:20",
     "postalCode": "58553",
     "city": "Halver",
     "district": null,
