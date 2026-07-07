@@ -114,7 +114,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 08:47:14",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 13:51:10",
+    "lastUpdate": "07/07/2026 16:03:40",
     "postalCode": "33034",
     "city": "Brakel",
     "district": null,
@@ -122,7 +122,7 @@
     "radius": null,
     "coordinates": "9.181232501163457,51.7149215",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -132,7 +132,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 11:15:27",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 13:51:10",
+    "lastUpdate": "07/07/2026 17:09:08",
     "postalCode": "32805",
     "city": "Horn-Bad Meinberg",
     "district": null,
@@ -150,7 +150,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 12:48:01",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 13:51:10",
+    "lastUpdate": "07/07/2026 14:56:31",
     "postalCode": "46282",
     "city": "Dorsten",
     "district": null,
@@ -158,7 +158,7 @@
     "radius": null,
     "coordinates": "7.033009225327206,51.66625",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -168,7 +168,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 12:48:01",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 13:51:10",
+    "lastUpdate": "07/07/2026 14:56:31",
     "postalCode": "45768",
     "city": "Marl",
     "district": null,
@@ -176,7 +176,7 @@
     "radius": null,
     "coordinates": "7.033009225327206,51.66625",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -186,7 +186,7 @@
     "origin": 5,
     "dateStart": "07/07/2026 13:43:33",
     "dateEnd": null,
-    "lastUpdate": "07/07/2026 13:51:11",
+    "lastUpdate": "07/07/2026 17:09:08",
     "postalCode": "58553",
     "city": "Halver",
     "district": null,

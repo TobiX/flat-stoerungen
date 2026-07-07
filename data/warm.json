@@ -1,23 +1,5 @@
 [
   {
-    "id": 6285244,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/06/2026 08:00:00",
-    "dateEnd": "07/06/2026 13:04:00",
-    "lastUpdate": "06/26/2026 12:05:09",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Kampstraße, 38442 Wolfsburg-Fallersleben-Sülfeld, Deutschland",
-    "radius": 500,
-    "coordinates": "10.7192468,52.4199155",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6299436,
     "operatorId": 186,
     "type": 2,

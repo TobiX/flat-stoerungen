@@ -916,5 +916,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6340287,
+    "operatorId": 528,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/08/2026 08:00:00",
+    "dateEnd": "07/08/2026 11:00:00",
+    "lastUpdate": "07/07/2026 14:52:16",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": null,
+    "street": "Grimmweg",
+    "radius": 500,
+    "coordinates": "8.39843,48.94689",
+    "liveInfo": "Grimmweg 1-31",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6340288,
+    "operatorId": 528,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/08/2026 08:00:00",
+    "dateEnd": "07/08/2026 11:00:00",
+    "lastUpdate": "07/07/2026 14:53:28",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": null,
+    "street": "Irenicusstraße",
+    "radius": 500,
+    "coordinates": "8.398554,48.947968",
+    "liveInfo": "Irenicusstr. 20-34",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
