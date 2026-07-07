@@ -286,5 +286,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6338539,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/15/2026 08:00:00",
+    "dateEnd": "07/15/2026 13:00:00",
+    "lastUpdate": "07/07/2026 07:54:54",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Wacholderweg",
+    "radius": 100,
+    "coordinates": "10.752581,52.42234",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
