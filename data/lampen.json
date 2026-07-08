@@ -9018,24 +9018,6 @@
     "operatorName": "AggerEnergie GmbH"
   },
   {
-    "id": 6215790,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/10/2026 17:26:09",
-    "dateEnd": "07/10/2026 17:26:09",
-    "lastUpdate": "06/10/2026 17:26:09",
-    "postalCode": "56332",
-    "city": "Oberfell",
-    "district": "Oberfell",
-    "street": "Moselstraße",
-    "radius": null,
-    "coordinates": "7.446894292519;50.262397110512",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6215920,
     "operatorId": 402,
     "type": 10,
@@ -22408,5 +22390,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6346625,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/08/2026 17:21:01",
+    "dateEnd": "08/08/2026 17:21:01",
+    "lastUpdate": "07/08/2026 17:20:59",
+    "postalCode": "65817",
+    "city": "Eppstein",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.391219;50.140093",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
