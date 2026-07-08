@@ -108,24 +108,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6338782,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/07/2026 08:47:14",
-    "dateEnd": null,
-    "lastUpdate": "07/07/2026 16:03:40",
-    "postalCode": "33034",
-    "city": "Brakel",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.181232501163457,51.7149215",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6339571,
     "operatorId": 132,
     "type": 1,
