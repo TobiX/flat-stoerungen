@@ -846,24 +846,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6336535,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/06/2026 22:06:30",
-    "dateEnd": null,
-    "lastUpdate": "07/07/2026 13:51:10",
-    "postalCode": "50189",
-    "city": "Elsdorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.545979747989422,50.94505",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6338542,
     "operatorId": 132,
     "type": 1,
