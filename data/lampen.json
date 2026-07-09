@@ -3312,24 +3312,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6165441,
-    "operatorId": 3735,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/14/2026 23:03:57",
-    "dateEnd": "06/14/2026 23:03:57",
-    "lastUpdate": "05/14/2026 23:03:58",
-    "postalCode": "58791",
-    "city": "Werdohl",
-    "district": "Märkischer Kreis",
-    "street": "Hochstraße",
-    "radius": null,
-    "coordinates": "7.760985,51.233094",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Werdohl"
-  },
-  {
     "id": 6165540,
     "operatorId": 237,
     "type": 10,
@@ -9270,24 +9252,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6220762,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/11/2026 23:03:49",
-    "dateEnd": "07/11/2026 23:03:49",
-    "lastUpdate": "06/11/2026 23:03:52",
-    "postalCode": "59379",
-    "city": "Selm",
-    "district": "Bork",
-    "street": "Waltroper Str.",
-    "radius": null,
-    "coordinates": "7.46690274;51.65868415",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6220777,
     "operatorId": 1969,
     "type": 10,
@@ -9304,24 +9268,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "AggerEnergie GmbH"
-  },
-  {
-    "id": 6220781,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/11/2026 23:38:38",
-    "dateEnd": "07/11/2026 23:38:38",
-    "lastUpdate": "06/11/2026 23:38:39",
-    "postalCode": "46286",
-    "city": "Dorsten",
-    "district": "Neue Stadt Wulfen",
-    "street": "BG 16 Nap.-Weg/Wittb.Damm",
-    "radius": null,
-    "coordinates": "7.043975293555;51.739280609178",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6220783,
@@ -18828,24 +18774,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6317508,
-    "operatorId": 302,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/03/2026 00:10:59",
-    "dateEnd": "08/03/2026 00:10:59",
-    "lastUpdate": "07/03/2026 00:13:19",
-    "postalCode": "58511",
-    "city": "Lüdenscheid",
-    "district": "",
-    "street": "Straßburger Weg",
-    "radius": null,
-    "coordinates": "7.648587,51.219070",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ENERVIE Vernetzt GmbH"
-  },
-  {
     "id": 6317530,
     "operatorId": 132,
     "type": 10,
@@ -22264,5 +22192,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6352348,
+    "operatorId": 2257,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/09/2026 23:43:44",
+    "dateEnd": "08/09/2026 23:43:44",
+    "lastUpdate": "07/09/2026 23:43:45",
+    "postalCode": "23570",
+    "city": "Lübeck",
+    "district": "Kreisfreie Stadt Lübeck",
+    "street": "Kleines Haff",
+    "radius": null,
+    "coordinates": "10.849606,53.951786",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Hansestadt Lübeck"
+  },
+  {
+    "id": 6352514,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/10/2026 00:22:24",
+    "dateEnd": "08/10/2026 00:22:24",
+    "lastUpdate": "07/10/2026 00:22:24",
+    "postalCode": "54421",
+    "city": "Hinzert-Pölert",
+    "district": "Pölert",
+    "street": "Blasiusstr.",
+    "radius": null,
+    "coordinates": "6.91095871;49.70091146",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
