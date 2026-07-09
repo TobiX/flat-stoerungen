@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6352135,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/09/2026 14:36:25",
+    "dateEnd": null,
+    "lastUpdate": "07/09/2026 23:36:08",
+    "postalCode": "32805",
+    "city": "Horn-Bad Meinberg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.985703749907287,51.8930185",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
