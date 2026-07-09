@@ -54,24 +54,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6345356,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "07/08/2026 12:31:00",
-    "dateEnd": "07/08/2026 17:30:00",
-    "lastUpdate": "07/08/2026 15:08:15",
-    "postalCode": "46236",
-    "city": "Bottrop",
-    "district": null,
-    "street": "Alter Südring",
-    "radius": 250,
-    "coordinates": "6.924736032234071,51.52515235",
-    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nVon der Sperrung der Wasserversorgung sind die folgenden Hausnummern betroffen:\nAlter Südring Nr 3 bis 31 und Grünwaldstr. 38 bis 48",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
     "id": 6351265,
     "operatorId": 298,
     "type": 1,
