@@ -60,7 +60,7 @@
     "origin": 5,
     "dateStart": "07/10/2026 17:48:42",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 19:03:23",
+    "lastUpdate": "07/10/2026 19:28:51",
     "postalCode": "50171",
     "city": "Kerpen",
     "district": null,
@@ -68,7 +68,7 @@
     "radius": null,
     "coordinates": "6.675995236361105,50.858703500000004",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -78,7 +78,7 @@
     "origin": 5,
     "dateStart": "07/10/2026 18:50:30",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 19:03:23",
+    "lastUpdate": "07/10/2026 19:53:23",
     "postalCode": "48351",
     "city": "Everswinkel",
     "district": null,
@@ -86,7 +86,7 @@
     "radius": null,
     "coordinates": "7.829939249309376,51.9276585",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]

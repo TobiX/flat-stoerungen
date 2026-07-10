@@ -186,7 +186,7 @@
     "origin": 5,
     "dateStart": "07/10/2026 17:30:24",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 19:03:23",
+    "lastUpdate": "07/10/2026 19:56:08",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,
@@ -194,7 +194,7 @@
     "radius": null,
     "coordinates": "6.566028235708982,50.985928",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
