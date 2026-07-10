@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "07/09/2026 14:36:25",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 13:13:25",
+    "lastUpdate": "07/10/2026 14:10:46",
     "postalCode": "32805",
     "city": "Horn-Bad Meinberg",
     "district": null,
@@ -24,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/10/2026 09:52:34",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 13:13:25",
+    "lastUpdate": "07/10/2026 13:28:53",
     "postalCode": "57482",
     "city": "Wenden",
     "district": null,
@@ -32,7 +32,7 @@
     "radius": null,
     "coordinates": "7.8101042289966625,50.956680500000004",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -42,7 +42,7 @@
     "origin": 5,
     "dateStart": "07/10/2026 10:07:57",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 13:13:25",
+    "lastUpdate": "07/10/2026 13:43:25",
     "postalCode": "27232",
     "city": "Sulingen",
     "district": null,
@@ -50,7 +50,7 @@
     "radius": null,
     "coordinates": "8.770484748655415,52.653096500000004",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
