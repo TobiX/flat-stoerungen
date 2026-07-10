@@ -9036,24 +9036,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6224013,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/12/2026 18:01:41",
-    "dateEnd": "07/12/2026 18:01:41",
-    "lastUpdate": "06/12/2026 18:01:46",
-    "postalCode": "76857",
-    "city": "Waldrohrbach",
-    "district": "",
-    "street": "Birkenstr.",
-    "radius": null,
-    "coordinates": "7.971698,49.168465",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6224587,
     "operatorId": 237,
     "type": 10,

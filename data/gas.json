@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "07/09/2026 14:36:25",
     "dateEnd": null,
-    "lastUpdate": "07/10/2026 14:10:46",
+    "lastUpdate": "07/10/2026 17:48:52",
     "postalCode": "32805",
     "city": "Horn-Bad Meinberg",
     "district": null,
@@ -14,7 +14,7 @@
     "radius": null,
     "coordinates": "8.985703749907287,51.8930185",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -51,6 +51,42 @@
     "coordinates": "8.770484748655415,52.653096500000004",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6355598,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/10/2026 17:48:42",
+    "dateEnd": null,
+    "lastUpdate": "07/10/2026 19:03:23",
+    "postalCode": "50171",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.675995236361105,50.858703500000004",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6355771,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/10/2026 18:50:30",
+    "dateEnd": null,
+    "lastUpdate": "07/10/2026 19:03:23",
+    "postalCode": "48351",
+    "city": "Everswinkel",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.829939249309376,51.9276585",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
