@@ -22228,5 +22228,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6352686,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/10/2026 01:28:13",
+    "dateEnd": "08/10/2026 01:28:13",
+    "lastUpdate": "07/10/2026 01:28:14",
+    "postalCode": "55606",
+    "city": "Hochstetten-Dhaun",
+    "district": "Hochstädten",
+    "street": "Mühlengrund",
+    "radius": null,
+    "coordinates": "7.520384619748;49.800460838456",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6352871,
+    "operatorId": 4880,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/10/2026 02:53:59",
+    "dateEnd": "08/10/2026 02:53:59",
+    "lastUpdate": "07/10/2026 02:54:00",
+    "postalCode": "23968",
+    "city": "Gägelow",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "11.366618,53.902405",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Amt Grevesmühlen-Land"
   }
 ]
