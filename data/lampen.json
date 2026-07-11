@@ -20266,5 +20266,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6358788,
+    "operatorId": 1919,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/11/2026 12:46:56",
+    "dateEnd": "08/11/2026 12:46:56",
+    "lastUpdate": "07/11/2026 12:46:55",
+    "postalCode": "31139",
+    "city": "Hildesheim",
+    "district": "Hildesheim",
+    "street": "Hinter dem Dorfe",
+    "radius": null,
+    "coordinates": "9.877188349259313,52.14433921829854",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Hildesheim"
   }
 ]
