@@ -18,24 +18,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6355590,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/10/2026 17:30:24",
-    "dateEnd": null,
-    "lastUpdate": "07/10/2026 19:56:08",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.566028235708982,50.985928",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6356429,
     "operatorId": 132,
     "type": 1,

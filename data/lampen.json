@@ -1,23 +1,5 @@
 [
   {
-    "id": 6149961,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/18/2026 20:53:59",
-    "dateEnd": "05/18/2026 20:53:59",
-    "lastUpdate": "04/18/2026 20:54:01",
-    "postalCode": "61250",
-    "city": "Usingen",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.532169;50.331955",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6150516,
     "operatorId": 237,
     "type": 10,
