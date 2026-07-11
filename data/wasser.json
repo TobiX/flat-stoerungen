@@ -1,23 +1,5 @@
 [
   {
-    "id": 6354017,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/10/2026 19:30:00",
-    "dateEnd": "07/10/2026 22:00:00",
-    "lastUpdate": "07/10/2026 08:53:57",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Am Lotteberg 6",
-    "radius": 200,
-    "coordinates": "8.371096,52.059166",
-    "liveInfo": "Aufgrund einer Feuerwehrübung kann es am Freitag, dem 10.07.2026 im Bereich Am Lotteberg / Grünerweg zu schwankungen und damit zu Einschränkungen in der Wasserversorgung kommen. \nWir bitten um Ihr Verständnis.",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6356429,
     "operatorId": 132,
     "type": 1,
@@ -42,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/11/2026 21:43:42",
     "dateEnd": null,
-    "lastUpdate": "07/11/2026 23:56:07",
+    "lastUpdate": "07/12/2026 00:43:22",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,
