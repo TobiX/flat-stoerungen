@@ -1,23 +1,5 @@
 [
   {
-    "id": 6149784,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/18/2026 11:35:46",
-    "dateEnd": "05/18/2026 11:35:46",
-    "lastUpdate": "04/18/2026 11:35:46",
-    "postalCode": "61267",
-    "city": "Neu-Anspach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.50726;50.291062",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6149961,
     "operatorId": 237,
     "type": 10,
@@ -20266,5 +20248,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6358610,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/11/2026 11:32:17",
+    "dateEnd": "08/11/2026 11:32:17",
+    "lastUpdate": "07/11/2026 11:32:20",
+    "postalCode": "65582",
+    "city": "Hambach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.981298;50.398411",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
