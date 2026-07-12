@@ -8856,24 +8856,6 @@
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   },
   {
-    "id": 6232146,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/14/2026 20:49:58",
-    "dateEnd": "07/14/2026 20:49:58",
-    "lastUpdate": "06/14/2026 20:48:16",
-    "postalCode": "52379",
-    "city": "Langerwehe",
-    "district": "Langerwehe",
-    "street": "Ulhaus",
-    "radius": null,
-    "coordinates": "6.354710874120;50.818545325552",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6232621,
     "operatorId": 71,
     "type": 10,
@@ -20734,5 +20716,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6364890,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/12/2026 20:37:49",
+    "dateEnd": "08/12/2026 20:37:49",
+    "lastUpdate": "07/12/2026 20:37:49",
+    "postalCode": "65812",
+    "city": "Bad Soden am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.506131;50.134509",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6364891,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/12/2026 20:39:21",
+    "dateEnd": "08/12/2026 20:39:21",
+    "lastUpdate": "07/12/2026 20:39:21",
+    "postalCode": "65812",
+    "city": "Bad Soden am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.507182;50.132953",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
