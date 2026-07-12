@@ -8856,24 +8856,6 @@
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   },
   {
-    "id": 6230318,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/14/2026 09:30:15",
-    "dateEnd": "07/14/2026 09:30:15",
-    "lastUpdate": "06/14/2026 09:30:16",
-    "postalCode": "67681",
-    "city": "Wartenberg-Rohrbach",
-    "district": "",
-    "street": "Schanzenberg",
-    "radius": null,
-    "coordinates": "7.854869,49.530162",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6230682,
     "operatorId": 354,
     "type": 10,
@@ -20644,5 +20626,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6362827,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 5,
+    "dateStart": "07/12/2026 09:16:05",
+    "dateEnd": null,
+    "lastUpdate": "07/12/2026 09:16:23",
+    "postalCode": "74360",
+    "city": "Ilsfeld",
+    "district": "",
+    "street": "Eisenbahnstr.",
+    "radius": null,
+    "coordinates": "9.277627;49.055657",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6363007,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/12/2026 10:24:47",
+    "dateEnd": "08/12/2026 10:24:47",
+    "lastUpdate": "07/12/2026 10:24:49",
+    "postalCode": "67251",
+    "city": "Freinsheim",
+    "district": "",
+    "street": "Südliche Ringstr.",
+    "radius": null,
+    "coordinates": "8.214728,49.507565",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
