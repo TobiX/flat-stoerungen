@@ -20608,5 +20608,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6362474,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/12/2026 07:41:02",
+    "dateEnd": "08/12/2026 07:41:02",
+    "lastUpdate": "07/12/2026 07:41:02",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.438182;50.075014",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6362643,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/12/2026 08:07:42",
+    "dateEnd": "08/12/2026 08:07:42",
+    "lastUpdate": "07/12/2026 08:07:42",
+    "postalCode": "61449",
+    "city": "Steinbach (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.571932;50.17098",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
