@@ -8802,24 +8802,6 @@
     "operatorName": "Bonn-Netz GmbH"
   },
   {
-    "id": 6229114,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/14/2026 02:19:35",
-    "dateEnd": "07/14/2026 02:19:35",
-    "lastUpdate": "06/14/2026 02:19:35",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Heißen",
-    "street": "Mühlenfeld",
-    "radius": null,
-    "coordinates": "6.9097062;51.4274869",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6229279,
     "operatorId": 237,
     "type": 10,
