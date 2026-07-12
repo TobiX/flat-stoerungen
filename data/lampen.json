@@ -20788,5 +20788,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Helmstedt"
+  },
+  {
+    "id": 6365444,
+    "operatorId": 3799,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/12/2026 23:17:09",
+    "dateEnd": "08/12/2026 23:17:09",
+    "lastUpdate": "07/12/2026 23:17:15",
+    "postalCode": "25557",
+    "city": "Hanerau-Hademarschen",
+    "district": "Rendsburg-Eckernförde",
+    "street": "Amselweg",
+    "radius": null,
+    "coordinates": "9.411230,54.128893",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Amt Mittelholstein"
   }
 ]
