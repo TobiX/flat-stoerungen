@@ -2862,24 +2862,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6166293,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/17/2026 23:06:43",
-    "dateEnd": "06/17/2026 23:06:43",
-    "lastUpdate": "05/17/2026 23:06:44",
-    "postalCode": "59077",
-    "city": "Hamm",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.755262,51.663566",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6166297,
     "operatorId": 237,
     "type": 10,
@@ -20806,5 +20788,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Amt Mittelholstein"
+  },
+  {
+    "id": 6365626,
+    "operatorId": 5227,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/13/2026 00:01:39",
+    "dateEnd": "08/13/2026 00:01:39",
+    "lastUpdate": "07/13/2026 00:01:41",
+    "postalCode": "66557",
+    "city": "Illingen",
+    "district": "Neunkirchen",
+    "street": "Bahnhofstraße",
+    "radius": null,
+    "coordinates": "7.035739,49.396103",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Illingen"
   }
 ]

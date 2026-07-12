@@ -1,23 +1,5 @@
 [
   {
-    "id": 6360570,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/11/2026 21:43:42",
-    "dateEnd": null,
-    "lastUpdate": "07/12/2026 09:20:45",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.558210471325166,50.9938565",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6362830,
     "operatorId": 132,
     "type": 1,
