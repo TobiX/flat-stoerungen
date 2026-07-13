@@ -3006,24 +3006,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6166891,
-    "operatorId": 5305,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/18/2026 23:55:39",
-    "dateEnd": "06/18/2026 23:55:39",
-    "lastUpdate": "05/18/2026 23:55:40",
-    "postalCode": "66280",
-    "city": "Sulzbach/Saar",
-    "district": "Regionalverband Saarbrücken",
-    "street": "Mellinweg",
-    "radius": null,
-    "coordinates": "7.061548,49.303352",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Sulzbach/Saar"
-  },
-  {
     "id": 6166892,
     "operatorId": 4426,
     "type": 10,
@@ -21562,5 +21544,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "AggerEnergie GmbH"
+  },
+  {
+    "id": 6370724,
+    "operatorId": 337,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/13/2026 23:19:05",
+    "dateEnd": "08/13/2026 23:19:05",
+    "lastUpdate": "07/13/2026 23:19:07",
+    "postalCode": "48703",
+    "city": "Stadtlohn",
+    "district": "Borken",
+    "street": "Kapellenplatz",
+    "radius": null,
+    "coordinates": "6.930455,51.99457",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LokalWerke GmbH"
+  },
+  {
+    "id": 6370725,
+    "operatorId": 337,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/13/2026 23:19:39",
+    "dateEnd": "08/13/2026 23:19:39",
+    "lastUpdate": "07/13/2026 23:19:41",
+    "postalCode": "48703",
+    "city": "Stadtlohn",
+    "district": "Borken",
+    "street": "Kapellenplatz",
+    "radius": null,
+    "coordinates": "6.930365,51.99441",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LokalWerke GmbH"
   }
 ]
