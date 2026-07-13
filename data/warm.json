@@ -358,5 +358,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6367095,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/27/2026 08:15:00",
+    "dateEnd": "07/27/2026 12:30:00",
+    "lastUpdate": "07/13/2026 07:27:02",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Herzogin-Clara-Straße 33",
+    "radius": 500,
+    "coordinates": "10.719539,52.409626",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]

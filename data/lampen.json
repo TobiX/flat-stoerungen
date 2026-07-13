@@ -8892,24 +8892,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6233779,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/15/2026 06:43:34",
-    "dateEnd": "07/15/2026 06:43:34",
-    "lastUpdate": "06/15/2026 06:43:34",
-    "postalCode": "66500",
-    "city": "Mauschbach",
-    "district": "",
-    "street": "Hauptstr.",
-    "radius": null,
-    "coordinates": "7.389468,49.186093",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6234013,
     "operatorId": 1922,
     "type": 10,
@@ -19657,7 +19639,7 @@
   },
   {
     "id": 6356743,
-    "operatorId": null,
+    "operatorId": 5445,
     "type": 10,
     "origin": 10,
     "dateStart": "07/11/2026 00:13:48",
@@ -19671,7 +19653,7 @@
     "coordinates": "12.590055,51.593346",
     "liveInfo": "",
     "isFixed": false,
-    "operatorName": null
+    "operatorName": "Stadt Bad Düben"
   },
   {
     "id": 6356762,
@@ -20858,6 +20840,42 @@
     "radius": null,
     "coordinates": "7.306427;50.519303",
     "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6367340,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/13/2026 08:08:05",
+    "dateEnd": "08/13/2026 08:08:05",
+    "lastUpdate": "07/13/2026 08:08:05",
+    "postalCode": "65830",
+    "city": "Kriftel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.468141;50.079442",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6367425,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 5,
+    "dateStart": "07/13/2026 08:40:50",
+    "dateEnd": null,
+    "lastUpdate": "07/13/2026 08:41:19",
+    "postalCode": "61440",
+    "city": "Oberursel",
+    "district": "",
+    "street": "Kurmainzer Str.",
+    "radius": null,
+    "coordinates": "8.601863;50.186115",
+    "liveInfo": null,
     "isFixed": false,
     "operatorName": "Syna GmbH"
   }
