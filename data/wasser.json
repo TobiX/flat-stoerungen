@@ -1,23 +1,5 @@
 [
   {
-    "id": 6364900,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/12/2026 20:56:13",
-    "dateEnd": null,
-    "lastUpdate": "07/13/2026 08:00:46",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.744269973464465,50.973324500000004",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6366288,
     "operatorId": 3331,
     "type": 1,
@@ -132,7 +114,7 @@
     "origin": 5,
     "dateStart": "07/13/2026 12:25:31",
     "dateEnd": null,
-    "lastUpdate": "07/13/2026 21:40:50",
+    "lastUpdate": "07/13/2026 23:06:13",
     "postalCode": "50126",
     "city": "Bergheim",
     "district": null,
@@ -150,7 +132,7 @@
     "origin": 5,
     "dateStart": "07/13/2026 12:25:31",
     "dateEnd": null,
-    "lastUpdate": "07/13/2026 21:40:50",
+    "lastUpdate": "07/13/2026 23:06:13",
     "postalCode": "50127",
     "city": "Bergheim",
     "district": null,
@@ -268,5 +250,23 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6370566,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/13/2026 22:54:21",
+    "dateEnd": "07/14/2026 01:55:00",
+    "lastUpdate": "07/13/2026 22:54:21",
+    "postalCode": "46514",
+    "city": "Schermbeck",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.839026877254463,51.69048178976213",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
