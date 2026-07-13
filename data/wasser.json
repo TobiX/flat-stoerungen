@@ -70,5 +70,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6366288,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "07/13/2026 03:23:00",
+    "dateEnd": "07/13/2026 15:00:00",
+    "lastUpdate": "07/13/2026 03:25:14",
+    "postalCode": "46514",
+    "city": "Schermbeck",
+    "district": null,
+    "street": "Kettelerstraße ",
+    "radius": 500,
+    "coordinates": "6.8817453,51.698223",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6366291,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "07/13/2026 03:25:00",
+    "dateEnd": "07/13/2026 15:00:00",
+    "lastUpdate": "07/13/2026 03:25:52",
+    "postalCode": "46342",
+    "city": "Velen",
+    "district": null,
+    "street": "Schulstraße ",
+    "radius": 500,
+    "coordinates": "6.9907613,51.892246",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
