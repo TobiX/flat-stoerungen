@@ -60,7 +60,7 @@
     "origin": 5,
     "dateStart": "07/13/2026 16:22:57",
     "dateEnd": null,
-    "lastUpdate": "07/13/2026 16:53:30",
+    "lastUpdate": "07/13/2026 19:08:53",
     "postalCode": "57489",
     "city": "Drolshagen",
     "district": null,
@@ -68,7 +68,7 @@
     "radius": null,
     "coordinates": "7.764025979051933,51.020926",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]

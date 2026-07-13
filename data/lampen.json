@@ -21220,5 +21220,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6369796,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/13/2026 18:59:45",
+    "dateEnd": "08/13/2026 18:59:45",
+    "lastUpdate": "07/13/2026 18:59:46",
+    "postalCode": "55758",
+    "city": "Sien",
+    "district": "Sien",
+    "street": "Flurweg",
+    "radius": null,
+    "coordinates": "7.501329831171;49.691933660102",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
