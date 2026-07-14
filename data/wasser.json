@@ -1,23 +1,5 @@
 [
   {
-    "id": 6366881,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/13/2026 05:01:00",
-    "dateEnd": "07/13/2026 16:00:00",
-    "lastUpdate": "07/13/2026 06:19:06",
-    "postalCode": "95447",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5643712,49.9234038",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 13.07.2026 16:00\nMonteur informiert um 13.07.2026 05:04\nMonteur vor Ort seit 13.07.2026 05:25\nStandort Notwasser: Erikaweg 22C, Bayreuth-Saas, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6367438,
     "operatorId": 220,
     "type": 2,
@@ -34,42 +16,6 @@
     "liveInfo": "Kundeninformation/Wasserabstellung\nDie TWO muss wegen dringender Arbeiten am Versorgungsnetz bzw. Hausanschluss  \ndas Wasser abstellen. \n\nBetroffene Häuser:\n\nHumpenweg: 7,11,12,13,14,15,60\n\nNach der Wiederinbetriebnahme kann es zu Trübungen und Druckschwankungen kommen.\nWir bitten um Ihr Verständnis.\n\nT.W.O. Technische Werke Osning GmbH\n",
     "isFixed": false,
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
-    "id": 6369228,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/13/2026 15:44:42",
-    "dateEnd": null,
-    "lastUpdate": "07/13/2026 15:48:54",
-    "postalCode": "50189",
-    "city": "Elsdorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.545979747989422,50.94505",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6369401,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/13/2026 16:35:30",
-    "dateEnd": null,
-    "lastUpdate": "07/13/2026 19:08:53",
-    "postalCode": "50189",
-    "city": "Elsdorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.500792970675576,50.960274999999996",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6370566,
@@ -168,7 +114,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 11:17:04",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 17:38:52",
+    "lastUpdate": "07/14/2026 19:00:46",
     "postalCode": "50129",
     "city": "Bergheim",
     "district": null,
@@ -204,7 +150,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 15:02:16",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 17:38:52",
+    "lastUpdate": "07/14/2026 17:56:09",
     "postalCode": "50170",
     "city": "Kerpen",
     "district": null,
@@ -212,7 +158,7 @@
     "radius": null,
     "coordinates": "6.673580472722212,50.9072055",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -222,7 +168,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 16:23:23",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 17:38:52",
+    "lastUpdate": "07/14/2026 17:56:09",
     "postalCode": "50126",
     "city": "Bergheim",
     "district": null,
@@ -230,7 +176,7 @@
     "radius": null,
     "coordinates": "6.662552972536648,50.979808500000004",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -240,7 +186,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 16:23:23",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 17:38:52",
+    "lastUpdate": "07/14/2026 17:56:09",
     "postalCode": "50129",
     "city": "Bergheim",
     "district": null,
@@ -248,7 +194,7 @@
     "radius": null,
     "coordinates": "6.662552972536648,50.979808500000004",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -258,7 +204,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 16:27:16",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 17:38:52",
+    "lastUpdate": "07/14/2026 18:18:52",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,
@@ -266,7 +212,7 @@
     "radius": null,
     "coordinates": "6.566028235708982,50.985928",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]

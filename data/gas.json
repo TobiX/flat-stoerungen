@@ -1,23 +1,5 @@
 [
   {
-    "id": 6369388,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/13/2026 16:22:57",
-    "dateEnd": null,
-    "lastUpdate": "07/13/2026 19:08:53",
-    "postalCode": "57489",
-    "city": "Drolshagen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.764025979051933,51.020926",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6372501,
     "operatorId": 132,
     "type": 1,
@@ -42,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 10:21:58",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 15:50:46",
+    "lastUpdate": "07/14/2026 18:16:10",
     "postalCode": "45739",
     "city": "Oer-Erkenschwick",
     "district": null,
@@ -50,7 +32,7 @@
     "radius": null,
     "coordinates": "7.244443488421179,51.63724",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -87,6 +69,24 @@
     "coordinates": "8.165019749538928,51.372346",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6375255,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/14/2026 18:15:26",
+    "dateEnd": null,
+    "lastUpdate": "07/14/2026 19:10:46",
+    "postalCode": "59368",
+    "city": "Werne",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.618615249149013,51.674595499999995",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
