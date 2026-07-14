@@ -114,7 +114,7 @@
     "origin": 5,
     "dateStart": "07/13/2026 12:25:31",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 05:20:47",
+    "lastUpdate": "07/14/2026 08:18:55",
     "postalCode": "50126",
     "city": "Bergheim",
     "district": null,
@@ -132,7 +132,7 @@
     "origin": 5,
     "dateStart": "07/13/2026 12:25:31",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 05:20:47",
+    "lastUpdate": "07/14/2026 08:18:55",
     "postalCode": "50127",
     "city": "Bergheim",
     "district": null,
@@ -268,5 +268,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6371960,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/15/2026 08:00:00",
+    "dateEnd": "07/15/2026 14:00:00",
+    "lastUpdate": "07/14/2026 06:41:47",
+    "postalCode": "38315",
+    "city": "Schladen-Werla",
+    "district": null,
+    "street": "Breslauer Straße ",
+    "radius": 100,
+    "coordinates": "10.547871,52.017063",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
