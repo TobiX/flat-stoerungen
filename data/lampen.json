@@ -3024,42 +3024,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6167304,
-    "operatorId": 1969,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/19/2026 16:47:16",
-    "dateEnd": "06/19/2026 16:47:16",
-    "lastUpdate": "05/19/2026 16:47:17",
-    "postalCode": "51491",
-    "city": "Overath",
-    "district": "Rheinisch-Bergischer Kreis",
-    "street": "Auf der Steinbreche",
-    "radius": null,
-    "coordinates": "7.229317,50.947977",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AggerEnergie GmbH"
-  },
-  {
-    "id": 6167305,
-    "operatorId": 2126,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/19/2026 16:58:25",
-    "dateEnd": "06/19/2026 16:58:25",
-    "lastUpdate": "05/19/2026 16:56:07",
-    "postalCode": "04103",
-    "city": "Leipzig",
-    "district": null,
-    "street": "Buchfinkenweg",
-    "radius": null,
-    "coordinates": "12.329443,51.381453",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Leipzig"
-  },
-  {
     "id": 6167326,
     "operatorId": 3641,
     "type": 10,
@@ -21724,5 +21688,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6375082,
+    "operatorId": 222,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/14/2026 17:16:36",
+    "dateEnd": "08/14/2026 17:16:36",
+    "lastUpdate": "07/14/2026 17:16:36",
+    "postalCode": "33615",
+    "city": "Bielefeld",
+    "district": "Kreisfreie Stadt Bielefeld",
+    "street": "Siegfriedplatz",
+    "radius": null,
+    "coordinates": "8.522823,52.028365",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
