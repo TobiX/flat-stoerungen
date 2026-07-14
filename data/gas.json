@@ -60,7 +60,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 08:49:15",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 11:10:51",
+    "lastUpdate": "07/14/2026 13:38:54",
     "postalCode": "57223",
     "city": "Kreuztal",
     "district": null,
@@ -78,7 +78,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 10:21:58",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 11:10:51",
+    "lastUpdate": "07/14/2026 13:38:54",
     "postalCode": "45739",
     "city": "Oer-Erkenschwick",
     "district": null,
@@ -96,7 +96,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 10:37:29",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 11:10:51",
+    "lastUpdate": "07/14/2026 11:23:29",
     "postalCode": "45731",
     "city": "Waltrop",
     "district": null,
@@ -104,7 +104,7 @@
     "radius": null,
     "coordinates": "7.387848980894082,51.6150265",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
