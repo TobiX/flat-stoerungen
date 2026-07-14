@@ -21598,5 +21598,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6371059,
+    "operatorId": 3569,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/14/2026 01:11:54",
+    "dateEnd": "08/14/2026 01:11:54",
+    "lastUpdate": "07/14/2026 01:11:55",
+    "postalCode": "88605",
+    "city": "Meßkirch",
+    "district": "Sigmaringen",
+    "street": "Am Mühlkanal",
+    "radius": null,
+    "coordinates": "9.125834,47.998476",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Meßkirch"
+  },
+  {
+    "id": 6371063,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/14/2026 01:20:16",
+    "dateEnd": "08/14/2026 01:20:16",
+    "lastUpdate": "07/14/2026 01:20:16",
+    "postalCode": "65439",
+    "city": "Flörsheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.418947;50.009978",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
