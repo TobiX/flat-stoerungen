@@ -21706,5 +21706,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6375969,
+    "operatorId": 402,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/14/2026 21:28:30",
+    "dateEnd": "08/14/2026 21:28:30",
+    "lastUpdate": "07/14/2026 21:28:31",
+    "postalCode": "94252",
+    "city": "Bayerisch Eisenstein",
+    "district": "Regen",
+    "street": "Rothauweg",
+    "radius": null,
+    "coordinates": "13.207961,49.076817",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bayernwerk Netz GmbH"
+  },
+  {
+    "id": 6375972,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/14/2026 21:30:38",
+    "dateEnd": "08/14/2026 21:30:38",
+    "lastUpdate": "07/14/2026 21:30:37",
+    "postalCode": "59519",
+    "city": "Möhnesee",
+    "district": "Völlinghausen",
+    "street": "Luerwald",
+    "radius": null,
+    "coordinates": "8.186256133922;51.475086449541",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
