@@ -1,23 +1,5 @@
 [
   {
-    "id": 6374551,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/14/2026 15:20:14",
-    "dateEnd": null,
-    "lastUpdate": "07/14/2026 15:50:46",
-    "postalCode": "59872",
-    "city": "Meschede",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.165019749538928,51.372346",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6375255,
     "operatorId": 132,
     "type": 1,
