@@ -1,23 +1,5 @@
 [
   {
-    "id": 6375255,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/14/2026 18:15:26",
-    "dateEnd": null,
-    "lastUpdate": "07/14/2026 20:08:52",
-    "postalCode": "59368",
-    "city": "Werne",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.618615249149013,51.674595499999995",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6375672,
     "operatorId": 132,
     "type": 1,
