@@ -1,23 +1,5 @@
 [
   {
-    "id": 6375672,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/14/2026 20:06:09",
-    "dateEnd": null,
-    "lastUpdate": "07/15/2026 10:40:56",
-    "postalCode": "57223",
-    "city": "Kreuztal",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.964840487854627,50.982425",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6378841,
     "operatorId": 132,
     "type": 1,

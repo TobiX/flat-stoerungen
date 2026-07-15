@@ -54,24 +54,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6375464,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/14/2026 19:40:51",
-    "dateEnd": null,
-    "lastUpdate": "07/15/2026 07:58:58",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.744269973464465,50.973324500000004",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6375471,
     "operatorId": 3331,
     "type": 1,
@@ -106,24 +88,6 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
-    "id": 6375736,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/14/2026 20:40:50",
-    "dateEnd": null,
-    "lastUpdate": "07/14/2026 21:36:08",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.752052473557246,50.965383",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6377945,
