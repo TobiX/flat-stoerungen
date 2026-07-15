@@ -1,23 +1,5 @@
 [
   {
-    "id": 6372501,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/14/2026 08:49:15",
-    "dateEnd": null,
-    "lastUpdate": "07/14/2026 14:48:53",
-    "postalCode": "57223",
-    "city": "Kreuztal",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.964840487854627,50.982425",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6372920,
     "operatorId": 132,
     "type": 1,
@@ -96,7 +78,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 20:06:09",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 20:50:46",
+    "lastUpdate": "07/15/2026 10:40:56",
     "postalCode": "57223",
     "city": "Kreuztal",
     "district": null,
@@ -104,7 +86,25 @@
     "radius": null,
     "coordinates": "7.964840487854627,50.982425",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6378841,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/15/2026 10:39:50",
+    "dateEnd": null,
+    "lastUpdate": "07/15/2026 11:03:34",
+    "postalCode": "45739",
+    "city": "Oer-Erkenschwick",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.243818979220779,51.653411",
+    "liveInfo": null,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
