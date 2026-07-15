@@ -204,7 +204,7 @@
     "origin": 5,
     "dateStart": "07/14/2026 19:40:51",
     "dateEnd": null,
-    "lastUpdate": "07/14/2026 23:50:45",
+    "lastUpdate": "07/15/2026 07:58:58",
     "postalCode": "50129",
     "city": "Bergheim",
     "district": null,
@@ -212,7 +212,7 @@
     "radius": null,
     "coordinates": "6.744269973464465,50.973324500000004",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -267,6 +267,42 @@
     "coordinates": "6.752052473557246,50.965383",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6377945,
+    "operatorId": 3311,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "07/15/2026 07:44:00",
+    "dateEnd": "07/15/2026 12:50:00",
+    "lastUpdate": "07/15/2026 07:46:56",
+    "postalCode": "38518",
+    "city": "Gifhorn",
+    "district": null,
+    "street": "Roonstraße 3",
+    "radius": 100,
+    "coordinates": "10.533201,52.48671",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
+  },
+  {
+    "id": 6378012,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/15/2026 07:57:07",
+    "dateEnd": null,
+    "lastUpdate": "07/15/2026 07:58:58",
+    "postalCode": "50171",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.704696461419607,50.8754555",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
