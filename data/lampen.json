@@ -3042,24 +3042,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6167764,
-    "operatorId": 3686,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/20/2026 16:44:03",
-    "dateEnd": "06/20/2026 16:44:03",
-    "lastUpdate": "05/20/2026 16:44:04",
-    "postalCode": "55294",
-    "city": "Bodenheim",
-    "district": "Mainz-Bingen",
-    "street": "Kapellenstraße",
-    "radius": null,
-    "coordinates": "8.310304,49.928104",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Verbandsgemeinde Bodenheim"
-  },
-  {
     "id": 6167799,
     "operatorId": 1956,
     "type": 10,
