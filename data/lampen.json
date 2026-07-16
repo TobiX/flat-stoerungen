@@ -1,23 +1,5 @@
 [
   {
-    "id": 6153396,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/23/2026 11:20:59",
-    "dateEnd": "05/23/2026 11:20:59",
-    "lastUpdate": "04/23/2026 11:21:00",
-    "postalCode": "61250",
-    "city": "Usingen",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.53724;50.355787",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6153774,
     "operatorId": 237,
     "type": 10,
@@ -3148,24 +3130,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6168299,
-    "operatorId": 2073,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/21/2026 11:32:01",
-    "dateEnd": "06/21/2026 11:32:01",
-    "lastUpdate": "05/21/2026 11:32:02",
-    "postalCode": "60437",
-    "city": "Frankfurt am Main",
-    "district": null,
-    "street": "Am Sprudel",
-    "radius": null,
-    "coordinates": "8.677810,50.199947",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "SRM StraßenBeleuchtung Rhein-Main GmbH"
   },
   {
     "id": 6168389,
@@ -8908,24 +8872,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6247862,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/18/2026 12:44:05",
-    "dateEnd": "07/18/2026 12:44:05",
-    "lastUpdate": "06/18/2026 12:44:00",
-    "postalCode": "53913",
-    "city": "Swisttal",
-    "district": "Odendorf",
-    "street": "Frankenstr.",
-    "radius": null,
-    "coordinates": "6.88501915;50.6477438",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6248221,
@@ -21688,5 +21634,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6384230,
+    "operatorId": 325,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/16/2026 12:38:26",
+    "dateEnd": "08/16/2026 12:38:26",
+    "lastUpdate": "07/16/2026 12:38:27",
+    "postalCode": "48231",
+    "city": "Warendorf",
+    "district": "Warendorf",
+    "street": "Griesenstr.",
+    "radius": null,
+    "coordinates": "7.987456,51.946255",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
   }
 ]
