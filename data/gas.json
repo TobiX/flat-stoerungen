@@ -1,23 +1,5 @@
 [
   {
-    "id": 6379356,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/15/2026 12:41:54",
-    "dateEnd": null,
-    "lastUpdate": "07/15/2026 13:33:42",
-    "postalCode": "59581",
-    "city": "Warstein",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.320154488330243,51.478513",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6383296,
     "operatorId": 132,
     "type": 1,
