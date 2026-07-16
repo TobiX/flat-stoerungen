@@ -21886,5 +21886,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6385268,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/16/2026 17:03:28",
+    "dateEnd": "08/16/2026 17:03:28",
+    "lastUpdate": "07/16/2026 17:03:28",
+    "postalCode": "71696",
+    "city": "Möglingen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.134422;48.892058",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6385460,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/16/2026 18:07:12",
+    "dateEnd": "08/16/2026 18:07:12",
+    "lastUpdate": "07/16/2026 18:07:13",
+    "postalCode": "57614",
+    "city": "Stürzelbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.61022112372179;50.6513159347812",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
