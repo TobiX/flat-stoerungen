@@ -20608,5 +20608,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6390198,
+    "operatorId": 1969,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/17/2026 16:48:42",
+    "dateEnd": "08/17/2026 16:48:42",
+    "lastUpdate": "07/17/2026 16:48:42",
+    "postalCode": "51491",
+    "city": "Overath",
+    "district": "Rheinisch-Bergischer Kreis",
+    "street": "Meegener Straße",
+    "radius": null,
+    "coordinates": "7.324026,50.927827",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "AggerEnergie GmbH"
   }
 ]
