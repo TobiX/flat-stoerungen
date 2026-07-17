@@ -1710,24 +1710,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6169594,
-    "operatorId": 294,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/22/2026 19:57:49",
-    "dateEnd": "06/22/2026 19:57:49",
-    "lastUpdate": "05/22/2026 19:57:50",
-    "postalCode": "58300",
-    "city": "Wetter (Ruhr)",
-    "district": "Ennepe-Ruhr-Kreis",
-    "street": "Ahornstraße",
-    "radius": null,
-    "coordinates": "7.316849,51.373741",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AVU Netz GmbH"
-  },
-  {
     "id": 6169598,
     "operatorId": 237,
     "type": 10,
@@ -20626,5 +20608,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6390779,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/17/2026 19:31:43",
+    "dateEnd": "08/17/2026 19:31:43",
+    "lastUpdate": "07/17/2026 19:31:44",
+    "postalCode": "04509",
+    "city": "Wiedemar",
+    "district": "Nordsachsen",
+    "street": "Am Schwarzen Feld",
+    "radius": null,
+    "coordinates": "12.234693,51.469137",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
