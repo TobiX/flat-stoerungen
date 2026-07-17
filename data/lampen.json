@@ -20590,5 +20590,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bayernwerk Netz GmbH"
+  },
+  {
+    "id": 6389558,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/17/2026 13:39:54",
+    "dateEnd": "08/17/2026 13:39:54",
+    "lastUpdate": "07/17/2026 13:39:54",
+    "postalCode": "65812",
+    "city": "Bad Soden am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.499326;50.141932",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

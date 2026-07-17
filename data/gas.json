@@ -1,23 +1,5 @@
 [
   {
-    "id": 6384249,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/16/2026 12:51:08",
-    "dateEnd": null,
-    "lastUpdate": "07/17/2026 06:16:09",
-    "postalCode": "59581",
-    "city": "Warstein",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.32751424601335,51.4866445",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6387925,
     "operatorId": 132,
     "type": 1,
@@ -42,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/17/2026 13:08:18",
     "dateEnd": null,
-    "lastUpdate": "07/17/2026 13:36:10",
+    "lastUpdate": "07/17/2026 13:46:10",
     "postalCode": "59755",
     "city": "Arnsberg",
     "district": null,
