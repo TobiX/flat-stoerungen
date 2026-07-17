@@ -1710,24 +1710,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6169506,
-    "operatorId": 298,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/22/2026 18:29:39",
-    "dateEnd": "06/22/2026 18:29:39",
-    "lastUpdate": "05/22/2026 18:29:39",
-    "postalCode": "42555",
-    "city": "Velbert",
-    "district": "Mettmann",
-    "street": "Bodensfeld",
-    "radius": null,
-    "coordinates": "7.1292651;51.3625583",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Velbert GmbH"
-  },
-  {
     "id": 6169594,
     "operatorId": 294,
     "type": 10,
@@ -20626,5 +20608,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "AggerEnergie GmbH"
+  },
+  {
+    "id": 6390380,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/17/2026 17:51:55",
+    "dateEnd": "08/17/2026 17:51:55",
+    "lastUpdate": "07/17/2026 17:51:56",
+    "postalCode": "54497",
+    "city": "Morbach",
+    "district": "Hundheim",
+    "street": "Auf der Insel",
+    "radius": null,
+    "coordinates": "7.15041561;49.83270298",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
