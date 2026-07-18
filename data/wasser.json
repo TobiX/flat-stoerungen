@@ -42,7 +42,7 @@
     "origin": 5,
     "dateStart": "07/18/2026 07:08:10",
     "dateEnd": null,
-    "lastUpdate": "07/18/2026 15:50:45",
+    "lastUpdate": "07/18/2026 21:36:09",
     "postalCode": "50126",
     "city": "Bergheim",
     "district": null,
@@ -50,7 +50,7 @@
     "radius": null,
     "coordinates": "6.626825708248283,50.9548135",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -322,5 +322,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6395826,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/18/2026 21:33:46",
+    "dateEnd": null,
+    "lastUpdate": "07/18/2026 22:58:50",
+    "postalCode": "50169",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.710091736546669,50.9160185",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
