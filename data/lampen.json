@@ -20482,5 +20482,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6396206,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/18/2026 23:06:26",
+    "dateEnd": "08/18/2026 23:06:26",
+    "lastUpdate": "07/18/2026 23:06:24",
+    "postalCode": "65558",
+    "city": "Oberneisen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.072602;50.324597",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
