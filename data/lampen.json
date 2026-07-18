@@ -1,23 +1,5 @@
 [
   {
-    "id": 6154524,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/25/2026 15:16:50",
-    "dateEnd": "05/25/2026 15:16:50",
-    "lastUpdate": "04/25/2026 15:16:49",
-    "postalCode": "74172",
-    "city": "Neckarsulm",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.204737;49.19907",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6154649,
     "operatorId": 237,
     "type": 10,
