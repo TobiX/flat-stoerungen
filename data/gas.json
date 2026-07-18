@@ -1,30 +1,12 @@
 [
   {
-    "id": 6387925,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/17/2026 06:15:47",
-    "dateEnd": null,
-    "lastUpdate": "07/17/2026 13:08:54",
-    "postalCode": "49593",
-    "city": "Bersenbrück",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.943664987293637,52.551559999999995",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6389521,
     "operatorId": 132,
     "type": 1,
     "origin": 5,
     "dateStart": "07/17/2026 13:08:18",
     "dateEnd": null,
-    "lastUpdate": "07/17/2026 13:46:10",
+    "lastUpdate": "07/18/2026 09:33:23",
     "postalCode": "59755",
     "city": "Arnsberg",
     "district": null,
@@ -32,7 +14,7 @@
     "radius": null,
     "coordinates": "7.969217987759643,51.451685999999995",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
