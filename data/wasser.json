@@ -340,5 +340,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "AVU Netz GmbH"
+  },
+  {
+    "id": 6399694,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/19/2026 16:57:19",
+    "dateEnd": "07/19/2026 21:00:00",
+    "lastUpdate": "07/19/2026 16:57:19",
+    "postalCode": "52066",
+    "city": "Aachen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.1078902130569706,50.77796654882772",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6399695,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/19/2026 16:57:19",
+    "dateEnd": "07/19/2026 21:00:00",
+    "lastUpdate": "07/19/2026 16:57:19",
+    "postalCode": "52068",
+    "city": "Aachen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.1078902130569706,50.77796654882772",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
   }
 ]
