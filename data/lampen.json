@@ -1,23 +1,5 @@
 [
   {
-    "id": 6154649,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 05:14:11",
-    "dateEnd": "05/26/2026 05:14:11",
-    "lastUpdate": "04/26/2026 05:14:12",
-    "postalCode": "74906",
-    "city": "Bad Rappenau",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.044960727957232,49.2574311568209",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6154793,
     "operatorId": 237,
     "type": 10,

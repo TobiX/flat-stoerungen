@@ -1,23 +1,5 @@
 [
   {
-    "id": 6392693,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/18/2026 05:01:22",
-    "dateEnd": null,
-    "lastUpdate": "07/18/2026 13:08:51",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.713907473093339,50.9889165",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6392878,
     "operatorId": 350,
     "type": 1,
@@ -330,7 +312,7 @@
     "origin": 5,
     "dateStart": "07/18/2026 21:33:46",
     "dateEnd": null,
-    "lastUpdate": "07/19/2026 05:38:50",
+    "lastUpdate": "07/19/2026 08:38:50",
     "postalCode": "50169",
     "city": "Kerpen",
     "district": null,
@@ -339,6 +321,24 @@
     "coordinates": "6.710091736546669,50.9160185",
     "liveInfo": null,
     "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6398049,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/19/2026 08:19:58",
+    "dateEnd": null,
+    "lastUpdate": "07/19/2026 08:26:07",
+    "postalCode": "50181",
+    "city": "Bedburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.565182223330872,51.002094",
+    "liveInfo": null,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
