@@ -1,23 +1,5 @@
 [
   {
-    "id": 6154793,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "04/26/2026 22:08:08",
-    "dateEnd": "05/26/2026 22:08:08",
-    "lastUpdate": "04/26/2026 22:08:08",
-    "postalCode": "71404",
-    "city": "Korb",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.36865876629118;48.8378464879139",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6155045,
     "operatorId": 237,
     "type": 10,
@@ -1726,24 +1708,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6170185,
-    "operatorId": 4958,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/24/2026 22:54:51",
-    "dateEnd": "06/24/2026 22:54:51",
-    "lastUpdate": "05/24/2026 22:54:52",
-    "postalCode": "04808",
-    "city": "Lossatal",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "12.878152,51.353949",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gemeinde Lossatal"
   },
   {
     "id": 6170442,
@@ -7414,24 +7378,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6263697,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/21/2026 22:54:35",
-    "dateEnd": "07/21/2026 22:54:35",
-    "lastUpdate": "06/21/2026 22:54:35",
-    "postalCode": "40822",
-    "city": "Mettmann",
-    "district": "Mettmann",
-    "street": "Berliner Str.",
-    "radius": null,
-    "coordinates": "6.96124025075;51.254361835942",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6263880,
@@ -20482,5 +20428,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Ratingen GmbH"
+  },
+  {
+    "id": 6400711,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/19/2026 21:36:13",
+    "dateEnd": "08/19/2026 21:36:13",
+    "lastUpdate": "07/19/2026 21:36:14",
+    "postalCode": "65451",
+    "city": "Kelsterbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.53568;50.058531",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
