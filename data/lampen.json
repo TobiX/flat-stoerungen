@@ -20356,5 +20356,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6398675,
+    "operatorId": 1969,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/19/2026 11:13:42",
+    "dateEnd": "08/19/2026 11:13:42",
+    "lastUpdate": "07/19/2026 11:13:42",
+    "postalCode": "51709",
+    "city": "Marienheide",
+    "district": "Oberbergischer Kreis",
+    "street": "Graf-Albert-Straße",
+    "radius": null,
+    "coordinates": "7.577512,51.068839",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "AggerEnergie GmbH"
+  },
+  {
+    "id": 6398880,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/19/2026 12:11:44",
+    "dateEnd": "08/19/2026 12:11:44",
+    "lastUpdate": "07/19/2026 12:11:45",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.441191;50.079075",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
