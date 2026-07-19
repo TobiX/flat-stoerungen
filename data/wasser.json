@@ -18,24 +18,6 @@
     "operatorName": "Regionetz GmbH"
   },
   {
-    "id": 6393061,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/18/2026 07:08:10",
-    "dateEnd": null,
-    "lastUpdate": "07/18/2026 21:36:09",
-    "postalCode": "50126",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.626825708248283,50.9548135",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6395218,
     "operatorId": 3331,
     "type": 1,
@@ -312,7 +294,7 @@
     "origin": 5,
     "dateStart": "07/18/2026 21:33:46",
     "dateEnd": null,
-    "lastUpdate": "07/19/2026 08:38:50",
+    "lastUpdate": "07/19/2026 10:48:50",
     "postalCode": "50169",
     "city": "Kerpen",
     "district": null,
