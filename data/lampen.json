@@ -7254,24 +7254,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6259270,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/21/2026 02:05:12",
-    "dateEnd": "07/21/2026 02:05:12",
-    "lastUpdate": "06/21/2026 02:05:13",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Heißen",
-    "street": "Otto-Hahn-Str.",
-    "radius": null,
-    "coordinates": "6.91537591;51.44229951",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6260605,
     "operatorId": 237,
     "type": 10,
