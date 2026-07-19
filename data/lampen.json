@@ -20446,5 +20446,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6400278,
+    "operatorId": 1782,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/19/2026 19:06:01",
+    "dateEnd": "08/19/2026 19:06:01",
+    "lastUpdate": "07/19/2026 19:06:02",
+    "postalCode": "95445",
+    "city": "Bayreuth",
+    "district": "Bayreuth",
+    "street": "Preuschwitzer Straße",
+    "radius": null,
+    "coordinates": "11.514367;49.948496",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
