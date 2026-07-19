@@ -160,5 +160,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6401326,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/20/2026 00:21:05",
+    "dateEnd": "07/20/2026 02:25:00",
+    "lastUpdate": "07/20/2026 00:42:05",
+    "postalCode": "46119",
+    "city": "Oberhausen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.8834268960049165,51.51998066050268",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
