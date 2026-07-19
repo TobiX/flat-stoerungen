@@ -24,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/18/2026 18:48:46",
     "dateEnd": null,
-    "lastUpdate": "07/18/2026 19:23:24",
+    "lastUpdate": "07/19/2026 13:20:44",
     "postalCode": "32805",
     "city": "Horn-Bad Meinberg",
     "district": null,
@@ -32,7 +32,7 @@
     "radius": null,
     "coordinates": "8.978151999860879,51.901106",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]

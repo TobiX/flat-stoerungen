@@ -304,5 +304,41 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6399289,
+    "operatorId": 294,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/19/2026 14:45:15",
+    "dateEnd": "07/19/2026 16:20:00",
+    "lastUpdate": "07/19/2026 14:45:15",
+    "postalCode": "58332",
+    "city": "Schwelm",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.296682019092845,51.28401267475684",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "AVU Netz GmbH"
+  },
+  {
+    "id": 6399290,
+    "operatorId": 294,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/19/2026 14:45:15",
+    "dateEnd": "07/19/2026 16:20:00",
+    "lastUpdate": "07/19/2026 14:45:16",
+    "postalCode": "58332",
+    "city": "Schwelm",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.296682019092845,51.28401267475684",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "AVU Netz GmbH"
   }
 ]
