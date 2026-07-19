@@ -20464,5 +20464,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6400294,
+    "operatorId": 286,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/19/2026 19:35:30",
+    "dateEnd": "08/19/2026 19:35:30",
+    "lastUpdate": "07/19/2026 19:35:30",
+    "postalCode": "40882",
+    "city": "Ratingen",
+    "district": "Ratingen",
+    "street": "Winternheimweg",
+    "radius": null,
+    "coordinates": "6.872000,51.297981",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Ratingen GmbH"
   }
 ]
