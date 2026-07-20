@@ -21148,5 +21148,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6406603,
+    "operatorId": 3954,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/21/2026 00:29:57",
+    "dateEnd": "08/21/2026 00:29:57",
+    "lastUpdate": "07/21/2026 00:29:57",
+    "postalCode": "16259",
+    "city": "Bad Freienwalde (Oder)",
+    "district": "Märkisch-Oderland",
+    "street": "August-Heese-Straße",
+    "radius": null,
+    "coordinates": "14.023758,52.779084",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Bad Freienwalde (Oder)"
   }
 ]
