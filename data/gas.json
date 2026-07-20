@@ -24,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/20/2026 12:06:19",
     "dateEnd": null,
-    "lastUpdate": "07/20/2026 16:26:12",
+    "lastUpdate": "07/20/2026 17:10:49",
     "postalCode": "45768",
     "city": "Marl",
     "district": null,
@@ -60,7 +60,7 @@
     "origin": 5,
     "dateStart": "07/20/2026 14:53:05",
     "dateEnd": null,
-    "lastUpdate": "07/20/2026 16:26:12",
+    "lastUpdate": "07/20/2026 16:33:27",
     "postalCode": "48351",
     "city": "Everswinkel",
     "district": null,
@@ -68,7 +68,7 @@
     "radius": null,
     "coordinates": "7.845043986275964,51.927808",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
