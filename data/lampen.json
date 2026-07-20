@@ -7398,24 +7398,6 @@
     "operatorName": "Stadt Ludwigshafen am Rhein"
   },
   {
-    "id": 6264353,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/22/2026 01:35:35",
-    "dateEnd": "07/22/2026 01:35:35",
-    "lastUpdate": "06/22/2026 01:35:36",
-    "postalCode": "53913",
-    "city": "Swisttal",
-    "district": "Heimerzheim",
-    "street": "Euskirchener Str.",
-    "radius": null,
-    "coordinates": "6.91124338;50.71768671",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6264561,
     "operatorId": 368,
     "type": 10,
