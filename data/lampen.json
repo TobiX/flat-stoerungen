@@ -7398,24 +7398,6 @@
     "operatorName": "Stadt Ludwigshafen am Rhein"
   },
   {
-    "id": 6264561,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/22/2026 02:36:08",
-    "dateEnd": "07/22/2026 02:36:08",
-    "lastUpdate": "06/22/2026 02:36:09",
-    "postalCode": "67278",
-    "city": "Bockenheim an der Weinstraße",
-    "district": "",
-    "street": "Riedweg",
-    "radius": null,
-    "coordinates": "8.188390,49.609802",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6265621,
     "operatorId": 237,
     "type": 10,
