@@ -24,7 +24,7 @@
     "origin": 5,
     "dateStart": "07/20/2026 12:06:19",
     "dateEnd": null,
-    "lastUpdate": "07/20/2026 17:10:49",
+    "lastUpdate": "07/21/2026 11:18:55",
     "postalCode": "45768",
     "city": "Marl",
     "district": null,
@@ -32,7 +32,7 @@
     "radius": null,
     "coordinates": "7.070882477179962,51.658788",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {

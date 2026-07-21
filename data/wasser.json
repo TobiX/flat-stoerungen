@@ -160,5 +160,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6408209,
+    "operatorId": 3311,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/21/2026 10:30:00",
+    "dateEnd": "07/21/2026 14:30:00",
+    "lastUpdate": "07/21/2026 08:44:14",
+    "postalCode": "38518",
+    "city": "Gifhorn",
+    "district": null,
+    "street": "Sauerbruchstraße 38",
+    "radius": 200,
+    "coordinates": "10.554207,52.47151",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
+  },
+  {
+    "id": 6408618,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "07/21/2026 10:06:00",
+    "dateEnd": "07/21/2026 15:31:00",
+    "lastUpdate": "07/21/2026 10:08:22",
+    "postalCode": "46236",
+    "city": "Bottrop",
+    "district": null,
+    "street": "Brauerstraße 52",
+    "radius": 70,
+    "coordinates": "6.92969,51.51877",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung ist für die Häuser Brauerstr. 52 - 58 und Prosperstr. 18-20 eingestellt.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
