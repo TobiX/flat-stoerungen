@@ -1656,24 +1656,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6171050,
-    "operatorId": 411,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/26/2026 04:55:30",
-    "dateEnd": "06/26/2026 04:55:30",
-    "lastUpdate": "05/26/2026 04:55:29",
-    "postalCode": "76327",
-    "city": "Pfinztal",
-    "district": "Karlsruhe",
-    "street": "Goethestraße",
-    "radius": null,
-    "coordinates": "8.544364,48.991053",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Netze BW GmbH"
-  },
-  {
     "id": 6171232,
     "operatorId": 237,
     "type": 10,
@@ -21166,5 +21148,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Bad Freienwalde (Oder)"
+  },
+  {
+    "id": 6407355,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/21/2026 04:45:25",
+    "dateEnd": "08/21/2026 04:45:25",
+    "lastUpdate": "07/21/2026 04:45:24",
+    "postalCode": "55278",
+    "city": "Hahnheim",
+    "district": "Mainz-Bingen",
+    "street": "Im Hunnental",
+    "radius": null,
+    "coordinates": "8.244089,49.861496",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
+  },
+  {
+    "id": 6407530,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/21/2026 05:26:30",
+    "dateEnd": "08/21/2026 05:26:30",
+    "lastUpdate": "07/21/2026 05:26:30",
+    "postalCode": "65558",
+    "city": "Heistenbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.986146;50.378408",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
