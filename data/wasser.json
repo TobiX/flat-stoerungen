@@ -42,7 +42,7 @@
     "origin": 5,
     "dateStart": "07/20/2026 15:02:32",
     "dateEnd": null,
-    "lastUpdate": "07/20/2026 21:20:46",
+    "lastUpdate": "07/21/2026 13:10:47",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,
@@ -50,7 +50,7 @@
     "radius": null,
     "coordinates": "6.542567971139569,51.0097115",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -196,5 +196,41 @@
     "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung ist für die Häuser Brauerstr. 52 - 58 und Prosperstr. 18-20 eingestellt.",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6409278,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/21/2026 13:10:18",
+    "dateEnd": null,
+    "lastUpdate": "07/21/2026 13:33:25",
+    "postalCode": "50181",
+    "city": "Bedburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.542567971139569,51.0097115",
+    "liveInfo": null,
+    "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6409352,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/21/2026 13:31:49",
+    "dateEnd": null,
+    "lastUpdate": "07/21/2026 13:53:26",
+    "postalCode": "50171",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.631753472258303,50.857814000000005",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
