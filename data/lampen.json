@@ -20950,5 +20950,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6410204,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/21/2026 17:22:56",
+    "dateEnd": "08/21/2026 17:22:56",
+    "lastUpdate": "07/21/2026 17:22:56",
+    "postalCode": "56575",
+    "city": "Weißenthurm",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.467278;50.409718",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
