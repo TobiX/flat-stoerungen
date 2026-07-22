@@ -250,5 +250,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6413131,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/24/2026 07:36:00",
+    "dateEnd": "07/24/2026 11:36:00",
+    "lastUpdate": "07/22/2026 07:36:36",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Reinickendorfer Straße ",
+    "radius": 500,
+    "coordinates": "10.789667,52.447998",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
