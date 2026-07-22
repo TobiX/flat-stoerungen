@@ -268,5 +268,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6414516,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/29/2026 07:00:00",
+    "dateEnd": "07/29/2026 14:20:00",
+    "lastUpdate": "07/22/2026 13:24:47",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "An der Tiergartenbreite 20",
+    "radius": 300,
+    "coordinates": "10.798053,52.44698",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]

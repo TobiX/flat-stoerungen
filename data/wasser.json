@@ -1,23 +1,5 @@
 [
   {
-    "id": 6407151,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "07/21/2026 03:32:00",
-    "dateEnd": "07/21/2026 10:32:00",
-    "lastUpdate": "07/21/2026 03:32:52",
-    "postalCode": "37431",
-    "city": "Bad Lauterberg im Harz",
-    "district": null,
-    "street": "",
-    "radius": 0,
-    "coordinates": "10.43584068306301,51.621141800225914",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6408209,
     "operatorId": 3311,
     "type": 2,
@@ -142,5 +124,23 @@
     "liveInfo": "Dringende Wartungsarbeiten!!!\nBetroffene Anwesen: 1-25 + 2-42",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6414306,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/22/2026 12:39:16",
+    "dateEnd": "07/22/2026 14:40:00",
+    "lastUpdate": "07/22/2026 13:15:14",
+    "postalCode": "50170",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.67683536682602,50.910687092167926",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
