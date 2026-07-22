@@ -21202,5 +21202,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6414751,
+    "operatorId": 325,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/22/2026 14:31:44",
+    "dateEnd": "08/22/2026 14:31:44",
+    "lastUpdate": "07/22/2026 14:31:43",
+    "postalCode": "48231",
+    "city": "Warendorf",
+    "district": "Warendorf",
+    "street": "Klosterstr.",
+    "radius": null,
+    "coordinates": "7.993232,51.952092",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
+  },
+  {
+    "id": 6414932,
+    "operatorId": 325,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/22/2026 15:22:24",
+    "dateEnd": "08/22/2026 15:22:24",
+    "lastUpdate": "07/22/2026 15:21:56",
+    "postalCode": "48231",
+    "city": "Warendorf",
+    "district": "Warendorf",
+    "street": "Gröblinger Weg",
+    "radius": null,
+    "coordinates": "7.992864,51.961759",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
   }
 ]

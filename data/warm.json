@@ -18,24 +18,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6319860,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/21/2026 12:36:00",
-    "dateEnd": "07/21/2026 12:30:00",
-    "lastUpdate": "07/03/2026 12:37:18",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Magdeburger Str., 38448 Wolfsburg-Vorsfelde, Deutschland",
-    "radius": 200,
-    "coordinates": "10.8390091,52.4462789",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6335294,
     "operatorId": 186,
     "type": 2,
