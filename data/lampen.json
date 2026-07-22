@@ -1764,24 +1764,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6171671,
-    "operatorId": 4540,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/27/2026 00:25:58",
-    "dateEnd": "06/27/2026 00:25:58",
-    "lastUpdate": "05/27/2026 00:25:58",
-    "postalCode": "25421",
-    "city": "Pinneberg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.810456,53.661424",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Pinneberg"
-  },
-  {
     "id": 6171676,
     "operatorId": 3410,
     "type": 10,
