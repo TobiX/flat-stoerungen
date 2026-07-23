@@ -1,23 +1,5 @@
 [
   {
-    "id": 6415396,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/22/2026 17:02:22",
-    "dateEnd": null,
-    "lastUpdate": "07/22/2026 18:16:10",
-    "postalCode": "34431",
-    "city": "Marsberg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.843819998145744,51.448016499999994",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6417637,
     "operatorId": 132,
     "type": 1,
@@ -276,7 +258,7 @@
     "origin": 5,
     "dateStart": "07/23/2026 18:56:50",
     "dateEnd": null,
-    "lastUpdate": "07/23/2026 19:39:02",
+    "lastUpdate": "07/23/2026 21:36:09",
     "postalCode": "55743",
     "city": "Idar-Oberstein",
     "district": null,
