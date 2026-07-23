@@ -20950,5 +20950,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6419997,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/23/2026 16:46:26",
+    "dateEnd": "08/23/2026 16:46:26",
+    "lastUpdate": "07/23/2026 16:46:26",
+    "postalCode": "52372",
+    "city": "Kreuzau",
+    "district": "Winden",
+    "street": "Lehrer-Mainz-Str.",
+    "radius": null,
+    "coordinates": "6.480260894263;50.740735389587",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6420155,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/23/2026 17:08:49",
+    "dateEnd": "08/23/2026 17:08:49",
+    "lastUpdate": "07/23/2026 17:08:49",
+    "postalCode": "65375",
+    "city": "Oestrich-Winkel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.005047;50.002153",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

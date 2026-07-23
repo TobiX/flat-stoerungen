@@ -54,24 +54,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6343697,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/22/2026 07:30:00",
-    "dateEnd": "07/22/2026 13:45:00",
-    "lastUpdate": "07/08/2026 07:43:16",
-    "postalCode": "38444",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Hermann-Ehlers-Straße",
-    "radius": 500,
-    "coordinates": "10.754197,52.396748",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6343708,
     "operatorId": 186,
     "type": 2,
