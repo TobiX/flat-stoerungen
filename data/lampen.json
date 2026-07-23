@@ -7686,24 +7686,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6279473,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/25/2026 03:11:35",
-    "dateEnd": "07/25/2026 03:11:35",
-    "lastUpdate": "06/25/2026 03:11:35",
-    "postalCode": "52372",
-    "city": "Kreuzau",
-    "district": "Leversbach",
-    "street": "Am Leversbach",
-    "radius": null,
-    "coordinates": "6.472250917619;50.717738111743",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6280204,
     "operatorId": 237,
     "type": 10,
@@ -21202,5 +21184,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Königslutter am Elm"
+  },
+  {
+    "id": 6417810,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/23/2026 06:22:48",
+    "dateEnd": "08/23/2026 06:22:48",
+    "lastUpdate": "07/23/2026 06:22:48",
+    "postalCode": "65558",
+    "city": "Burgschwalbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.084077;50.2821",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

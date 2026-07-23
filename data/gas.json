@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "07/22/2026 08:14:55",
     "dateEnd": null,
-    "lastUpdate": "07/23/2026 02:09:02",
+    "lastUpdate": "07/23/2026 06:23:23",
     "postalCode": "57271",
     "city": "Hilchenbach",
     "district": null,
@@ -141,6 +141,24 @@
     "coordinates": "8.843819998145744,51.448016499999994",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6417637,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/23/2026 05:40:28",
+    "dateEnd": null,
+    "lastUpdate": "07/23/2026 06:23:23",
+    "postalCode": "50170",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.673580472722212,50.9072055",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
