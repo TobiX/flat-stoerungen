@@ -167,15 +167,15 @@
     "type": 1,
     "origin": 5,
     "dateStart": "07/24/2026 09:15:00",
-    "dateEnd": "07/24/2026 22:00:00",
-    "lastUpdate": "07/24/2026 20:45:22",
+    "dateEnd": "07/24/2026 23:00:00",
+    "lastUpdate": "07/24/2026 21:55:22",
     "postalCode": "95445",
     "city": "Bayreuth",
     "district": null,
     "street": null,
     "radius": 1,
     "coordinates": "11.5494078,49.9453796",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 24.07.2026 22:00\nMonteur informiert um 24.07.2026 09:15\nMonteur vor Ort seit 24.07.2026 09:38",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 24.07.2026 23:00\nMonteur informiert um 24.07.2026 09:15\nMonteur vor Ort seit 24.07.2026 09:38",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
