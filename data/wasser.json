@@ -412,5 +412,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6423018,
+    "operatorId": 185,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/24/2026 08:42:14",
+    "dateEnd": "07/24/2026 10:15:00",
+    "lastUpdate": "07/24/2026 09:36:15",
+    "postalCode": "29313",
+    "city": "Hambühren",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "9.948988741640186,52.624474128555676",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Celle-Uelzen Netz GmbH"
   }
 ]
