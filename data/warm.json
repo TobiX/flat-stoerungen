@@ -250,5 +250,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6422998,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "07/30/2026 08:00:00",
+    "dateEnd": "07/30/2026 14:16:00",
+    "lastUpdate": "07/24/2026 08:26:39",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Neisser Straße 19",
+    "radius": 200,
+    "coordinates": "10.854317,52.458984",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "id": 6417637,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/23/2026 05:40:28",
-    "dateEnd": null,
-    "lastUpdate": "07/23/2026 07:29:02",
-    "postalCode": "50170",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.673580472722212,50.9072055",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6418325,
     "operatorId": 132,
     "type": 1,
