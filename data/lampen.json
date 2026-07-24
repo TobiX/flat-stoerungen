@@ -20518,5 +20518,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6425156,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/24/2026 20:40:59",
+    "dateEnd": "08/24/2026 20:40:59",
+    "lastUpdate": "07/24/2026 20:41:00",
+    "postalCode": "65604",
+    "city": "Elz",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.03208;50.406746",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6425162,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/24/2026 20:53:56",
+    "dateEnd": "08/24/2026 20:53:56",
+    "lastUpdate": "07/24/2026 20:53:56",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Spessart",
+    "street": "Hauptstraße",
+    "radius": null,
+    "coordinates": "8.430010,48.911805",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
