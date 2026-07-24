@@ -1,23 +1,5 @@
 [
   {
-    "id": 6415765,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/22/2026 14:32:00",
-    "dateEnd": "07/22/2026 23:30:00",
-    "lastUpdate": "07/22/2026 19:11:22",
-    "postalCode": "95447",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5656383,49.9221234",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 22.07.2026 23:30\nMonteur informiert um 22.07.2026 14:34\nMonteur vor Ort seit 22.07.2026 14:41\nStandort Notwasser: Erikaweg 26D, Bayreuth-Saas, Germany\nStandort Brauchwasser: Erikaweg 26D, Bayreuth-Saas, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6418014,
     "operatorId": 1763,
     "type": 2,
@@ -394,5 +376,41 @@
     "liveInfo": "Belchenstr. 1-9 + 2-24",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6421598,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/24/2026 01:48:06",
+    "dateEnd": "07/24/2026 05:50:00",
+    "lastUpdate": "07/24/2026 02:06:06",
+    "postalCode": "52222",
+    "city": "Stolberg (Rhld.)",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.226141672256338,50.77798848059826",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6421599,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/24/2026 01:48:06",
+    "dateEnd": "07/24/2026 05:50:00",
+    "lastUpdate": "07/24/2026 02:06:06",
+    "postalCode": "52222",
+    "city": "Stolberg (Rhld.)",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.226141672256338,50.77798848059826",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
   }
 ]
