@@ -1,23 +1,5 @@
 [
   {
-    "id": 6419725,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/23/2026 15:14:37",
-    "dateEnd": null,
-    "lastUpdate": "07/23/2026 18:59:02",
-    "postalCode": "57271",
-    "city": "Hilchenbach",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.11250148489332,50.99982",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6420354,
     "operatorId": 132,
     "type": 1,
