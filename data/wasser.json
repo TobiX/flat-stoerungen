@@ -144,24 +144,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6419546,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/23/2026 14:29:41",
-    "dateEnd": null,
-    "lastUpdate": "07/23/2026 15:53:25",
-    "postalCode": "50171",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.639535472351086,50.8498805",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6420167,
     "operatorId": 528,
     "type": 2,
