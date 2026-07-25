@@ -19996,5 +19996,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6428894,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/25/2026 16:17:11",
+    "dateEnd": "08/25/2026 16:17:11",
+    "lastUpdate": "07/25/2026 16:17:17",
+    "postalCode": "61250",
+    "city": "Usingen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.536373;50.331062",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6428908,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/25/2026 16:46:45",
+    "dateEnd": "08/25/2026 16:46:45",
+    "lastUpdate": "07/25/2026 16:46:45",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.443508;50.078899",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
