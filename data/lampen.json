@@ -20050,5 +20050,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6430340,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/26/2026 00:06:18",
+    "dateEnd": "08/26/2026 00:06:18",
+    "lastUpdate": "07/26/2026 00:06:18",
+    "postalCode": "53547",
+    "city": "Leubsdorf",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.289032;50.547742",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
