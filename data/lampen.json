@@ -1476,24 +1476,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6176709,
-    "operatorId": 5373,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/30/2026 20:57:29",
-    "dateEnd": "06/30/2026 20:57:29",
-    "lastUpdate": "05/30/2026 20:57:32",
-    "postalCode": "27404",
-    "city": "Zeven",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.288016,53.293271",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Samtgemeinde Zeven"
-  },
-  {
     "id": 6176833,
     "operatorId": 237,
     "type": 10,
