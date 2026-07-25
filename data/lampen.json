@@ -16434,24 +16434,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6393466,
-    "operatorId": 302,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/18/2026 09:54:05",
-    "dateEnd": "08/18/2026 09:54:05",
-    "lastUpdate": "07/18/2026 09:54:05",
-    "postalCode": "58511",
-    "city": "Lüdenscheid",
-    "district": "",
-    "street": "Malmedyer Steig",
-    "radius": null,
-    "coordinates": "7.649625,51.219412",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ENERVIE Vernetzt GmbH"
-  },
-  {
     "id": 6393643,
     "operatorId": 237,
     "type": 10,
