@@ -20068,5 +20068,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6434313,
+    "operatorId": 1928,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/26/2026 21:02:17",
+    "dateEnd": "08/26/2026 21:02:17",
+    "lastUpdate": "07/26/2026 21:02:22",
+    "postalCode": "45663",
+    "city": "Recklinghausen",
+    "district": null,
+    "street": "Helenenstraße",
+    "radius": null,
+    "coordinates": "7.253734,51.587552",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
   }
 ]
