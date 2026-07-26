@@ -1566,24 +1566,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6176991,
-    "operatorId": 3609,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/31/2026 03:15:30",
-    "dateEnd": "06/30/2026 03:15:30",
-    "lastUpdate": "05/31/2026 03:15:32",
-    "postalCode": "56727",
-    "city": "Mayen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.241802,50.323558",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Mayen"
-  },
-  {
     "id": 6177369,
     "operatorId": 528,
     "type": 10,
@@ -7054,24 +7036,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stromnetz Berlin GmbH"
-  },
-  {
-    "id": 6292616,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/28/2026 02:21:06",
-    "dateEnd": "07/28/2026 02:21:06",
-    "lastUpdate": "06/28/2026 02:21:07",
-    "postalCode": "67294",
-    "city": "Bischheim",
-    "district": "",
-    "street": "Kirchheimbolander Str.",
-    "radius": null,
-    "coordinates": "8.024712,49.669008",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6293032,
@@ -20086,5 +20050,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6431270,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/26/2026 05:16:40",
+    "dateEnd": "08/26/2026 05:16:40",
+    "lastUpdate": "07/26/2026 05:16:39",
+    "postalCode": "65779",
+    "city": "Kelkheim (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.452675;50.138065",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
