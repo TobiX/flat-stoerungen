@@ -1566,24 +1566,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6177369,
-    "operatorId": 528,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/31/2026 12:39:46",
-    "dateEnd": "06/30/2026 12:39:46",
-    "lastUpdate": "05/31/2026 12:39:46",
-    "postalCode": "76275",
-    "city": "Ettlingen",
-    "district": "Ettlingenweier",
-    "street": "Dorfwiesenstraße",
-    "radius": null,
-    "coordinates": "8.384858,48.928348",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
     "id": 6177393,
     "operatorId": 237,
     "type": 10,
@@ -7056,24 +7038,6 @@
     "operatorName": "SRM StraßenBeleuchtung Rhein-Main GmbH"
   },
   {
-    "id": 6294366,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/28/2026 11:14:09",
-    "dateEnd": "07/28/2026 11:14:09",
-    "lastUpdate": "06/28/2026 11:14:11",
-    "postalCode": "54332",
-    "city": "Wasserliesch",
-    "district": "Wasserliesch",
-    "street": "Heidengarten",
-    "radius": null,
-    "coordinates": "6.53680924;49.70786335",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6294408,
     "operatorId": 237,
     "type": 10,
@@ -7108,24 +7072,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6294606,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/28/2026 12:43:06",
-    "dateEnd": "07/28/2026 12:43:06",
-    "lastUpdate": "06/28/2026 12:43:10",
-    "postalCode": "45768",
-    "city": "Marl",
-    "district": "Polsum",
-    "street": "Schützenstr.       /Po",
-    "radius": null,
-    "coordinates": "7.050573801899;51.630650357933",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6294608,
@@ -7378,24 +7324,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6299433,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/29/2026 09:46:18",
-    "dateEnd": "07/29/2026 09:46:18",
-    "lastUpdate": "06/29/2026 09:46:19",
-    "postalCode": "33615",
-    "city": "Bielefeld",
-    "district": "Bielefeld",
-    "street": "Carl-von-Ossietzky-Straße",
-    "radius": null,
-    "coordinates": "8.507780,52.036644",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
   },
   {
     "id": 6299603,
@@ -8766,24 +8694,6 @@
     "operatorName": "StadtWerke Rösrath AöR"
   },
   {
-    "id": 6312960,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/02/2026 01:35:22",
-    "dateEnd": "08/02/2026 01:35:22",
-    "lastUpdate": "07/02/2026 01:35:23",
-    "postalCode": "33613",
-    "city": "Bielefeld",
-    "district": "Kreisfreie Stadt Bielefeld",
-    "street": "Melanchthonstraße",
-    "radius": null,
-    "coordinates": "8.524036,52.034119",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6313127,
     "operatorId": 132,
     "type": 10,
@@ -9340,24 +9250,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6319065,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/03/2026 08:50:49",
-    "dateEnd": "08/03/2026 08:50:49",
-    "lastUpdate": "07/03/2026 08:50:51",
-    "postalCode": "33719",
-    "city": "Bielefeld",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.591709,52.010179",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
   },
   {
     "id": 6319319,
@@ -10764,24 +10656,6 @@
     "operatorName": "Pfalzwerke Netz AG"
   },
   {
-    "id": 6340712,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/07/2026 16:40:11",
-    "dateEnd": "08/07/2026 16:40:11",
-    "lastUpdate": "07/07/2026 16:40:12",
-    "postalCode": "33615",
-    "city": "Bielefeld",
-    "district": "Kreisfreie Stadt Bielefeld",
-    "street": "Siegfriedplatz",
-    "radius": null,
-    "coordinates": "8.522427,52.028246",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6341091,
     "operatorId": 237,
     "type": 10,
@@ -11446,24 +11320,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6350165,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/09/2026 11:48:50",
-    "dateEnd": "08/09/2026 11:48:50",
-    "lastUpdate": "07/09/2026 11:48:51",
-    "postalCode": "33613",
-    "city": "Bielefeld",
-    "district": "Bielefeld",
-    "street": "Benzstraße",
-    "radius": null,
-    "coordinates": "8.526371,52.052708",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
   },
   {
     "id": 6350497,
@@ -13984,24 +13840,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6375082,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/14/2026 17:16:36",
-    "dateEnd": "08/14/2026 17:16:36",
-    "lastUpdate": "07/14/2026 17:16:36",
-    "postalCode": "33615",
-    "city": "Bielefeld",
-    "district": "Kreisfreie Stadt Bielefeld",
-    "street": "Siegfriedplatz",
-    "radius": null,
-    "coordinates": "8.522823,52.028365",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
   },
   {
     "id": 6375969,
@@ -20122,5 +19960,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Netze Duisburg GmbH"
+  },
+  {
+    "id": 6432590,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/26/2026 12:27:38",
+    "dateEnd": "08/26/2026 12:27:38",
+    "lastUpdate": "07/26/2026 12:27:38",
+    "postalCode": "52391",
+    "city": "Vettweiß",
+    "district": "Disternich",
+    "street": "Am Karbuch",
+    "radius": null,
+    "coordinates": "6.673462098631;50.737424845562",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
