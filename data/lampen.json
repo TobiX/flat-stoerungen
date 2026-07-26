@@ -7056,24 +7056,6 @@
     "operatorName": "SRM StraßenBeleuchtung Rhein-Main GmbH"
   },
   {
-    "id": 6293584,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/28/2026 07:37:11",
-    "dateEnd": "07/28/2026 07:37:11",
-    "lastUpdate": "06/28/2026 07:37:12",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Altstadt I",
-    "street": "Eltener Str.",
-    "radius": null,
-    "coordinates": "6.8577444;51.4291168",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6293997,
     "operatorId": 368,
     "type": 10,
