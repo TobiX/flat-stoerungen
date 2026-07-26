@@ -20032,5 +20032,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6433341,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/26/2026 16:03:05",
+    "dateEnd": "08/26/2026 16:03:05",
+    "lastUpdate": "07/26/2026 16:03:05",
+    "postalCode": "54533",
+    "city": "Gransdorf",
+    "district": "Gransdorf",
+    "street": "Im Bachfeld",
+    "radius": null,
+    "coordinates": "6.688243631275;50.016796421028",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]

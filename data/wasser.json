@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": 6433342,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/26/2026 16:03:14",
+    "dateEnd": "07/26/2026 20:05:00",
+    "lastUpdate": "07/26/2026 16:03:15",
+    "postalCode": "52062",
+    "city": "Aachen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.0834559831916195,50.769171385354696",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6433343,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/26/2026 16:03:14",
+    "dateEnd": "07/26/2026 20:05:00",
+    "lastUpdate": "07/26/2026 16:03:15",
+    "postalCode": "52064",
+    "city": "Aachen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.0834559831916195,50.769171385354696",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6433344,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/26/2026 16:03:14",
+    "dateEnd": "07/26/2026 20:05:00",
+    "lastUpdate": "07/26/2026 16:03:15",
+    "postalCode": "52062",
+    "city": "Aachen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.0834559831916195,50.769171385354696",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
+  }
+]
