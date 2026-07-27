@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 6437172,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/27/2026 10:47:41",
+    "dateEnd": null,
+    "lastUpdate": "07/27/2026 12:23:25",
+    "postalCode": "45772",
+    "city": "Marl",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.168122978293136,51.668435",
+    "liveInfo": null,
+    "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6437173,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/27/2026 10:47:41",
+    "dateEnd": null,
+    "lastUpdate": "07/27/2026 12:23:25",
+    "postalCode": "45770",
+    "city": "Marl",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.168122978293136,51.668435",
+    "liveInfo": null,
+    "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  }
+]
