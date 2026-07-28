@@ -34,5 +34,23 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6442163,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/28/2026 04:57:47",
+    "dateEnd": null,
+    "lastUpdate": "07/28/2026 11:40:49",
+    "postalCode": "57334",
+    "city": "Bad Laasphe",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.416884490122978,50.928922",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
