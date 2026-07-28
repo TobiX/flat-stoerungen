@@ -20788,5 +20788,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6444233,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/28/2026 17:11:24",
+    "dateEnd": "08/28/2026 17:11:24",
+    "lastUpdate": "07/28/2026 17:11:25",
+    "postalCode": "71522",
+    "city": "Backnang",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.419039;48.910448",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

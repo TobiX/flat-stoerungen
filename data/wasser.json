@@ -1,23 +1,5 @@
 [
   {
-    "id": 6437146,
-    "operatorId": 3311,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "07/27/2026 10:23:00",
-    "dateEnd": "07/27/2026 16:00:00",
-    "lastUpdate": "07/27/2026 10:25:11",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": "Schlawer Straße ",
-    "radius": 25,
-    "coordinates": "10.570413,52.47445",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
     "id": 6442193,
     "operatorId": 132,
     "type": 1,
@@ -114,7 +96,7 @@
     "origin": 3,
     "dateStart": "07/28/2026 15:15:14",
     "dateEnd": "07/28/2026 18:20:00",
-    "lastUpdate": "07/28/2026 15:39:16",
+    "lastUpdate": "07/28/2026 17:36:19",
     "postalCode": "46514",
     "city": "Schermbeck",
     "district": null,
@@ -142,5 +124,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6444249,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "07/28/2026 17:27:18",
+    "dateEnd": "07/28/2026 20:30:00",
+    "lastUpdate": "07/28/2026 17:39:19",
+    "postalCode": "45473",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.905416906630038,51.44366851351456",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
