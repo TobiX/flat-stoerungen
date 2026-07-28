@@ -20806,5 +20806,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6444582,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/28/2026 19:07:46",
+    "dateEnd": "08/28/2026 19:07:46",
+    "lastUpdate": "07/28/2026 19:07:45",
+    "postalCode": "54614",
+    "city": "Oberlauch",
+    "district": "Oberlauch",
+    "street": "Prümer Str.",
+    "radius": null,
+    "coordinates": "6.4188194;50.1673943",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6444607,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/28/2026 19:58:43",
+    "dateEnd": "08/28/2026 19:58:43",
+    "lastUpdate": "07/28/2026 19:58:43",
+    "postalCode": "65307",
+    "city": "Bad Schwalbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.087159;50.13322",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
