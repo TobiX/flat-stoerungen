@@ -1,23 +1,5 @@
 [
   {
-    "id": 6442163,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/28/2026 04:57:47",
-    "dateEnd": null,
-    "lastUpdate": "07/28/2026 22:53:22",
-    "postalCode": "57334",
-    "city": "Bad Laasphe",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.416884490122978,50.928922",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6442586,
     "operatorId": 132,
     "type": 1,
@@ -114,7 +96,7 @@
     "origin": 5,
     "dateStart": "07/29/2026 11:36:49",
     "dateEnd": null,
-    "lastUpdate": "07/29/2026 11:43:26",
+    "lastUpdate": "07/29/2026 12:29:07",
     "postalCode": "33378",
     "city": "Rheda-Wiedenbrück",
     "district": null,
