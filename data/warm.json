@@ -1,23 +1,5 @@
 [
   {
-    "id": 6343716,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/28/2026 08:30:00",
-    "dateEnd": "07/28/2026 14:50:00",
-    "lastUpdate": "07/08/2026 07:51:24",
-    "postalCode": "38444",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Hans-Böckler-Weg",
-    "radius": 500,
-    "coordinates": "10.758478,52.39343",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6353972,
     "operatorId": 186,
     "type": 2,
