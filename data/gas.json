@@ -34,5 +34,23 @@
     "liveInfo": null,
     "isFixed": true,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6449979,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/29/2026 22:04:12",
+    "dateEnd": null,
+    "lastUpdate": "07/29/2026 22:29:01",
+    "postalCode": "45772",
+    "city": "Marl",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.122414987570693,51.683893499999996",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
