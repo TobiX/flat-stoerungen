@@ -21076,5 +21076,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6449630,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/29/2026 20:18:17",
+    "dateEnd": "08/29/2026 20:18:17",
+    "lastUpdate": "07/29/2026 20:18:17",
+    "postalCode": "56276",
+    "city": "Großmaischeid",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.640786;50.506041",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
