@@ -1,23 +1,5 @@
 [
   {
-    "id": 6161986,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/07/2026 12:54:53",
-    "dateEnd": "06/07/2026 12:54:53",
-    "lastUpdate": "05/07/2026 12:54:52",
-    "postalCode": "69257",
-    "city": "Wiesenbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.807155;49.365264",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6162434,
     "operatorId": 237,
     "type": 10,
@@ -21328,5 +21310,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6453141,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/30/2026 13:38:21",
+    "dateEnd": "08/30/2026 13:38:21",
+    "lastUpdate": "07/30/2026 13:38:21",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.436662;50.092227",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
