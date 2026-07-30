@@ -1,23 +1,5 @@
 [
   {
-    "id": 6443031,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/29/2026 13:00:00",
-    "dateEnd": "07/29/2026 15:00:00",
-    "lastUpdate": "07/28/2026 14:08:23",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Winnebrockstraße 36",
-    "radius": 500,
-    "coordinates": "8.352106,52.05718",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6446772,
     "operatorId": 3311,
     "type": 2,
