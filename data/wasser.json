@@ -1,23 +1,5 @@
 [
   {
-    "id": 6452164,
-    "operatorId": 259,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "07/30/2026 08:30:00",
-    "dateEnd": "07/30/2026 15:00:00",
-    "lastUpdate": "07/30/2026 09:15:55",
-    "postalCode": "38723",
-    "city": "Seesen",
-    "district": null,
-    "street": "Petersberg ",
-    "radius": 500,
-    "coordinates": "10.12426,51.89035",
-    "liveInfo": "Techniker ist zur Entstörung vor Ort",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6455930,
     "operatorId": 1782,
     "type": 1,
@@ -214,5 +196,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6458659,
+    "operatorId": 321,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "07/31/2026 15:34:00",
+    "dateEnd": "07/31/2026 19:00:00",
+    "lastUpdate": "07/31/2026 15:38:50",
+    "postalCode": "47829",
+    "city": "Krefeld",
+    "district": null,
+    "street": "Neukirchener Straße 2",
+    "radius": 0,
+    "coordinates": "6.616422,51.370728",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "NGN Netzgesellschaft Niederrhein mbH"
   }
 ]

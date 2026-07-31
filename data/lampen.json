@@ -22300,5 +22300,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6458674,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/31/2026 15:56:26",
+    "dateEnd": "08/31/2026 15:56:26",
+    "lastUpdate": "07/31/2026 15:56:31",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Bruchhausen",
+    "street": "Veilchenstraße",
+    "radius": null,
+    "coordinates": "8.368221,48.931061",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
