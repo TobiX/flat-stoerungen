@@ -18,24 +18,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6455365,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/30/2026 22:05:09",
-    "dateEnd": null,
-    "lastUpdate": "07/31/2026 12:09:02",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.550390747989422,51.001784",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6455930,
     "operatorId": 1782,
     "type": 1,
@@ -222,7 +204,7 @@
     "origin": 5,
     "dateStart": "07/31/2026 10:36:51",
     "dateEnd": null,
-    "lastUpdate": "07/31/2026 12:09:02",
+    "lastUpdate": "07/31/2026 13:33:23",
     "postalCode": "50169",
     "city": "Kerpen",
     "district": null,

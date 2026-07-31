@@ -22264,5 +22264,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6458302,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/31/2026 13:24:21",
+    "dateEnd": "08/31/2026 13:24:21",
+    "lastUpdate": "07/31/2026 13:24:26",
+    "postalCode": "76889",
+    "city": "Kapsweyer",
+    "district": "",
+    "street": "Samsgasse",
+    "radius": null,
+    "coordinates": "8.018951,49.043974",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6458482,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/31/2026 14:38:38",
+    "dateEnd": "08/31/2026 14:38:38",
+    "lastUpdate": "07/31/2026 14:38:39",
+    "postalCode": "65329",
+    "city": "Hohenstein",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.08579;50.211105",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
