@@ -196,41 +196,5 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6458659,
-    "operatorId": 321,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "07/31/2026 15:34:00",
-    "dateEnd": "07/31/2026 19:00:00",
-    "lastUpdate": "07/31/2026 15:38:50",
-    "postalCode": "47829",
-    "city": "Krefeld",
-    "district": null,
-    "street": "Neukirchener Straße 2",
-    "radius": 0,
-    "coordinates": "6.616422,51.370728",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "NGN Netzgesellschaft Niederrhein mbH"
-  },
-  {
-    "id": 6459006,
-    "operatorId": 321,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "07/31/2026 17:27:09",
-    "dateEnd": "07/31/2026 21:30:00",
-    "lastUpdate": "07/31/2026 21:27:47",
-    "postalCode": "47829",
-    "city": "Krefeld",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.629437446379397,51.369664370317054",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "NGN Netzgesellschaft Niederrhein mbH"
   }
 ]
