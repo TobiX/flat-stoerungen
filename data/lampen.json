@@ -22228,5 +22228,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6456478,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "07/31/2026 04:32:10",
+    "dateEnd": "08/31/2026 04:32:10",
+    "lastUpdate": "07/31/2026 04:32:16",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Styrum",
+    "street": "Hauskampstr.",
+    "radius": null,
+    "coordinates": "6.8642211;51.44474798",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
