@@ -1710,24 +1710,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6194832,
-    "operatorId": 401,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/05/2026 00:06:22",
-    "dateEnd": "07/05/2026 00:06:22",
-    "lastUpdate": "06/05/2026 00:06:23",
-    "postalCode": "63739",
-    "city": "Aschaffenburg",
-    "district": "Aschaffenburg",
-    "street": "Friedrichstraße",
-    "radius": null,
-    "coordinates": "9.142012,49.97852",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Aschaffenburger Versorgungs-GmbH"
-  },
-  {
     "id": 6194872,
     "operatorId": 237,
     "type": 10,
@@ -1744,24 +1726,6 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6194990,
-    "operatorId": 308,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/05/2026 01:23:18",
-    "dateEnd": "07/05/2026 01:23:18",
-    "lastUpdate": "06/05/2026 01:23:18",
-    "postalCode": "46238",
-    "city": "Bottrop",
-    "district": "Bottrop",
-    "street": "Gungstraße",
-    "radius": null,
-    "coordinates": "6.98546,51.525692",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ELE Verteilnetz GmbH"
   },
   {
     "id": 6196131,
@@ -7720,24 +7684,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6317530,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/03/2026 00:23:31",
-    "dateEnd": "08/03/2026 00:23:31",
-    "lastUpdate": "07/03/2026 00:23:31",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Saarn/Mintard",
-    "street": "Cécile-Vogt-Str.",
-    "radius": null,
-    "coordinates": "6.86686524;51.3986547",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6319319,
