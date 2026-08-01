@@ -12654,24 +12654,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6384230,
-    "operatorId": 325,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/16/2026 12:38:26",
-    "dateEnd": "08/16/2026 12:38:26",
-    "lastUpdate": "07/16/2026 12:38:27",
-    "postalCode": "48231",
-    "city": "Warendorf",
-    "district": "Warendorf",
-    "street": "Griesenstr.",
-    "radius": null,
-    "coordinates": "7.987456,51.946255",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
-  },
-  {
     "id": 6384621,
     "operatorId": 368,
     "type": 10,

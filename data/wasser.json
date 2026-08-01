@@ -180,24 +180,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6457755,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "07/31/2026 10:36:51",
-    "dateEnd": null,
-    "lastUpdate": "07/31/2026 13:33:23",
-    "postalCode": "50169",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.749736225401173,50.8601495",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6461712,
     "operatorId": 1782,
     "type": 1,
@@ -214,5 +196,23 @@
     "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 01.08.2026 02:00\nMonteur informiert um 31.07.2026 12:00\nMonteur vor Ort seit 31.07.2026 12:45\nStandort Notwasser: momentan keins möglich ",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6462702,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/01/2026 10:25:29",
+    "dateEnd": null,
+    "lastUpdate": "08/01/2026 11:10:44",
+    "postalCode": "50126",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.634624972258305,50.94688",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
