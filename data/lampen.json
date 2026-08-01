@@ -21868,5 +21868,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6464498,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/01/2026 19:20:56",
+    "dateEnd": "09/01/2026 19:20:56",
+    "lastUpdate": "08/01/2026 19:20:58",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Altstadt I",
+    "street": "Tourainer Ring",
+    "radius": null,
+    "coordinates": "6.8818186;51.4321628",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6464689,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/01/2026 20:05:44",
+    "dateEnd": "09/01/2026 20:05:44",
+    "lastUpdate": "08/01/2026 20:05:50",
+    "postalCode": "66885",
+    "city": "Bedesbach",
+    "district": "",
+    "street": "Wackefeller",
+    "radius": null,
+    "coordinates": "7.462297,49.569566",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]

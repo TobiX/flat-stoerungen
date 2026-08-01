@@ -214,5 +214,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6464492,
+    "operatorId": 186,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/01/2026 19:15:06",
+    "dateEnd": "08/01/2026 20:50:00",
+    "lastUpdate": "08/01/2026 19:57:08",
+    "postalCode": "38319",
+    "city": "Remlingen-Semmenstedt",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.672552150829699,52.11375214908411",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6464493,
+    "operatorId": 186,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/01/2026 19:15:06",
+    "dateEnd": "08/01/2026 20:50:00",
+    "lastUpdate": "08/01/2026 19:57:08",
+    "postalCode": "38319",
+    "city": "Remlingen-Semmenstedt",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.672552150829699,52.11375214908411",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
