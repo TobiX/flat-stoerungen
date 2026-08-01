@@ -21850,5 +21850,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6464106,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/01/2026 17:19:09",
+    "dateEnd": "09/01/2026 17:19:09",
+    "lastUpdate": "08/01/2026 17:19:14",
+    "postalCode": "27711",
+    "city": "Osterholz-Scharmbeck",
+    "district": "Osterholz",
+    "street": "Am Rodelande",
+    "radius": null,
+    "coordinates": "8.791273,53.237041",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
