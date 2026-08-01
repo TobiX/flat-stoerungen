@@ -7596,24 +7596,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6322833,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/04/2026 04:00:21",
-    "dateEnd": "08/04/2026 04:00:21",
-    "lastUpdate": "07/04/2026 04:00:21",
-    "postalCode": "33181",
-    "city": "Bad Wünnenberg",
-    "district": "Fürstenberg",
-    "street": "Langenweg",
-    "radius": null,
-    "coordinates": "8.750776409523;51.512009431400",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6323197,
     "operatorId": 132,
     "type": 10,

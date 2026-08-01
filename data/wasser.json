@@ -5,8 +5,8 @@
     "type": 1,
     "origin": 5,
     "dateStart": "07/30/2026 22:23:00",
-    "dateEnd": "08/01/2026 01:00:00",
-    "lastUpdate": "07/31/2026 18:37:29",
+    "dateEnd": "08/01/2026 04:50:00",
+    "lastUpdate": "08/01/2026 05:29:30",
     "postalCode": "95444",
     "city": "Bayreuth",
     "district": null,
@@ -196,5 +196,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6461712,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "07/31/2026 20:06:00",
+    "dateEnd": "08/01/2026 04:55:00",
+    "lastUpdate": "08/01/2026 05:35:44",
+    "postalCode": "95444",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5815683,49.9450334",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 01.08.2026 02:00\nMonteur informiert um 31.07.2026 12:00\nMonteur vor Ort seit 31.07.2026 12:45\nStandort Notwasser: momentan keins möglich ",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
