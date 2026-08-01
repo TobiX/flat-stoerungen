@@ -1782,24 +1782,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6201476,
-    "operatorId": 294,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/06/2026 23:03:34",
-    "dateEnd": "07/06/2026 23:03:34",
-    "lastUpdate": "06/06/2026 23:03:35",
-    "postalCode": "45525",
-    "city": "Hattingen",
-    "district": "Ennepe-Ruhr-Kreis",
-    "street": "Eichendorffstraße",
-    "radius": null,
-    "coordinates": "7.179258,51.392239",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AVU Netz GmbH"
-  },
-  {
     "id": 6201509,
     "operatorId": 237,
     "type": 10,
@@ -7540,24 +7522,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Hansestadt Lübeck"
-  },
-  {
-    "id": 6326377,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/04/2026 23:02:16",
-    "dateEnd": "08/04/2026 23:02:16",
-    "lastUpdate": "07/04/2026 23:02:16",
-    "postalCode": "56858",
-    "city": "Grenderich",
-    "district": "Grenderich",
-    "street": "Rosenbergstraße",
-    "radius": null,
-    "coordinates": "7.225331428677;50.066501302438",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6326393,
@@ -21886,5 +21850,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6465296,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/01/2026 23:22:55",
+    "dateEnd": "09/01/2026 23:22:55",
+    "lastUpdate": "08/01/2026 23:22:54",
+    "postalCode": "56581",
+    "city": "Kurtscheid",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.465237;50.537144",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6465309,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/01/2026 23:54:53",
+    "dateEnd": "09/01/2026 23:54:53",
+    "lastUpdate": "08/01/2026 23:54:58",
+    "postalCode": "67688",
+    "city": "Rodenbach",
+    "district": "",
+    "street": "Breitwiesen",
+    "radius": null,
+    "coordinates": "7.667116,49.473365",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
