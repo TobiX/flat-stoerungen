@@ -22012,5 +22012,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6469053,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/02/2026 17:22:26",
+    "dateEnd": "09/02/2026 17:22:26",
+    "lastUpdate": "08/02/2026 17:22:26",
+    "postalCode": "65520",
+    "city": "Bad Camberg",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.263906;50.300872",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
