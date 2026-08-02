@@ -7614,42 +7614,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6328462,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/05/2026 09:48:19",
-    "dateEnd": "08/05/2026 09:48:19",
-    "lastUpdate": "07/05/2026 09:48:20",
-    "postalCode": "54662",
-    "city": "Speicher",
-    "district": "Speicher",
-    "street": "Rückersberg",
-    "radius": null,
-    "coordinates": "6.6326308;49.9299813",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6328463,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/05/2026 09:48:56",
-    "dateEnd": "08/05/2026 09:48:56",
-    "lastUpdate": "07/05/2026 09:48:57",
-    "postalCode": "54662",
-    "city": "Speicher",
-    "district": "Speicher",
-    "street": "Rückersberg",
-    "radius": null,
-    "coordinates": "6.6322679;49.9298357",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6328642,
     "operatorId": 1782,
     "type": 10,
@@ -21850,5 +21814,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6467538,
+    "operatorId": 337,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/02/2026 10:22:36",
+    "dateEnd": "09/02/2026 10:22:36",
+    "lastUpdate": "08/02/2026 10:22:41",
+    "postalCode": "48691",
+    "city": "Vreden",
+    "district": "Borken",
+    "street": "Bachstraße",
+    "radius": null,
+    "coordinates": "6.814733,52.04326",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LokalWerke GmbH"
   }
 ]
