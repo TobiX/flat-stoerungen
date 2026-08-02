@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6469702,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/02/2026 20:14:14",
+    "dateEnd": null,
+    "lastUpdate": "08/02/2026 21:13:22",
+    "postalCode": "33014",
+    "city": "Bad Driburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.99327925,51.674617",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]

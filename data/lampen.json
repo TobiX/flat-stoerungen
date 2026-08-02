@@ -1,23 +1,5 @@
 [
   {
-    "id": 6162947,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/10/2026 20:23:30",
-    "dateEnd": "06/10/2026 20:23:30",
-    "lastUpdate": "05/10/2026 20:23:30",
-    "postalCode": "71566",
-    "city": "Althütte",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.553594;48.944851",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6162989,
     "operatorId": 237,
     "type": 10,
@@ -22027,6 +22009,24 @@
     "street": "",
     "radius": null,
     "coordinates": "8.263906;50.300872",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6469490,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/02/2026 19:22:26",
+    "dateEnd": "09/02/2026 19:22:26",
+    "lastUpdate": "08/02/2026 19:22:27",
+    "postalCode": "53567",
+    "city": "Asbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.421996;50.666336",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
