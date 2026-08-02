@@ -1800,24 +1800,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6203275,
-    "operatorId": 294,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/07/2026 11:08:56",
-    "dateEnd": "07/07/2026 11:08:56",
-    "lastUpdate": "06/07/2026 11:08:56",
-    "postalCode": "58300",
-    "city": "Wetter (Ruhr)",
-    "district": "Ennepe-Ruhr-Kreis",
-    "street": "Bergstraße",
-    "radius": null,
-    "coordinates": "7.389519,51.387646",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AVU Netz GmbH"
-  },
-  {
     "id": 6204871,
     "operatorId": 237,
     "type": 10,
@@ -21832,5 +21814,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LokalWerke GmbH"
+  },
+  {
+    "id": 6467949,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/02/2026 12:10:27",
+    "dateEnd": "09/02/2026 12:10:27",
+    "lastUpdate": "08/02/2026 12:10:26",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.342359;50.016261",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6468165,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/02/2026 13:09:28",
+    "dateEnd": "09/02/2026 13:09:28",
+    "lastUpdate": "08/02/2026 13:09:28",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.455623;50.086739",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

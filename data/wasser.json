@@ -162,24 +162,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6462702,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/01/2026 10:25:29",
-    "dateEnd": null,
-    "lastUpdate": "08/01/2026 18:59:00",
-    "postalCode": "50126",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.634624972258305,50.94688",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6464492,
     "operatorId": 186,
     "type": 1,
@@ -214,5 +196,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6467973,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/02/2026 12:46:01",
+    "dateEnd": null,
+    "lastUpdate": "08/02/2026 13:20:44",
+    "postalCode": "50170",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.665794736314716,50.915141",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
