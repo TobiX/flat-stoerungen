@@ -304,5 +304,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6476811,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/03/2026 23:42:00",
+    "dateEnd": "08/04/2026 12:00:00",
+    "lastUpdate": "08/03/2026 23:44:16",
+    "postalCode": "46236",
+    "city": "Bottrop",
+    "district": null,
+    "street": "Böckenhoffstraße ",
+    "radius": 200,
+    "coordinates": "6.9227896,51.523914",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
