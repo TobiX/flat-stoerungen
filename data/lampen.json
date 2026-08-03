@@ -22408,5 +22408,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6475508,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/03/2026 18:58:17",
+    "dateEnd": "09/03/2026 18:58:17",
+    "lastUpdate": "08/03/2026 18:58:17",
+    "postalCode": "54552",
+    "city": "Dreis-Brück",
+    "district": "Brück",
+    "street": "Auf'm Triesch",
+    "radius": null,
+    "coordinates": "6.805595425962;50.272814599535",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6475706,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/03/2026 19:37:25",
+    "dateEnd": "09/03/2026 19:37:25",
+    "lastUpdate": "08/03/2026 19:37:25",
+    "postalCode": "65375",
+    "city": "Oestrich-Winkel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.02953;50.027988",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
