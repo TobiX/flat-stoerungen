@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 6473211,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/03/2026 10:14:08",
+    "dateEnd": null,
+    "lastUpdate": "08/03/2026 13:36:10",
+    "postalCode": "49448",
+    "city": "Stemshorn",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.37399874229611,52.457556499999995",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6473250,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/03/2026 10:52:12",
+    "dateEnd": null,
+    "lastUpdate": "08/03/2026 13:36:10",
+    "postalCode": "33378",
+    "city": "Rheda-Wiedenbrück",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.299740745873518,51.8343195",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
