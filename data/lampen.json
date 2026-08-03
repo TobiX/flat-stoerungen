@@ -22444,5 +22444,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6475906,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/03/2026 20:26:27",
+    "dateEnd": "09/03/2026 20:26:27",
+    "lastUpdate": "08/03/2026 20:26:26",
+    "postalCode": "65817",
+    "city": "Eppstein",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.355044;50.143745",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6476105,
+    "operatorId": 402,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/03/2026 21:23:08",
+    "dateEnd": "09/03/2026 21:23:08",
+    "lastUpdate": "08/03/2026 21:23:13",
+    "postalCode": "97631",
+    "city": "Bad Königshofen i. Grabfeld",
+    "district": "Rhön-Grabfeld",
+    "street": "Mittelberg",
+    "radius": null,
+    "coordinates": "10.455309,50.301252",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bayernwerk Netz GmbH"
   }
 ]
