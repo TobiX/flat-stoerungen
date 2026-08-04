@@ -180,24 +180,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6472398,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "08/03/2026 07:36:00",
-    "dateEnd": "08/03/2026 12:00:00",
-    "lastUpdate": "08/03/2026 07:38:25",
-    "postalCode": "45964",
-    "city": "Gladbeck",
-    "district": null,
-    "street": "Friedenstraße 3",
-    "radius": 100,
-    "coordinates": "6.985207,51.573986",
-    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung der Häuser Friedenstr. 1-29 und Rentforterstr. 27 ist eingestellt.",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
     "id": 6472945,
     "operatorId": 3331,
     "type": 1,
