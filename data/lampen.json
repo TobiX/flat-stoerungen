@@ -21958,5 +21958,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6481060,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/04/2026 17:50:34",
+    "dateEnd": "09/04/2026 17:50:34",
+    "lastUpdate": "08/04/2026 17:50:34",
+    "postalCode": "61279",
+    "city": "Grävenwiesbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.428704;50.36308",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6481062,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/04/2026 17:50:49",
+    "dateEnd": "09/04/2026 17:50:49",
+    "lastUpdate": "08/04/2026 17:50:49",
+    "postalCode": "61279",
+    "city": "Grävenwiesbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.42955;50.36282",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
