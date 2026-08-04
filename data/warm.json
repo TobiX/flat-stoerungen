@@ -124,5 +124,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6478349,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/04/2026 08:00:00",
+    "dateEnd": "08/04/2026 15:30:00",
+    "lastUpdate": "08/04/2026 06:57:44",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Krogestraße ",
+    "radius": 500,
+    "coordinates": "10.773182,52.44712",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]

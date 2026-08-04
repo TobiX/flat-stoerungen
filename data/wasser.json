@@ -322,5 +322,23 @@
     "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6478525,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/04/2026 06:58:00",
+    "dateEnd": "08/04/2026 12:00:00",
+    "lastUpdate": "08/04/2026 07:01:46",
+    "postalCode": "46236",
+    "city": "Bottrop",
+    "district": null,
+    "street": "Böckenhoffstraße 14",
+    "radius": 100,
+    "coordinates": "6.92325,51.52402",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung der Häuser Böckenhoffstr 1 bis 15 und Kirchhellenerstr 28  gesperrt.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
