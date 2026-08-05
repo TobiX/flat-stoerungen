@@ -18,24 +18,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6480860,
-    "operatorId": 185,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "08/04/2026 16:45:20",
-    "dateEnd": "08/04/2026 18:20:00",
-    "lastUpdate": "08/04/2026 16:45:20",
-    "postalCode": "29313",
-    "city": "Hambühren",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.945950035345124,52.6250281621372",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Celle-Uelzen Netz GmbH"
-  },
-  {
     "id": 6481036,
     "operatorId": 528,
     "type": 2,
