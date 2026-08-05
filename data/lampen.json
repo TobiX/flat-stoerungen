@@ -2286,42 +2286,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6215772,
-    "operatorId": 1969,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/10/2026 17:01:28",
-    "dateEnd": "07/10/2026 17:01:28",
-    "lastUpdate": "06/10/2026 17:01:33",
-    "postalCode": "51597",
-    "city": "Morsbach",
-    "district": "Oberbergischer Kreis",
-    "street": "Waldbröler Straße",
-    "radius": null,
-    "coordinates": "7.725673,50.869285",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AggerEnergie GmbH"
-  },
-  {
-    "id": 6215773,
-    "operatorId": 1969,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/10/2026 17:02:17",
-    "dateEnd": "07/10/2026 17:02:17",
-    "lastUpdate": "06/10/2026 17:02:18",
-    "postalCode": "51597",
-    "city": "Morsbach",
-    "district": "Oberbergischer Kreis",
-    "street": "Waldbröler Straße",
-    "radius": null,
-    "coordinates": "7.725892,50.868890",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AggerEnergie GmbH"
-  },
-  {
     "id": 6215920,
     "operatorId": 402,
     "type": 10,
@@ -22606,5 +22570,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Alliander Netz Heinsberg GmbH"
+  },
+  {
+    "id": 6486254,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/05/2026 16:36:48",
+    "dateEnd": "09/05/2026 16:36:48",
+    "lastUpdate": "08/05/2026 16:36:46",
+    "postalCode": "67746",
+    "city": "Langweiler",
+    "district": "Langweiler",
+    "street": "Hardter Weg",
+    "radius": null,
+    "coordinates": "7.52717517;49.66727705",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
