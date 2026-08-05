@@ -2286,24 +2286,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6215920,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/10/2026 18:04:44",
-    "dateEnd": "07/10/2026 18:04:44",
-    "lastUpdate": "06/10/2026 18:04:45",
-    "postalCode": "93495",
-    "city": "Weiding",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "12.733723,49.276479",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
-  },
-  {
     "id": 6216678,
     "operatorId": 2031,
     "type": 10,
