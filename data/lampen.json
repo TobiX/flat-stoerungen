@@ -7398,24 +7398,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6345118,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/08/2026 11:44:43",
-    "dateEnd": "08/08/2026 11:44:43",
-    "lastUpdate": "07/08/2026 11:44:45",
-    "postalCode": "57234",
-    "city": "Wilnsdorf",
-    "district": "Wilden",
-    "street": "Im Dörfchen",
-    "radius": null,
-    "coordinates": "8.0813604;50.806717",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6345296,
     "operatorId": 237,
     "type": 10,
@@ -22552,5 +22534,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6485369,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/05/2026 12:22:20",
+    "dateEnd": "09/05/2026 12:22:20",
+    "lastUpdate": "08/05/2026 12:22:20",
+    "postalCode": "59929",
+    "city": "Brilon",
+    "district": "Hoppecke",
+    "street": "Berliner Str.",
+    "radius": null,
+    "coordinates": "8.641680632394;51.375099642604",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
