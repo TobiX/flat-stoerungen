@@ -17568,24 +17568,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6450746,
-    "operatorId": 302,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/30/2026 02:10:28",
-    "dateEnd": "08/30/2026 02:10:28",
-    "lastUpdate": "07/30/2026 02:10:33",
-    "postalCode": "58515",
-    "city": "Lüdenscheid",
-    "district": "",
-    "street": "Eininghauser Weg",
-    "radius": null,
-    "coordinates": "7.578309,51.204981",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ENERVIE Vernetzt GmbH"
-  },
-  {
     "id": 6451455,
     "operatorId": 132,
     "type": 10,
