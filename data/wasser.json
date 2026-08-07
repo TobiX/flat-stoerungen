@@ -1,23 +1,5 @@
 [
   {
-    "id": 6492088,
-    "operatorId": 185,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "08/06/2026 20:15:15",
-    "dateEnd": "08/06/2026 21:50:00",
-    "lastUpdate": "08/06/2026 21:42:17",
-    "postalCode": "29313",
-    "city": "Hambühren",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.93226879191283,52.62981772329516",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Celle-Uelzen Netz GmbH"
-  },
-  {
     "id": 6495039,
     "operatorId": 350,
     "type": 1,
