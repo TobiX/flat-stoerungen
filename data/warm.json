@@ -36,24 +36,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6388930,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/06/2026 08:30:00",
-    "dateEnd": "08/06/2026 13:36:00",
-    "lastUpdate": "07/17/2026 10:37:07",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Maschweg 9",
-    "radius": 500,
-    "coordinates": "10.785215,52.444176",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6423786,
     "operatorId": 186,
     "type": 2,
