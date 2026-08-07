@@ -2394,24 +2394,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6224918,
-    "operatorId": 1965,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/13/2026 00:26:10",
-    "dateEnd": "07/13/2026 00:26:10",
-    "lastUpdate": "06/13/2026 00:26:11",
-    "postalCode": "42659",
-    "city": "Solingen",
-    "district": "Solingen",
-    "street": "Mühlendamm",
-    "radius": null,
-    "coordinates": "7.150560,51.140202",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Technische Betriebe Solingen"
-  },
-  {
     "id": 6225118,
     "operatorId": 237,
     "type": 10,
@@ -7378,24 +7360,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Bad Düben"
-  },
-  {
-    "id": 6356762,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/11/2026 00:51:43",
-    "dateEnd": "08/11/2026 00:51:43",
-    "lastUpdate": "07/11/2026 00:51:44",
-    "postalCode": "55606",
-    "city": "Hochstetten-Dhaun",
-    "district": "Hochstädten",
-    "street": "Mühlengrund",
-    "radius": null,
-    "coordinates": "7.520786057883;49.800224366084",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6357600,
@@ -23254,5 +23218,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6497224,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 01:38:22",
+    "dateEnd": "09/08/2026 01:38:22",
+    "lastUpdate": "08/08/2026 01:38:31",
+    "postalCode": "46282",
+    "city": "Dorsten",
+    "district": "Hardt",
+    "street": "Gahlener Str.",
+    "radius": null,
+    "coordinates": "6.940656623171;51.658187080319",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
