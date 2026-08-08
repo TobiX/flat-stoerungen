@@ -23236,5 +23236,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6497229,
+    "operatorId": 4882,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 01:45:30",
+    "dateEnd": "09/08/2026 01:45:30",
+    "lastUpdate": "08/08/2026 01:45:35",
+    "postalCode": "75248",
+    "city": "Ölbronn-Dürrn",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.759457,48.954868",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Ölbronn-Dürrn"
   }
 ]
