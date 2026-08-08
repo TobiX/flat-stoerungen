@@ -23236,5 +23236,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6499054,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 13:39:08",
+    "dateEnd": "09/08/2026 13:39:08",
+    "lastUpdate": "08/08/2026 13:39:08",
+    "postalCode": "54331",
+    "city": "Pellingen",
+    "district": "Pellingen",
+    "street": "Waldstr.",
+    "radius": null,
+    "coordinates": "6.6678737;49.6756788",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6499057,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 13:40:34",
+    "dateEnd": "09/08/2026 13:40:34",
+    "lastUpdate": "08/08/2026 13:40:34",
+    "postalCode": "54331",
+    "city": "Pellingen",
+    "district": "Pellingen",
+    "street": "In Burgund",
+    "radius": null,
+    "coordinates": "6.6681015;49.6757803",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
