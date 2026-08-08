@@ -7362,24 +7362,6 @@
     "operatorName": "Stadt Bad Düben"
   },
   {
-    "id": 6357600,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/11/2026 05:54:36",
-    "dateEnd": "08/11/2026 05:54:36",
-    "lastUpdate": "07/11/2026 05:54:36",
-    "postalCode": "54634",
-    "city": "Bitburg",
-    "district": "Bitburg",
-    "street": "Stockstr.",
-    "radius": null,
-    "coordinates": "6.52700953;49.97010769",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6358259,
     "operatorId": 368,
     "type": 10,
@@ -23254,5 +23236,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Gemeinde Ölbronn-Dürrn"
+  },
+  {
+    "id": 6497667,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 04:33:03",
+    "dateEnd": "09/08/2026 04:33:03",
+    "lastUpdate": "08/08/2026 04:33:04",
+    "postalCode": "71726",
+    "city": "Benningen am Neckar",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.236945;48.940799",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
