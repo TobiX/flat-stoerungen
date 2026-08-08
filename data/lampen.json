@@ -1,23 +1,5 @@
 [
   {
-    "id": 6166018,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/16/2026 12:19:30",
-    "dateEnd": "06/16/2026 12:19:30",
-    "lastUpdate": "05/16/2026 12:19:30",
-    "postalCode": "71554",
-    "city": "Weissach im Tal",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.479875;48.932468",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6166112,
     "operatorId": 237,
     "type": 10,
