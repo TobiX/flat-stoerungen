@@ -23254,5 +23254,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6498443,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 09:47:41",
+    "dateEnd": "09/08/2026 09:47:41",
+    "lastUpdate": "08/08/2026 09:47:38",
+    "postalCode": "54578",
+    "city": "Walsdorf",
+    "district": "Zilsdorf",
+    "street": "Auf der Steip",
+    "radius": null,
+    "coordinates": "6.736738761440;50.279240677323",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6498444,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/08/2026 09:49:37",
+    "dateEnd": "09/08/2026 09:49:37",
+    "lastUpdate": "08/08/2026 09:49:35",
+    "postalCode": "54578",
+    "city": "Walsdorf",
+    "district": "Zilsdorf",
+    "street": "Mühlenweg",
+    "radius": null,
+    "coordinates": "6.73714472;50.27947924",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
