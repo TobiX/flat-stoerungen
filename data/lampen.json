@@ -2466,24 +2466,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6232621,
-    "operatorId": 71,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/14/2026 23:34:23",
-    "dateEnd": "07/14/2026 23:34:23",
-    "lastUpdate": "06/14/2026 23:34:24",
-    "postalCode": "09116",
-    "city": "Chemnitz",
-    "district": "Chemnitz",
-    "street": "Popowstraße",
-    "radius": null,
-    "coordinates": "12.877641,50.823387",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "inetz GmbH"
-  },
-  {
     "id": 6232773,
     "operatorId": 237,
     "type": 10,
