@@ -7290,24 +7290,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6363199,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/12/2026 11:49:04",
-    "dateEnd": "08/12/2026 11:49:04",
-    "lastUpdate": "07/12/2026 11:49:05",
-    "postalCode": "59929",
-    "city": "Brilon",
-    "district": "Hoppecke",
-    "street": "Heinrich-Jansen-Str.",
-    "radius": null,
-    "coordinates": "8.639842862339;51.373327535808",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6363200,
     "operatorId": 237,
     "type": 10,
