@@ -22858,5 +22858,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6504130,
+    "operatorId": 75,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/09/2026 21:01:43",
+    "dateEnd": "09/09/2026 21:01:43",
+    "lastUpdate": "08/09/2026 21:01:44",
+    "postalCode": "10437",
+    "city": "Berlin",
+    "district": null,
+    "street": "Raumerstraße",
+    "radius": null,
+    "coordinates": "13.42059,52.54184",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stromnetz Berlin GmbH"
+  },
+  {
+    "id": 6504132,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/09/2026 21:15:50",
+    "dateEnd": "09/09/2026 21:15:50",
+    "lastUpdate": "08/09/2026 21:15:50",
+    "postalCode": "46284",
+    "city": "Dorsten",
+    "district": "Holsterhausen",
+    "street": "Schultenhof",
+    "radius": null,
+    "coordinates": "6.9399967;51.6768985",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
