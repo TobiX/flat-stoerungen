@@ -7344,24 +7344,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6365271,
-    "operatorId": 354,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/12/2026 22:51:50",
-    "dateEnd": "08/12/2026 22:51:50",
-    "lastUpdate": "07/12/2026 22:51:50",
-    "postalCode": "52525",
-    "city": "Heinsberg",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "6.077612,51.072531",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Alliander Netz Heinsberg GmbH"
-  },
-  {
     "id": 6365272,
     "operatorId": 2114,
     "type": 10,
