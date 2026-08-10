@@ -23020,5 +23020,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6505431,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/10/2026 06:31:04",
+    "dateEnd": "09/10/2026 06:31:04",
+    "lastUpdate": "08/10/2026 06:31:06",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Bruchhausen",
+    "street": "Durmersheimer Straße",
+    "radius": null,
+    "coordinates": "8.365449,48.929315",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
