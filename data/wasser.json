@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "08/09/2026 22:29:54",
     "dateEnd": null,
-    "lastUpdate": "08/10/2026 08:56:27",
+    "lastUpdate": "08/10/2026 11:10:47",
     "postalCode": "50171",
     "city": "Kerpen",
     "district": null,
@@ -24,7 +24,7 @@
     "origin": 3,
     "dateStart": "08/10/2026 08:48:13",
     "dateEnd": "08/10/2026 12:50:00",
-    "lastUpdate": "08/10/2026 10:36:15",
+    "lastUpdate": "08/10/2026 11:54:20",
     "postalCode": "52134",
     "city": "Herzogenrath",
     "district": null,
@@ -34,5 +34,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6506507,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/10/2026 10:47:00",
+    "dateEnd": "08/13/2026 23:59:00",
+    "lastUpdate": "08/10/2026 11:37:20",
+    "postalCode": "46047",
+    "city": "Oberhausen",
+    "district": null,
+    "street": "Mellinghofer Straße 135",
+    "radius": 100,
+    "coordinates": "6.885978,51.47586",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch im Bereich Mellinghofer Straße Ecke Falkensteinstraße. Aufgrund der notwendigen Arbeiten, ist die Zufahrt in die Falkensteinstraße kommend von der Mellinghofer Str. und von der Falkensteinstraße auf die Mellingofer Str. voll gesperrt. Es wird empfohlen, den Bereich großräumig zu umfahren und die ausgeschilderten Umleitungen zu nutzen. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]

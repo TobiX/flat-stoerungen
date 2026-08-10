@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6506384,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/10/2026 10:14:33",
+    "dateEnd": null,
+    "lastUpdate": "08/10/2026 12:23:25",
+    "postalCode": "57234",
+    "city": "Wilnsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.108658989523455,50.813712",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
