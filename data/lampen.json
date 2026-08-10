@@ -7686,42 +7686,6 @@
     "operatorName": "LokalWerke GmbH"
   },
   {
-    "id": 6370916,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/14/2026 00:56:34",
-    "dateEnd": "08/14/2026 00:56:34",
-    "lastUpdate": "07/14/2026 00:56:34",
-    "postalCode": "52382",
-    "city": "Niederzier",
-    "district": "Niederzier",
-    "street": "Adenauerweg",
-    "radius": null,
-    "coordinates": "6.45633768;50.88675707",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6370917,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/14/2026 00:57:29",
-    "dateEnd": "08/14/2026 00:57:29",
-    "lastUpdate": "07/14/2026 00:57:29",
-    "postalCode": "52382",
-    "city": "Niederzier",
-    "district": "Düren",
-    "street": "Adenauerweg",
-    "radius": null,
-    "coordinates": "6.45623,50.88631",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6371059,
     "operatorId": 3569,
     "type": 10,
@@ -23992,5 +23956,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6508909,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/11/2026 01:23:46",
+    "dateEnd": "09/11/2026 01:23:46",
+    "lastUpdate": "08/11/2026 01:23:51",
+    "postalCode": "76137",
+    "city": "Karlsruhe",
+    "district": "Stadtkreis Karlsruhe",
+    "street": "Ebertstraße",
+    "radius": null,
+    "coordinates": "8.397576,48.994358",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
