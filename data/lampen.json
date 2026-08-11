@@ -1,23 +1,5 @@
 [
   {
-    "id": 6167328,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/19/2026 22:12:56",
-    "dateEnd": "06/19/2026 22:12:56",
-    "lastUpdate": "05/19/2026 22:12:56",
-    "postalCode": "71549",
-    "city": "Auenwald",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.505671;48.953851",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6167583,
     "operatorId": 237,
     "type": 10,
@@ -7810,24 +7792,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
-    "id": 6376163,
-    "operatorId": 354,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/14/2026 22:38:27",
-    "dateEnd": "08/14/2026 22:38:27",
-    "lastUpdate": "07/14/2026 22:38:28",
-    "postalCode": "52525",
-    "city": "Heinsberg",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "6.080851,51.069729",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Alliander Netz Heinsberg GmbH"
   },
   {
     "id": 6376174,
