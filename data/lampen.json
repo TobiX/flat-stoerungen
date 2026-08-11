@@ -24046,5 +24046,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6509845,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/11/2026 07:15:58",
+    "dateEnd": "09/11/2026 07:15:58",
+    "lastUpdate": "08/11/2026 07:16:00",
+    "postalCode": "53567",
+    "city": "Asbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.425923;50.662473",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
