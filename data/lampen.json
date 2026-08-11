@@ -24190,5 +24190,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6512182,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/11/2026 19:10:30",
+    "dateEnd": "09/11/2026 19:10:30",
+    "lastUpdate": "08/11/2026 19:10:25",
+    "postalCode": "69257",
+    "city": "Wiesenbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.807155;49.365264",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
