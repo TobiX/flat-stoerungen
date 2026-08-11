@@ -2592,24 +2592,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6239792,
-    "operatorId": 301,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/16/2026 15:57:38",
-    "dateEnd": "07/16/2026 15:57:38",
-    "lastUpdate": "06/16/2026 15:57:38",
-    "postalCode": "44135",
-    "city": "Dortmund",
-    "district": "Dortmund",
-    "street": "Kaiserstraße",
-    "radius": null,
-    "coordinates": "7.485913,51.513834",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Dortmunder Netz GmbH"
-  },
-  {
     "id": 6240097,
     "operatorId": 237,
     "type": 10,
@@ -24136,5 +24118,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6511517,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/11/2026 15:53:02",
+    "dateEnd": "09/11/2026 15:53:02",
+    "lastUpdate": "08/11/2026 15:53:06",
+    "postalCode": "66871",
+    "city": "Konken",
+    "district": "",
+    "street": "Kirchenstr.",
+    "radius": null,
+    "coordinates": "7.353633,49.509336",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
