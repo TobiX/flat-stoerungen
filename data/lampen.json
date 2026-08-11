@@ -23382,24 +23382,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6507134,
-    "operatorId": 286,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/10/2026 14:55:15",
-    "dateEnd": "09/10/2026 14:55:15",
-    "lastUpdate": "08/10/2026 14:55:20",
-    "postalCode": "40882",
-    "city": "Ratingen",
-    "district": "Ratingen",
-    "street": "Bruchstr.",
-    "radius": null,
-    "coordinates": "6.877113,51.299223",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Ratingen GmbH"
-  },
-  {
     "id": 6507294,
     "operatorId": 237,
     "type": 10,
@@ -24046,5 +24028,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Ibbenbüren"
+  },
+  {
+    "id": 6509681,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/11/2026 06:27:00",
+    "dateEnd": "09/11/2026 06:27:00",
+    "lastUpdate": "08/11/2026 06:27:00",
+    "postalCode": "53567",
+    "city": "Buchholz (Westerwald)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.385332;50.707545",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
