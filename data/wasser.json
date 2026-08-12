@@ -54,24 +54,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6515911,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/12/2026 14:24:06",
-    "dateEnd": null,
-    "lastUpdate": "08/12/2026 14:33:25",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.57997398385528,51.002401",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6516101,
     "operatorId": 3331,
     "type": 1,
@@ -88,5 +70,23 @@
     "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung der Häuser der geraden Nummern 26 -44 ist unterbrochen",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6516751,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/12/2026 19:11:11",
+    "dateEnd": null,
+    "lastUpdate": "08/12/2026 19:13:22",
+    "postalCode": "50181",
+    "city": "Bedburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.5573619836571115,51.0100215",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
