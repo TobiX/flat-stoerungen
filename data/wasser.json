@@ -36,24 +36,6 @@
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
   },
   {
-    "id": 6512196,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/11/2026 19:34:19",
-    "dateEnd": null,
-    "lastUpdate": "08/11/2026 23:03:24",
-    "postalCode": "50170",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.665794736314716,50.915141",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6514211,
     "operatorId": 259,
     "type": 1,
@@ -70,5 +52,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6514655,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/12/2026 09:00:00",
+    "dateEnd": "08/12/2026 10:00:00",
+    "lastUpdate": "08/12/2026 09:01:31",
+    "postalCode": "37441",
+    "city": "Bad Sachsa",
+    "district": null,
+    "street": "Mackenroder Straße ",
+    "radius": 500,
+    "coordinates": "10.550902,51.563774",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6514919,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/12/2026 10:22:49",
+    "dateEnd": null,
+    "lastUpdate": "08/12/2026 10:23:29",
+    "postalCode": "50170",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.681363472722212,50.8992685",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
