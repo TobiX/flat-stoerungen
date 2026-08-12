@@ -24748,5 +24748,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6516424,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/12/2026 17:21:20",
+    "dateEnd": "09/12/2026 17:21:20",
+    "lastUpdate": "08/12/2026 17:21:20",
+    "postalCode": "53578",
+    "city": "Windhagen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.34508;50.630841",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
