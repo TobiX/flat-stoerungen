@@ -23670,24 +23670,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6510314,
-    "operatorId": 286,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/11/2026 09:27:24",
-    "dateEnd": "09/11/2026 09:27:24",
-    "lastUpdate": "08/11/2026 09:27:27",
-    "postalCode": "40885",
-    "city": "Ratingen",
-    "district": "Lintorf",
-    "street": "Speestr.",
-    "radius": null,
-    "coordinates": "6.840348,51.338970",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Ratingen GmbH"
-  },
-  {
     "id": 6510325,
     "operatorId": 237,
     "type": 10,
