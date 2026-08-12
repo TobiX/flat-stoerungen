@@ -8172,24 +8172,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6380858,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/15/2026 20:27:30",
-    "dateEnd": "08/15/2026 20:27:30",
-    "lastUpdate": "07/15/2026 20:27:30",
-    "postalCode": "66917",
-    "city": "Wallhalben",
-    "district": "",
-    "street": "Flurstr.",
-    "radius": null,
-    "coordinates": "7.514586,49.318830",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6381220,
     "operatorId": 237,
     "type": 10,
