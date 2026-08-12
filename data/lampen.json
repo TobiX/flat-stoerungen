@@ -24730,5 +24730,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6516113,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/12/2026 15:42:45",
+    "dateEnd": "09/12/2026 15:42:45",
+    "lastUpdate": "08/12/2026 15:42:45",
+    "postalCode": "65795",
+    "city": "Hattersheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.463278;50.040027",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
