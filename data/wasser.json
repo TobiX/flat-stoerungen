@@ -36,24 +36,6 @@
     "operatorName": "Stadtwerke Witten GmbH"
   },
   {
-    "id": 6519962,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/13/2026 11:58:42",
-    "dateEnd": null,
-    "lastUpdate": "08/13/2026 12:06:13",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.744269973464465,50.973324500000004",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6521050,
     "operatorId": 3331,
     "type": 1,
@@ -142,5 +124,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6522356,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/13/2026 22:10:11",
+    "dateEnd": null,
+    "lastUpdate": "08/13/2026 22:20:56",
+    "postalCode": "50126",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.671966736314715,50.939538999999996",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6522357,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/13/2026 22:10:11",
+    "dateEnd": null,
+    "lastUpdate": "08/13/2026 22:20:56",
+    "postalCode": "50127",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.671966736314715,50.939538999999996",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
