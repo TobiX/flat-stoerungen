@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6520738,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/13/2026 13:57:23",
+    "dateEnd": null,
+    "lastUpdate": "08/13/2026 15:10:47",
+    "postalCode": "48619",
+    "city": "Heek",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.096893477268511,52.112246999999996",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
