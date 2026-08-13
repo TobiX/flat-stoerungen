@@ -25252,5 +25252,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtverwaltung Brand-Erbisdorf"
+  },
+  {
+    "id": 6518264,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 04:52:42",
+    "dateEnd": "09/13/2026 04:52:42",
+    "lastUpdate": "08/13/2026 04:52:48",
+    "postalCode": "76831",
+    "city": "Ilbesheim bei Landau in der Pfalz",
+    "district": "",
+    "street": "Breitenbacher Weg",
+    "radius": null,
+    "coordinates": "8.056631,49.181411",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6518602,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 06:52:52",
+    "dateEnd": "09/13/2026 06:52:52",
+    "lastUpdate": "08/13/2026 06:52:56",
+    "postalCode": "76833",
+    "city": "Böchingen",
+    "district": "",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "8.093186,49.237052",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
