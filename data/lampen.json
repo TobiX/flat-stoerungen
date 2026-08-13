@@ -25684,5 +25684,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6521674,
+    "operatorId": 344,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 18:39:50",
+    "dateEnd": "09/13/2026 18:39:50",
+    "lastUpdate": "08/13/2026 18:39:55",
+    "postalCode": "49406",
+    "city": "Barnstorf",
+    "district": "Diepholz",
+    "street": "Lönsweg",
+    "radius": null,
+    "coordinates": "8.489343,52.719630",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   }
 ]
