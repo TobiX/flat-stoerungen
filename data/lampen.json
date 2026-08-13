@@ -2700,24 +2700,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6245735,
-    "operatorId": 1922,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/18/2026 01:00:45",
-    "dateEnd": "07/18/2026 01:00:45",
-    "lastUpdate": "06/18/2026 01:00:46",
-    "postalCode": "44797",
-    "city": "Bochum",
-    "district": "Bochum",
-    "street": "Flaßkuhlstr.",
-    "radius": null,
-    "coordinates": "7.232797,51.431064",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Bochum"
-  },
-  {
     "id": 6247125,
     "operatorId": 237,
     "type": 10,
@@ -25252,5 +25234,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6518248,
+    "operatorId": 4413,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 04:22:27",
+    "dateEnd": "09/13/2026 04:22:27",
+    "lastUpdate": "08/13/2026 04:22:32",
+    "postalCode": "09618",
+    "city": "Brand-Erbisdorf",
+    "district": "Landkreis Mittelsachsen",
+    "street": "Großhartmannsdorfer Straße",
+    "radius": null,
+    "coordinates": "13.320275,50.861453",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtverwaltung Brand-Erbisdorf"
   }
 ]
