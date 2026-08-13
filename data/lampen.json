@@ -25702,5 +25702,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
+  },
+  {
+    "id": 6521865,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 20:29:09",
+    "dateEnd": "09/13/2026 20:29:09",
+    "lastUpdate": "08/13/2026 20:29:09",
+    "postalCode": "65439",
+    "city": "Flörsheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.432846;50.044691",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6522183,
+    "operatorId": 1782,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 21:02:45",
+    "dateEnd": "09/13/2026 21:02:45",
+    "lastUpdate": "08/13/2026 21:02:46",
+    "postalCode": "95447",
+    "city": "Bayreuth",
+    "district": "Bayreuth",
+    "street": "Sauerbruchstraße",
+    "radius": null,
+    "coordinates": "11.538893;49.933380",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]

@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6516101,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "08/12/2026 15:27:00",
-    "dateEnd": "08/12/2026 18:27:00",
-    "lastUpdate": "08/12/2026 15:29:20",
-    "postalCode": "45966",
-    "city": "Gladbeck",
-    "district": null,
-    "street": "Kirchhellener Straße 34",
-    "radius": 100,
-    "coordinates": "6.963726,51.577908",
-    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung der Häuser der geraden Nummern 26 -44 ist unterbrochen",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
     "id": 6519950,
     "operatorId": 373,
     "type": 1,
