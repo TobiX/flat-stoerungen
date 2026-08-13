@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6510859,
-    "operatorId": 3311,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/12/2026 13:00:00",
-    "dateEnd": "08/12/2026 15:00:00",
-    "lastUpdate": "08/11/2026 12:11:31",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": "Barnbruchsweg 4",
-    "radius": 300,
-    "coordinates": "10.60375,52.46625",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
     "id": 6516101,
     "operatorId": 3331,
     "type": 1,
