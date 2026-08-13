@@ -25648,5 +25648,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
+  },
+  {
+    "id": 6521494,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 17:16:54",
+    "dateEnd": "09/13/2026 17:16:54",
+    "lastUpdate": "08/13/2026 17:16:54",
+    "postalCode": "56370",
+    "city": "Schönborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.997636;50.301903",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6521513,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/13/2026 17:46:35",
+    "dateEnd": "09/13/2026 17:46:35",
+    "lastUpdate": "08/13/2026 17:46:43",
+    "postalCode": "65606",
+    "city": "Villmar",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.225263;50.366141",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
