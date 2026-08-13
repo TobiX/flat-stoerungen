@@ -2610,42 +2610,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6249860,
-    "operatorId": 152,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/19/2026 00:23:44",
-    "dateEnd": "07/19/2026 00:23:44",
-    "lastUpdate": "06/19/2026 00:23:45",
-    "postalCode": "24941",
-    "city": "Flensburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.450852,54.758471",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Flensburg GmbH"
-  },
-  {
-    "id": 6250002,
-    "operatorId": 1795,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/19/2026 01:00:24",
-    "dateEnd": "07/19/2026 01:00:24",
-    "lastUpdate": "06/19/2026 01:00:25",
-    "postalCode": "97078",
-    "city": "Würzburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.963793,49.818013",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Mainfranken Netze GmbH"
-  },
-  {
     "id": 6250840,
     "operatorId": 2093,
     "type": 10,
@@ -25954,5 +25918,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Hildesheim"
+  },
+  {
+    "id": 6522954,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/14/2026 01:47:14",
+    "dateEnd": "09/14/2026 01:47:14",
+    "lastUpdate": "08/14/2026 01:47:14",
+    "postalCode": "59889",
+    "city": "Eslohe (Sauerland)",
+    "district": "Bremke",
+    "street": "Landstraße",
+    "radius": null,
+    "coordinates": "8.211745619907;51.253743330741",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
