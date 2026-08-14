@@ -26314,5 +26314,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6526426,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/14/2026 21:24:59",
+    "dateEnd": "09/14/2026 21:24:59",
+    "lastUpdate": "08/14/2026 21:24:59",
+    "postalCode": "54456",
+    "city": "Tawern",
+    "district": "Tawern",
+    "street": "Mannebacher Str.",
+    "radius": null,
+    "coordinates": "6.51973723;49.66970239",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6526429,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/14/2026 21:25:33",
+    "dateEnd": "09/14/2026 21:25:33",
+    "lastUpdate": "08/14/2026 21:25:38",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Adolf-Kolping-Straße",
+    "radius": null,
+    "coordinates": "8.413092,48.945676",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
