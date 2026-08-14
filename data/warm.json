@@ -142,5 +142,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6524405,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/20/2026 08:00:00",
+    "dateEnd": "08/14/2026 13:30:00",
+    "lastUpdate": "08/14/2026 09:15:18",
+    "postalCode": "38444",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Karl-Arnold-Ring 5",
+    "radius": 200,
+    "coordinates": "10.761213,52.394997",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
