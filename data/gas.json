@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": 6524021,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/14/2026 07:56:32",
+    "dateEnd": null,
+    "lastUpdate": "08/14/2026 08:20:48",
+    "postalCode": "59846",
+    "city": "Sundern (Sauerland)",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.956480982152172,51.354496",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6524022,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/14/2026 07:58:57",
+    "dateEnd": null,
+    "lastUpdate": "08/14/2026 08:20:48",
+    "postalCode": "55444",
+    "city": "Schweppenhausen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.799808492179745,49.912813",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6524023,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/14/2026 07:58:57",
+    "dateEnd": null,
+    "lastUpdate": "08/14/2026 08:20:48",
+    "postalCode": "55452",
+    "city": "Windesheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.799808492179745,49.912813",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
