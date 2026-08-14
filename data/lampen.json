@@ -25936,5 +25936,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6523778,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/14/2026 06:23:11",
+    "dateEnd": "09/14/2026 06:23:11",
+    "lastUpdate": "08/14/2026 06:23:11",
+    "postalCode": "65307",
+    "city": "Bad Schwalbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.090074;50.133395",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
