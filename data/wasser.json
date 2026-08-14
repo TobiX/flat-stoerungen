@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6519950,
-    "operatorId": 373,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "08/13/2026 11:52:00",
-    "dateEnd": "08/13/2026 16:00:00",
-    "lastUpdate": "08/13/2026 11:53:16",
-    "postalCode": "58454",
-    "city": "Witten",
-    "district": null,
-    "street": "Dorneystraße ",
-    "radius": 500,
-    "coordinates": "7.3708615,51.477898",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Witten GmbH"
-  },
-  {
     "id": 6521050,
     "operatorId": 3331,
     "type": 1,

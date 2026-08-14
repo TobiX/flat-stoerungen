@@ -8514,24 +8514,6 @@
     "operatorName": "AggerEnergie GmbH"
   },
   {
-    "id": 6390380,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/17/2026 17:51:55",
-    "dateEnd": "08/17/2026 17:51:55",
-    "lastUpdate": "07/17/2026 17:51:56",
-    "postalCode": "54497",
-    "city": "Morbach",
-    "district": "Hundheim",
-    "street": "Auf der Insel",
-    "radius": null,
-    "coordinates": "7.15041561;49.83270298",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6390779,
     "operatorId": null,
     "type": 10,
