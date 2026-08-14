@@ -26314,5 +26314,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6525377,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/14/2026 14:59:18",
+    "dateEnd": "09/14/2026 14:59:18",
+    "lastUpdate": "08/14/2026 14:59:18",
+    "postalCode": "61350",
+    "city": "Bad Homburg v.d. Höhe",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.582203;50.236604",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
