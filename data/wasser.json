@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6521050,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "08/13/2026 15:03:00",
-    "dateEnd": "08/13/2026 18:03:00",
-    "lastUpdate": "08/13/2026 15:05:07",
-    "postalCode": "45964",
-    "city": "Gladbeck",
-    "district": null,
-    "street": "Riesenerstraße 3",
-    "radius": 150,
-    "coordinates": "6.995158,51.57749",
-    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nDie Wasserversorgung ist auf der Riesenerstraße komplett eingestellt.",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
     "id": 6521687,
     "operatorId": 350,
     "type": 1,

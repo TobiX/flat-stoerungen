@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6526284,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/14/2026 20:32:52",
+    "dateEnd": null,
+    "lastUpdate": "08/14/2026 21:03:22",
+    "postalCode": "46284",
+    "city": "Dorsten",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.995123486718298,51.6736995",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
