@@ -18,24 +18,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6473240,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/13/2026 09:45:00",
-    "dateEnd": "08/13/2026 14:00:00",
-    "lastUpdate": "08/03/2026 10:38:23",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Saarstraße 23",
-    "radius": 500,
-    "coordinates": "10.772368,52.424095",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6521322,
     "operatorId": 186,
     "type": 2,
