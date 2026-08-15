@@ -26188,5 +26188,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6528830,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 12:17:11",
+    "dateEnd": "09/15/2026 12:17:11",
+    "lastUpdate": "08/15/2026 12:16:44",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.369157;50.061566",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6528833,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 12:21:07",
+    "dateEnd": "09/15/2026 12:21:07",
+    "lastUpdate": "08/15/2026 12:21:07",
+    "postalCode": "61389",
+    "city": "Schmitten",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.437181;50.296347",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
