@@ -1,23 +1,5 @@
 [
   {
-    "id": 6169822,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/23/2026 13:59:29",
-    "dateEnd": "06/23/2026 13:59:29",
-    "lastUpdate": "05/23/2026 14:00:19",
-    "postalCode": "71522",
-    "city": "Backnang",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.420424;48.927513",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6170442,
     "operatorId": 237,
     "type": 10,
@@ -26239,6 +26221,24 @@
     "street": "",
     "radius": null,
     "coordinates": "8.245018;50.322826",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6529336,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 15:24:26",
+    "dateEnd": "09/15/2026 15:24:26",
+    "lastUpdate": "08/15/2026 15:24:25",
+    "postalCode": "53545",
+    "city": "Linz am Rhein",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.28197;50.567226",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
