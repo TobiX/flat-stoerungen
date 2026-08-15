@@ -8532,24 +8532,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6395642,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/18/2026 20:59:58",
-    "dateEnd": "08/18/2026 20:59:58",
-    "lastUpdate": "07/18/2026 20:59:59",
-    "postalCode": "67746",
-    "city": "Langweiler",
-    "district": "Langweiler",
-    "street": "Im Teich",
-    "radius": null,
-    "coordinates": "7.52465312;49.66361374",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6396010,
     "operatorId": 132,
     "type": 10,
