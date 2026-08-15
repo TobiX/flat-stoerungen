@@ -26224,5 +26224,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6528988,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 13:22:19",
+    "dateEnd": "09/15/2026 13:22:19",
+    "lastUpdate": "08/15/2026 13:22:18",
+    "postalCode": "65520",
+    "city": "Bad Camberg",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.245018;50.322826",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
