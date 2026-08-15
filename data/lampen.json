@@ -26152,5 +26152,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6528005,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 07:44:05",
+    "dateEnd": "09/15/2026 07:44:05",
+    "lastUpdate": "08/15/2026 07:44:05",
+    "postalCode": "53547",
+    "city": "Breitscheid",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.470226;50.570436",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6528147,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 08:29:09",
+    "dateEnd": "09/15/2026 08:29:09",
+    "lastUpdate": "08/15/2026 08:29:09",
+    "postalCode": "54597",
+    "city": "Rommersheim",
+    "district": "Rommersheim",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "6.44624449;50.19420063",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
