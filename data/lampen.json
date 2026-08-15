@@ -26314,5 +26314,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6529504,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 16:40:59",
+    "dateEnd": "09/15/2026 16:40:59",
+    "lastUpdate": "08/15/2026 16:40:59",
+    "postalCode": "65558",
+    "city": "Burgschwalbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.084423;50.280851",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
