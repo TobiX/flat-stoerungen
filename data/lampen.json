@@ -26440,5 +26440,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6530777,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 23:31:53",
+    "dateEnd": "09/15/2026 23:31:53",
+    "lastUpdate": "08/15/2026 23:31:55",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.571699;50.146527",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6530780,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/15/2026 23:39:39",
+    "dateEnd": "09/15/2026 23:39:39",
+    "lastUpdate": "08/15/2026 23:39:39",
+    "postalCode": "65830",
+    "city": "Kriftel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.471509;50.084111",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
