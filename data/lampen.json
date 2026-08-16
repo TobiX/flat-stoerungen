@@ -2736,24 +2736,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6263070,
-    "operatorId": 3659,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/21/2026 19:53:04",
-    "dateEnd": "07/21/2026 19:53:04",
-    "lastUpdate": "06/21/2026 19:53:05",
-    "postalCode": "37671",
-    "city": "Höxter",
-    "district": "Höxter",
-    "street": "Marbeke",
-    "radius": null,
-    "coordinates": "9.356802,51.730143",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Höxter"
-  },
-  {
     "id": 6263484,
     "operatorId": 237,
     "type": 10,
