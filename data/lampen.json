@@ -8550,24 +8550,6 @@
     "operatorName": "Bayernwerk Netz GmbH"
   },
   {
-    "id": 6398459,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/19/2026 10:37:40",
-    "dateEnd": "08/19/2026 10:37:40",
-    "lastUpdate": "07/19/2026 10:37:40",
-    "postalCode": "56291",
-    "city": "Kisselbach",
-    "district": "Kisselbach",
-    "street": "Gartenstraße",
-    "radius": null,
-    "coordinates": "7.610530502653;50.052956080272",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6398675,
     "operatorId": 1969,
     "type": 10,
