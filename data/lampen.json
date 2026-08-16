@@ -2790,24 +2790,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6263926,
-    "operatorId": 2274,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/21/2026 23:36:12",
-    "dateEnd": "07/21/2026 23:36:12",
-    "lastUpdate": "06/21/2026 23:36:13",
-    "postalCode": "67063",
-    "city": "Ludwigshafen am Rhein",
-    "district": "Kreisfreie Stadt Ludwigshafen am Rhein",
-    "street": "Taubenstraße",
-    "radius": null,
-    "coordinates": "8.418199,49.496187",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Ludwigshafen am Rhein"
-  },
-  {
     "id": 6265621,
     "operatorId": 237,
     "type": 10,
@@ -8548,24 +8530,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Hansestadt Lübeck"
-  },
-  {
-    "id": 6401125,
-    "operatorId": 354,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/19/2026 23:48:00",
-    "dateEnd": "08/19/2026 23:48:00",
-    "lastUpdate": "07/19/2026 23:48:01",
-    "postalCode": "52525",
-    "city": "Heinsberg",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "6.080557,51.070830",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Alliander Netz Heinsberg GmbH"
   },
   {
     "id": 6401311,
@@ -26908,5 +26872,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6535147,
+    "operatorId": 75,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 00:01:21",
+    "dateEnd": "09/17/2026 00:01:21",
+    "lastUpdate": "08/17/2026 00:01:21",
+    "postalCode": "13465",
+    "city": "Berlin",
+    "district": null,
+    "street": "Zeltinger Platz",
+    "radius": null,
+    "coordinates": "13.289672,52.633926",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stromnetz Berlin GmbH"
+  },
+  {
+    "id": 6535148,
+    "operatorId": 5049,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 00:02:52",
+    "dateEnd": "09/17/2026 00:02:52",
+    "lastUpdate": "08/17/2026 00:02:52",
+    "postalCode": "06526",
+    "city": "Sangerhausen",
+    "district": "Mansfeld-Südharz",
+    "street": "Harzstraße",
+    "radius": null,
+    "coordinates": "11.310829,51.532223",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Sangerhausen"
   }
 ]
