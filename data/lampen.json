@@ -8550,24 +8550,6 @@
     "operatorName": "AggerEnergie GmbH"
   },
   {
-    "id": 6399081,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/19/2026 13:19:18",
-    "dateEnd": "08/19/2026 13:19:18",
-    "lastUpdate": "07/19/2026 13:19:19",
-    "postalCode": "48366",
-    "city": "Laer",
-    "district": "Laer",
-    "street": "Franz-Rieping-Str.",
-    "radius": null,
-    "coordinates": "7.3583399;52.0506838",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6399288,
     "operatorId": 132,
     "type": 10,
@@ -26764,5 +26746,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6533200,
+    "operatorId": 1782,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/16/2026 13:56:32",
+    "dateEnd": "09/16/2026 13:56:32",
+    "lastUpdate": "08/16/2026 13:56:32",
+    "postalCode": "95444",
+    "city": "Bayreuth",
+    "district": "Bayreuth",
+    "street": "Feustelstraße",
+    "radius": null,
+    "coordinates": "11.575623;49.953211",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
