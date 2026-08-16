@@ -26746,5 +26746,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6533531,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/16/2026 15:49:26",
+    "dateEnd": "09/16/2026 15:49:26",
+    "lastUpdate": "08/16/2026 15:49:26",
+    "postalCode": "54518",
+    "city": "Esch",
+    "district": "Esch",
+    "street": "In Altesch",
+    "radius": null,
+    "coordinates": "6.85162512;49.89867015",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
