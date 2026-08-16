@@ -26602,5 +26602,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6531129,
+    "operatorId": 4937,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/16/2026 01:44:03",
+    "dateEnd": "09/16/2026 01:44:03",
+    "lastUpdate": "08/16/2026 01:44:07",
+    "postalCode": "38154",
+    "city": "Königslutter am Elm",
+    "district": "Helmstedt",
+    "street": "Gommernstraße",
+    "radius": null,
+    "coordinates": "10.824716,52.260477",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Königslutter am Elm"
   }
 ]
