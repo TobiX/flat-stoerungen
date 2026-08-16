@@ -8550,24 +8550,6 @@
     "operatorName": "AggerEnergie GmbH"
   },
   {
-    "id": 6399880,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/19/2026 17:27:52",
-    "dateEnd": "08/19/2026 17:27:52",
-    "lastUpdate": "07/19/2026 17:27:53",
-    "postalCode": "66503",
-    "city": "Dellfeld",
-    "district": "",
-    "street": "Jakob-Stock-Str.",
-    "radius": null,
-    "coordinates": "7.472867,49.226576",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6401117,
     "operatorId": 2257,
     "type": 10,
