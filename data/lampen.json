@@ -8550,24 +8550,6 @@
     "operatorName": "AggerEnergie GmbH"
   },
   {
-    "id": 6399288,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/19/2026 14:42:17",
-    "dateEnd": "08/19/2026 14:42:17",
-    "lastUpdate": "07/19/2026 14:41:54",
-    "postalCode": "49143",
-    "city": "Bissendorf",
-    "district": "Schledehausen",
-    "street": "Wulftener Straße / Bushaltestelle",
-    "radius": null,
-    "coordinates": "8.2386855;52.2852887",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6399880,
     "operatorId": 368,
     "type": 10,
