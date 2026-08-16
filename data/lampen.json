@@ -26674,5 +26674,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Königslutter am Elm"
+  },
+  {
+    "id": 6531856,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/16/2026 05:55:41",
+    "dateEnd": "09/16/2026 05:55:41",
+    "lastUpdate": "08/16/2026 05:55:41",
+    "postalCode": "54455",
+    "city": "Serrig",
+    "district": "Serrig",
+    "street": "Martinusstr.",
+    "radius": null,
+    "coordinates": "6.573925242868;49.572948306144",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
