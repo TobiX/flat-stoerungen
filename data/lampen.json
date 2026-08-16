@@ -2736,24 +2736,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6261545,
-    "operatorId": 1928,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/21/2026 12:36:54",
-    "dateEnd": "07/21/2026 12:36:54",
-    "lastUpdate": "06/21/2026 12:36:54",
-    "postalCode": "45663",
-    "city": "Recklinghausen",
-    "district": null,
-    "street": "Kirchhofstraße",
-    "radius": null,
-    "coordinates": "7.218661,51.567268",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Recklinghausen Holding GmbH"
-  },
-  {
     "id": 6263070,
     "operatorId": 3659,
     "type": 10,
@@ -26746,5 +26728,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6533184,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/16/2026 13:26:49",
+    "dateEnd": "09/16/2026 13:26:49",
+    "lastUpdate": "08/16/2026 13:26:46",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.547925;50.156998",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6533185,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/16/2026 13:27:17",
+    "dateEnd": "09/16/2026 13:27:17",
+    "lastUpdate": "08/16/2026 13:27:14",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.547386;50.157692",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
