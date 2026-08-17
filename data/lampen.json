@@ -27214,5 +27214,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6538883,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 18:51:45",
+    "dateEnd": "09/17/2026 18:51:45",
+    "lastUpdate": "08/17/2026 18:51:46",
+    "postalCode": "61449",
+    "city": "Steinbach (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.57229;50.171754",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
