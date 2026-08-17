@@ -27232,5 +27232,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6539046,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 19:55:19",
+    "dateEnd": "09/17/2026 19:55:19",
+    "lastUpdate": "08/17/2026 19:55:20",
+    "postalCode": "53819",
+    "city": "Neunkirchen-Seelscheid",
+    "district": "Neunkirchen-Seelscheid",
+    "street": "Köbacher Str",
+    "radius": null,
+    "coordinates": "7.38834548;50.85721973",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6539194,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 20:21:14",
+    "dateEnd": "09/17/2026 20:21:14",
+    "lastUpdate": "08/17/2026 20:21:18",
+    "postalCode": "76889",
+    "city": "Dörrenbach",
+    "district": "",
+    "street": "Heideweg",
+    "radius": null,
+    "coordinates": "7.959090,49.088520",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
