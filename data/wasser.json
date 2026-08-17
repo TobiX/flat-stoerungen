@@ -88,5 +88,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Nortorf AöR"
+  },
+  {
+    "id": 6539898,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/18/2026 00:11:00",
+    "dateEnd": "08/18/2026 15:00:00",
+    "lastUpdate": "08/18/2026 00:18:15",
+    "postalCode": "45472",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": "Folkenbornstraße ",
+    "radius": 250,
+    "coordinates": "6.913102,51.43864",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
