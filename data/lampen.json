@@ -27268,5 +27268,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6539394,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 21:15:29",
+    "dateEnd": "09/17/2026 21:15:29",
+    "lastUpdate": "08/17/2026 21:15:29",
+    "postalCode": "53567",
+    "city": "Asbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.408232;50.647662",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
