@@ -27196,5 +27196,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6538692,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 17:10:32",
+    "dateEnd": "09/17/2026 17:10:32",
+    "lastUpdate": "08/17/2026 17:10:32",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Saarn/Mintard",
+    "street": "Bauordenweg",
+    "radius": null,
+    "coordinates": "6.90083138;51.37299809",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
