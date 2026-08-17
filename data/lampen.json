@@ -1,23 +1,5 @@
 [
   {
-    "id": 6170442,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/25/2026 10:39:13",
-    "dateEnd": "06/25/2026 10:39:13",
-    "lastUpdate": "05/25/2026 10:39:14",
-    "postalCode": "61279",
-    "city": "Grävenwiesbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.427358;50.389448",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6170581,
     "operatorId": 237,
     "type": 10,
@@ -8656,24 +8638,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6403643,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/20/2026 10:40:24",
-    "dateEnd": "08/20/2026 10:40:24",
-    "lastUpdate": "07/20/2026 10:40:24",
-    "postalCode": "54317",
-    "city": "Gusterath",
-    "district": "Gusterath",
-    "street": "Auf der Lai",
-    "radius": null,
-    "coordinates": "6.71666622;49.70008333",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6403700,
@@ -27067,6 +27031,24 @@
     "street": "",
     "radius": null,
     "coordinates": "8.030633;50.028293",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6537431,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 11:05:05",
+    "dateEnd": "09/17/2026 11:05:05",
+    "lastUpdate": "08/17/2026 11:05:05",
+    "postalCode": "56368",
+    "city": "Katzenelnbogen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.982821;50.264803",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
