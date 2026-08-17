@@ -8694,24 +8694,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6404163,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/20/2026 12:28:35",
-    "dateEnd": "08/20/2026 12:28:35",
-    "lastUpdate": "07/20/2026 12:28:28",
-    "postalCode": "54673",
-    "city": "Neuerburg",
-    "district": "Neuerburg",
-    "street": "Poststr.",
-    "radius": null,
-    "coordinates": "6.2907353;50.0130375",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6404379,
     "operatorId": 237,
     "type": 10,
@@ -27034,5 +27016,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6537866,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 13:25:52",
+    "dateEnd": "09/17/2026 13:25:52",
+    "lastUpdate": "08/17/2026 13:25:56",
+    "postalCode": "76831",
+    "city": "Eschbach",
+    "district": "",
+    "street": "Löwenthal",
+    "radius": null,
+    "coordinates": "8.017572,49.174818",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6537867,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 13:26:47",
+    "dateEnd": "09/17/2026 13:26:47",
+    "lastUpdate": "08/17/2026 13:26:51",
+    "postalCode": "76889",
+    "city": "Schweighofen",
+    "district": "",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "7.996921,49.039853",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
