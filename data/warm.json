@@ -232,5 +232,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6538513,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/25/2026 08:00:00",
+    "dateEnd": "08/25/2026 12:00:00",
+    "lastUpdate": "08/17/2026 16:25:03",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Stemmloh 10",
+    "radius": 50,
+    "coordinates": "10.724217,52.397316",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
