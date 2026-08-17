@@ -26746,5 +26746,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Sangerhausen"
+  },
+  {
+    "id": 6535917,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 04:31:30",
+    "dateEnd": "09/17/2026 04:31:30",
+    "lastUpdate": "08/17/2026 04:31:30",
+    "postalCode": "65589",
+    "city": "Hadamar",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.038877;50.442306",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6535918,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/17/2026 04:32:10",
+    "dateEnd": "09/17/2026 04:32:10",
+    "lastUpdate": "08/17/2026 04:32:10",
+    "postalCode": "65589",
+    "city": "Hadamar",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.039364;50.442656",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
