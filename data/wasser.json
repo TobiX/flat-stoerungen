@@ -106,5 +106,23 @@
     "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6539917,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/18/2026 00:45:11",
+    "dateEnd": "08/18/2026 03:50:00",
+    "lastUpdate": "08/18/2026 00:51:12",
+    "postalCode": "45472",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.914041726370476,51.4397772101995",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
