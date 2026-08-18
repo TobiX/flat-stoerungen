@@ -1,23 +1,5 @@
 [
   {
-    "id": 6171350,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/26/2026 11:26:53",
-    "dateEnd": "06/26/2026 11:26:53",
-    "lastUpdate": "05/26/2026 11:26:51",
-    "postalCode": "61389",
-    "city": "Schmitten",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.411618;50.263482",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6171390,
     "operatorId": 237,
     "type": 10,
@@ -26836,5 +26818,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6542268,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 12:12:19",
+    "dateEnd": "09/18/2026 12:12:19",
+    "lastUpdate": "08/18/2026 12:12:19",
+    "postalCode": "61352",
+    "city": "Bad Homburg v.d. Höhe",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.640955;50.217768",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6542300,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 12:26:22",
+    "dateEnd": "09/18/2026 12:26:22",
+    "lastUpdate": "08/18/2026 12:26:22",
+    "postalCode": "54487",
+    "city": "Wintrich",
+    "district": "Wintrich",
+    "street": "Am Stauwehr",
+    "radius": null,
+    "coordinates": "6.95024157;49.87886078",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
