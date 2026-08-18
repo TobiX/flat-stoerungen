@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6538345,
-    "operatorId": 149,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "08/17/2026 15:24:17",
-    "dateEnd": "08/17/2026 16:55:00",
-    "lastUpdate": "08/17/2026 16:33:16",
-    "postalCode": "24589",
-    "city": "Nortorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.854706669660175,54.17037961958425",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Stadtwerke Nortorf AöR"
-  },
-  {
     "id": 6538536,
     "operatorId": 149,
     "type": 1,
@@ -222,7 +204,7 @@
     "origin": 5,
     "dateStart": "08/18/2026 16:33:18",
     "dateEnd": null,
-    "lastUpdate": "08/18/2026 18:39:02",
+    "lastUpdate": "08/18/2026 19:33:23",
     "postalCode": "50170",
     "city": "Kerpen",
     "district": null,
