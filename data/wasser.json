@@ -142,5 +142,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6540985,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/18/2026 07:00:12",
+    "dateEnd": "08/18/2026 10:05:00",
+    "lastUpdate": "08/18/2026 07:12:11",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.912222568568979,51.4375937562845",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6540987,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/18/2026 07:00:12",
+    "dateEnd": "08/18/2026 10:05:00",
+    "lastUpdate": "08/18/2026 07:12:11",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.912222568568979,51.4375937562845",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
