@@ -1,23 +1,5 @@
 [
   {
-    "id": 6171390,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/26/2026 12:20:05",
-    "dateEnd": "06/26/2026 12:20:05",
-    "lastUpdate": "05/26/2026 12:20:06",
-    "postalCode": "65366",
-    "city": "Geisenheim",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.964951;49.98269",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6171603,
     "operatorId": 237,
     "type": 10,
@@ -9484,24 +9466,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6416307,
-    "operatorId": 337,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/22/2026 22:16:00",
-    "dateEnd": "08/22/2026 22:16:00",
-    "lastUpdate": "07/22/2026 22:16:00",
-    "postalCode": "48703",
-    "city": "Stadtlohn",
-    "district": "Borken",
-    "street": "Konerts Winkel",
-    "radius": null,
-    "coordinates": "6.914954,51.98473",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LokalWerke GmbH"
   },
   {
     "id": 6416308,
@@ -26854,5 +26818,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6542326,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 5,
+    "dateStart": "08/18/2026 12:54:13",
+    "dateEnd": null,
+    "lastUpdate": "08/18/2026 12:54:44",
+    "postalCode": "65817",
+    "city": "Eppstein",
+    "district": "",
+    "street": "Nauroder Str.",
+    "radius": null,
+    "coordinates": "8.338791;50.139643",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6542327,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 5,
+    "dateStart": "08/18/2026 12:54:32",
+    "dateEnd": null,
+    "lastUpdate": "08/18/2026 12:54:44",
+    "postalCode": "65817",
+    "city": "Eppstein",
+    "district": "",
+    "street": "Nauroder Str.",
+    "radius": null,
+    "coordinates": "8.338769;50.139966",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
