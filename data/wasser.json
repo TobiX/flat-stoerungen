@@ -214,5 +214,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
+  },
+  {
+    "id": 6543192,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/18/2026 16:33:18",
+    "dateEnd": null,
+    "lastUpdate": "08/18/2026 16:40:45",
+    "postalCode": "50170",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.587514471701614,50.856908000000004",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
