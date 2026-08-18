@@ -27412,5 +27412,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6540910,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 06:09:33",
+    "dateEnd": "09/18/2026 06:09:33",
+    "lastUpdate": "08/18/2026 06:09:32",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Altstadt I",
+    "street": "Am Hauptbahnhof",
+    "radius": null,
+    "coordinates": "6.8872095;51.429985",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
