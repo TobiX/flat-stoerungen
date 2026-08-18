@@ -2862,24 +2862,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6270266,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/23/2026 04:47:31",
-    "dateEnd": "07/23/2026 04:47:31",
-    "lastUpdate": "06/23/2026 04:47:33",
-    "postalCode": "67454",
-    "city": "Haßloch",
-    "district": "Bad Dürkheim",
-    "street": "Füllergasse",
-    "radius": null,
-    "coordinates": "8.247719,49.36123",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6270566,
     "operatorId": 4577,
     "type": 10,
@@ -27358,5 +27340,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6540576,
+    "operatorId": 4913,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 04:25:17",
+    "dateEnd": "09/18/2026 04:25:17",
+    "lastUpdate": "08/18/2026 04:25:22",
+    "postalCode": "66265",
+    "city": "Heusweiler",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.925922,49.338273",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Heusweiler"
   }
 ]
