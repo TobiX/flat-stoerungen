@@ -126,24 +126,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6536472,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/17/2026 08:00:00",
-    "dateEnd": "08/17/2026 15:30:00",
-    "lastUpdate": "08/17/2026 07:37:06",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Schlesierweg 30",
-    "radius": 250,
-    "coordinates": "10.749175,52.41351",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6536768,
     "operatorId": 186,
     "type": 2,
