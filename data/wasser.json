@@ -114,7 +114,7 @@
     "origin": 3,
     "dateStart": "08/18/2026 00:45:11",
     "dateEnd": "08/18/2026 03:50:00",
-    "lastUpdate": "08/18/2026 00:51:12",
+    "lastUpdate": "08/18/2026 02:57:13",
     "postalCode": "45472",
     "city": "Mülheim an der Ruhr",
     "district": null,
@@ -124,5 +124,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6540395,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/18/2026 03:28:00",
+    "dateEnd": "08/18/2026 11:28:00",
+    "lastUpdate": "08/18/2026 03:29:46",
+    "postalCode": "38667",
+    "city": "Bad Harzburg",
+    "district": null,
+    "street": "Amtswiese ",
+    "radius": 500,
+    "coordinates": "10.562251,51.883755",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]

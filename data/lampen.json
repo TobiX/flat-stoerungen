@@ -2862,24 +2862,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6269725,
-    "operatorId": 298,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/23/2026 01:01:42",
-    "dateEnd": "07/23/2026 01:01:42",
-    "lastUpdate": "06/23/2026 01:01:43",
-    "postalCode": "42553",
-    "city": "Velbert",
-    "district": "Mettmann",
-    "street": "Am Feldgen",
-    "radius": null,
-    "coordinates": "7.089872;51.2964224",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Velbert GmbH"
-  },
-  {
     "id": 6270266,
     "operatorId": null,
     "type": 10,
@@ -27340,5 +27322,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6540235,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 02:35:21",
+    "dateEnd": "09/18/2026 02:35:21",
+    "lastUpdate": "08/18/2026 02:35:26",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Einsteinstraße",
+    "radius": null,
+    "coordinates": "8.379513,48.941252",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6540238,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 02:40:20",
+    "dateEnd": "09/18/2026 02:40:20",
+    "lastUpdate": "08/18/2026 02:40:25",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Mörscher Straße",
+    "radius": null,
+    "coordinates": "8.374935,48.948845",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
