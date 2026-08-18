@@ -26836,5 +26836,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6544054,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 20:41:37",
+    "dateEnd": "09/18/2026 20:41:37",
+    "lastUpdate": "08/18/2026 20:41:42",
+    "postalCode": "76857",
+    "city": "Silz",
+    "district": "",
+    "street": "Am Sonnenberg",
+    "radius": null,
+    "coordinates": "7.952310,49.149083",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
