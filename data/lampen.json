@@ -27538,5 +27538,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6541143,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 07:42:02",
+    "dateEnd": "09/18/2026 07:42:02",
+    "lastUpdate": "08/18/2026 07:42:03",
+    "postalCode": "53567",
+    "city": "Buchholz (Westerwald)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.38623431896359;50.7096058027856",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
