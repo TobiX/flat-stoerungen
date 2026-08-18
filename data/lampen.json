@@ -26800,5 +26800,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6542034,
+    "operatorId": 3459,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 11:18:11",
+    "dateEnd": "09/18/2026 11:18:11",
+    "lastUpdate": "08/18/2026 11:18:16",
+    "postalCode": "03048",
+    "city": "Cottbus",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "14.322758,51.747874",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Alliander Stadtlicht GmbH"
+  },
+  {
+    "id": 6542081,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/18/2026 11:35:09",
+    "dateEnd": "09/18/2026 11:35:09",
+    "lastUpdate": "08/18/2026 11:35:13",
+    "postalCode": "67806",
+    "city": "Rockenhausen",
+    "district": "",
+    "street": "Bezirksamtsstr.",
+    "radius": null,
+    "coordinates": "7.818349,49.629937",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
