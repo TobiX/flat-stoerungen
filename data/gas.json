@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6546807,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/19/2026 11:32:06",
+    "dateEnd": null,
+    "lastUpdate": "08/19/2026 11:40:51",
+    "postalCode": "58553",
+    "city": "Halver",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.49226098228529,51.179546",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]

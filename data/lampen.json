@@ -8766,24 +8766,6 @@
     "operatorName": "Stadtwerke Velbert GmbH"
   },
   {
-    "id": 6413839,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/22/2026 10:23:47",
-    "dateEnd": "08/22/2026 10:23:47",
-    "lastUpdate": "07/22/2026 10:23:47",
-    "postalCode": "48480",
-    "city": "Lünne",
-    "district": "Lünne",
-    "street": "Waldstr.",
-    "radius": null,
-    "coordinates": "7.4148115;52.4290751",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6413847,
     "operatorId": 237,
     "type": 10,
@@ -21150,24 +21132,6 @@
     "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
   },
   {
-    "id": 6515032,
-    "operatorId": 302,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/12/2026 10:43:15",
-    "dateEnd": "09/12/2026 10:43:15",
-    "lastUpdate": "08/12/2026 10:43:19",
-    "postalCode": "58515",
-    "city": "Lüdenscheid",
-    "district": "",
-    "street": "Am Nattenberg",
-    "radius": null,
-    "coordinates": "7.621943,51.207600",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "ENERVIE Vernetzt GmbH"
-  },
-  {
     "id": 6515199,
     "operatorId": 237,
     "type": 10,
@@ -26872,5 +26836,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6546641,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 10:53:23",
+    "dateEnd": "09/19/2026 10:53:23",
+    "lastUpdate": "08/19/2026 10:53:23",
+    "postalCode": "46499",
+    "city": "Hamminkeln",
+    "district": "Brünen",
+    "street": "Auf dem Beiler",
+    "radius": null,
+    "coordinates": "6.730871758436;51.731598037542",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
