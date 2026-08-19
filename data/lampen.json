@@ -26818,5 +26818,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6547716,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 16:30:34",
+    "dateEnd": "09/19/2026 16:30:34",
+    "lastUpdate": "08/19/2026 16:30:34",
+    "postalCode": "54426",
+    "city": "Heidenburg",
+    "district": "Heidenburg",
+    "street": "Gräfinstr.",
+    "radius": null,
+    "coordinates": "6.915882004827;49.795304137363",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
