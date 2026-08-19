@@ -294,7 +294,7 @@
     "origin": 5,
     "dateStart": "08/19/2026 20:42:12",
     "dateEnd": null,
-    "lastUpdate": "08/19/2026 23:30:30",
+    "lastUpdate": "08/20/2026 00:30:30",
     "postalCode": "50169",
     "city": "Kerpen",
     "district": null,
@@ -304,5 +304,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6549383,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/19/2026 23:39:00",
+    "dateEnd": "08/20/2026 12:00:00",
+    "lastUpdate": "08/19/2026 23:40:54",
+    "postalCode": "46325",
+    "city": "Borken",
+    "district": null,
+    "street": "Oyenstraße ",
+    "radius": 200,
+    "coordinates": "6.848472,51.90983",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
