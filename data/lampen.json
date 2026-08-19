@@ -26692,5 +26692,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6545565,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 05:41:46",
+    "dateEnd": "09/19/2026 05:41:46",
+    "lastUpdate": "08/19/2026 05:41:51",
+    "postalCode": "66879",
+    "city": "Kottweiler-Schwanden",
+    "district": "",
+    "street": "Auf der Steig",
+    "radius": null,
+    "coordinates": "7.543059,49.472663",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6545566,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 05:44:04",
+    "dateEnd": "09/19/2026 05:44:04",
+    "lastUpdate": "08/19/2026 05:44:04",
+    "postalCode": "65594",
+    "city": "Runkel",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.154816;50.405102",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
