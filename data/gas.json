@@ -1,12 +1,12 @@
 [
   {
-    "id": 6548782,
+    "id": 6549369,
     "operatorId": 132,
     "type": 1,
     "origin": 5,
-    "dateStart": "08/19/2026 20:01:47",
+    "dateStart": "08/19/2026 23:27:50",
     "dateEnd": null,
-    "lastUpdate": "08/19/2026 22:34:06",
+    "lastUpdate": "08/19/2026 23:30:30",
     "postalCode": "50126",
     "city": "Bergheim",
     "district": null,
@@ -18,13 +18,13 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6548783,
+    "id": 6549370,
     "operatorId": 132,
     "type": 1,
     "origin": 5,
-    "dateStart": "08/19/2026 20:01:47",
+    "dateStart": "08/19/2026 23:27:50",
     "dateEnd": null,
-    "lastUpdate": "08/19/2026 22:34:06",
+    "lastUpdate": "08/19/2026 23:30:30",
     "postalCode": "50127",
     "city": "Bergheim",
     "district": null,
