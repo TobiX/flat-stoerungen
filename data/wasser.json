@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6538536,
-    "operatorId": 149,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "08/17/2026 16:52:00",
-    "dateEnd": "08/18/2026 16:00:00",
-    "lastUpdate": "08/18/2026 08:41:13",
-    "postalCode": "24589",
-    "city": "Nortorf",
-    "district": null,
-    "street": "Kieler Straße ",
-    "radius": 500,
-    "coordinates": "9.860606,54.169235",
-    "liveInfo": "Wir werden im Laufe des Tages noch in der Rinkeniser Straße die Leitung wieder provisorisch in Betrieb nehmen, die Häuser Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10 und Kieler Straße 38 haben noch kein Wasser.",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Nortorf AöR"
-  },
-  {
     "id": 6542838,
     "operatorId": 3311,
     "type": 2,
