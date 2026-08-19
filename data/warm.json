@@ -250,5 +250,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Elektroenergieversorgung Cottbus GmbH"
+  },
+  {
+    "id": 6546525,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/20/2026 07:30:00",
+    "dateEnd": "08/20/2026 15:30:00",
+    "lastUpdate": "08/19/2026 10:04:40",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Hasenwinkel 11",
+    "radius": 150,
+    "coordinates": "10.799002,52.448902",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
