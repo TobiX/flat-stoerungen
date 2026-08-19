@@ -232,5 +232,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6546375,
+    "operatorId": 19,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/19/2026 09:30:00",
+    "dateEnd": "08/19/2026 12:00:00",
+    "lastUpdate": "08/19/2026 09:33:09",
+    "postalCode": "03042",
+    "city": "Cottbus",
+    "district": null,
+    "street": "Wilhelm-Riedel-Straße ",
+    "radius": 500,
+    "coordinates": "14.343138,51.763386",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Elektroenergieversorgung Cottbus GmbH"
   }
 ]
