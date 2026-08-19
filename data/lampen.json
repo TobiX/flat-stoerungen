@@ -8784,24 +8784,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6414061,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/22/2026 11:30:15",
-    "dateEnd": "08/22/2026 11:30:15",
-    "lastUpdate": "07/22/2026 11:30:15",
-    "postalCode": "46286",
-    "city": "Dorsten",
-    "district": "Neue Stadt Wulfen",
-    "street": "BG 14 Zentrum West",
-    "radius": null,
-    "coordinates": "7.020443176004;51.727060368788",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6414088,
     "operatorId": 237,
     "type": 10,
@@ -26854,5 +26836,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6546859,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 11:56:26",
+    "dateEnd": "09/19/2026 11:56:26",
+    "lastUpdate": "08/19/2026 11:56:26",
+    "postalCode": "61350",
+    "city": "Bad Homburg v.d. Höhe",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.575435;50.23373",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
