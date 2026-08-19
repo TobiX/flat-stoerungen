@@ -26728,5 +26728,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6545710,
+    "operatorId": 3372,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 06:18:51",
+    "dateEnd": "09/19/2026 06:18:51",
+    "lastUpdate": "08/19/2026 06:18:56",
+    "postalCode": "31073",
+    "city": "Delligsen",
+    "district": null,
+    "street": "Herrendienstanger",
+    "radius": null,
+    "coordinates": "9.750905,51.950273",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Delligsen"
+  },
+  {
+    "id": 6545722,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/19/2026 06:41:48",
+    "dateEnd": "09/19/2026 06:41:48",
+    "lastUpdate": "08/19/2026 06:41:48",
+    "postalCode": "56291",
+    "city": "Kisselbach",
+    "district": "Kisselbach",
+    "street": "Lauderter Straße",
+    "radius": null,
+    "coordinates": "7.610989523337;50.052327732829",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
