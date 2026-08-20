@@ -27808,5 +27808,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6553056,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 20:14:50",
+    "dateEnd": "09/20/2026 20:14:50",
+    "lastUpdate": "08/20/2026 20:14:49",
+    "postalCode": "74909",
+    "city": "Meckesheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.820798;49.319933",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
