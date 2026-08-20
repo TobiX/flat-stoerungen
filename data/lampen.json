@@ -27826,5 +27826,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6553219,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 21:26:29",
+    "dateEnd": "09/20/2026 21:26:29",
+    "lastUpdate": "08/20/2026 21:26:31",
+    "postalCode": "57562",
+    "city": "Herdorf",
+    "district": "Dermbach",
+    "street": "Dorfwiese",
+    "radius": null,
+    "coordinates": "7.953806749918;50.793515663124",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
