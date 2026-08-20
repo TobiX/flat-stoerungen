@@ -27790,5 +27790,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6552771,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 18:48:38",
+    "dateEnd": "09/20/2026 18:48:38",
+    "lastUpdate": "08/20/2026 18:48:38",
+    "postalCode": "48356",
+    "city": "Nordwalde",
+    "district": "Nordwalde",
+    "street": "Meisengrund",
+    "radius": null,
+    "coordinates": "7.4718044;52.0823607",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
