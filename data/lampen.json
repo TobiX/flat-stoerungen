@@ -27700,5 +27700,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6551758,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 12:59:17",
+    "dateEnd": "09/20/2026 12:59:17",
+    "lastUpdate": "08/20/2026 12:59:18",
+    "postalCode": "53557",
+    "city": "Bad Hönningen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.308547;50.516826",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6551896,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 13:09:35",
+    "dateEnd": "09/20/2026 13:09:35",
+    "lastUpdate": "08/20/2026 13:09:33",
+    "postalCode": "65824",
+    "city": "Schwalbach am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.533482;50.155922",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
