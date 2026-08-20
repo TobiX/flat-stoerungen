@@ -8838,24 +8838,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6419997,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/23/2026 16:46:26",
-    "dateEnd": "08/23/2026 16:46:26",
-    "lastUpdate": "07/23/2026 16:46:26",
-    "postalCode": "52372",
-    "city": "Kreuzau",
-    "district": "Winden",
-    "street": "Lehrer-Mainz-Str.",
-    "radius": null,
-    "coordinates": "6.480260894263;50.740735389587",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6421050,
     "operatorId": 237,
     "type": 10,
@@ -27772,5 +27754,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke EVB Huntetal Netz GmbH"
+  },
+  {
+    "id": 6552588,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 17:05:48",
+    "dateEnd": "09/20/2026 17:05:48",
+    "lastUpdate": "08/20/2026 17:05:51",
+    "postalCode": "65779",
+    "city": "Kelkheim (Taunus)",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.458093;50.130488",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]

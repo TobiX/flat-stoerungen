@@ -54,24 +54,6 @@
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
   },
   {
-    "id": 6546806,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "08/19/2026 11:33:05",
-    "dateEnd": "08/19/2026 14:35:00",
-    "lastUpdate": "08/19/2026 14:09:12",
-    "postalCode": "38667",
-    "city": "Bad Harzburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.574667892991474,51.88153233944712",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6546815,
     "operatorId": 350,
     "type": 1,
@@ -132,7 +114,7 @@
     "origin": 5,
     "dateStart": "08/20/2026 16:26:48",
     "dateEnd": null,
-    "lastUpdate": "08/20/2026 16:44:08",
+    "lastUpdate": "08/20/2026 17:24:08",
     "postalCode": "50170",
     "city": "Kerpen",
     "district": null,
