@@ -18,24 +18,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6542838,
-    "operatorId": 3311,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/19/2026 08:00:00",
-    "dateEnd": "08/19/2026 12:00:00",
-    "lastUpdate": "08/18/2026 15:16:34",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": "Barnbruchsweg ",
-    "radius": 500,
-    "coordinates": "10.594583,52.47407",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
     "id": 6542841,
     "operatorId": 3311,
     "type": 2,
@@ -70,24 +52,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
-    "id": 6545562,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "08/19/2026 05:36:00",
-    "dateEnd": "08/19/2026 13:00:00",
-    "lastUpdate": "08/19/2026 05:37:37",
-    "postalCode": "38667",
-    "city": "Bad Harzburg",
-    "district": null,
-    "street": "Amtswiese ",
-    "radius": 500,
-    "coordinates": "10.562251,51.883755",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
   },
   {
     "id": 6546806,
