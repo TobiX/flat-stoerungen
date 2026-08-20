@@ -27772,5 +27772,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6552753,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 18:19:39",
+    "dateEnd": "09/20/2026 18:19:39",
+    "lastUpdate": "08/20/2026 18:19:40",
+    "postalCode": "54456",
+    "city": "Tawern",
+    "district": "Trier-Saarburg",
+    "street": "Mannebacher Straße",
+    "radius": null,
+    "coordinates": "6.519731466504311,49.66974410263032",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
