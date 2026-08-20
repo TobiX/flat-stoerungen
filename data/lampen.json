@@ -27268,5 +27268,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6549825,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 02:25:10",
+    "dateEnd": "09/20/2026 02:25:10",
+    "lastUpdate": "08/20/2026 02:25:09",
+    "postalCode": "59929",
+    "city": "Brilon",
+    "district": "Hoppecke",
+    "street": "Dominitstr.",
+    "radius": null,
+    "coordinates": "8.636450266966;51.374586704049",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6549841,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/20/2026 02:56:39",
+    "dateEnd": "09/20/2026 02:56:39",
+    "lastUpdate": "08/20/2026 02:56:38",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Heißen",
+    "street": "Waterloostr.",
+    "radius": null,
+    "coordinates": "6.9515902;51.4324759",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
