@@ -1,23 +1,5 @@
 [
   {
-    "id": 6523991,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/20/2026 08:00:00",
-    "dateEnd": "08/20/2026 11:00:00",
-    "lastUpdate": "08/14/2026 07:40:27",
-    "postalCode": "38446",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Seerosenstraße 23",
-    "radius": 200,
-    "coordinates": "10.863425,52.4137",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6524000,
     "operatorId": 186,
     "type": 2,
