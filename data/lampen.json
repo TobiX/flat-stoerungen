@@ -27862,5 +27862,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6554459,
+    "operatorId": 337,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 05:00:32",
+    "dateEnd": "09/21/2026 05:00:32",
+    "lastUpdate": "08/21/2026 05:00:37",
+    "postalCode": "46354",
+    "city": "Südlohn",
+    "district": "Borken",
+    "street": "Beckedahl",
+    "radius": null,
+    "coordinates": "6.871562,51.95133",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LokalWerke GmbH"
   }
 ]
