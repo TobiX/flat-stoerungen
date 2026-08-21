@@ -28096,5 +28096,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6556664,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 17:30:19",
+    "dateEnd": "09/21/2026 17:30:19",
+    "lastUpdate": "08/21/2026 17:30:19",
+    "postalCode": "71522",
+    "city": "Backnang",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.426366;48.956629",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
