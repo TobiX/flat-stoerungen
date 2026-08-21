@@ -3114,24 +3114,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6287259,
-    "operatorId": 1689,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/26/2026 23:48:16",
-    "dateEnd": "07/26/2026 23:48:16",
-    "lastUpdate": "06/26/2026 23:48:17",
-    "postalCode": "89073",
-    "city": "Ulm",
-    "district": null,
-    "street": "Henkersgraben",
-    "radius": null,
-    "coordinates": "9.986824,48.395817",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Ulm/Neu-Ulm Netze GmbH"
-  },
-  {
     "id": 6287699,
     "operatorId": 3892,
     "type": 10,
@@ -28384,5 +28366,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Plettenberg"
+  },
+  {
+    "id": 6557728,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 00:08:59",
+    "dateEnd": "09/22/2026 00:08:59",
+    "lastUpdate": "08/22/2026 00:08:59",
+    "postalCode": "52372",
+    "city": "Kreuzau",
+    "district": "Stockheim",
+    "street": "Zum Schmitzbusch",
+    "radius": null,
+    "coordinates": "6.5314261;50.7533463",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
