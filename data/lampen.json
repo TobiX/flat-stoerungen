@@ -28060,5 +28060,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6556201,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 14:25:23",
+    "dateEnd": "09/21/2026 14:25:23",
+    "lastUpdate": "08/21/2026 14:25:23",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.544153;50.154191",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
