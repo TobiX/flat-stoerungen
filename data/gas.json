@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6554782,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/21/2026 07:18:26",
+    "dateEnd": null,
+    "lastUpdate": "08/21/2026 07:24:06",
+    "postalCode": "49744",
+    "city": "Geeste",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.236587239422898,52.6078545",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
