@@ -3240,42 +3240,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6283387,
-    "operatorId": 2147,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/26/2026 01:39:24",
-    "dateEnd": "07/26/2026 01:39:24",
-    "lastUpdate": "06/26/2026 01:39:27",
-    "postalCode": "65428",
-    "city": "Rüsselsheim am Main",
-    "district": null,
-    "street": "Königsberger Straße",
-    "radius": null,
-    "coordinates": "8.426780,49.999237",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Energieservice Rhein-Main GmbH"
-  },
-  {
-    "id": 6283388,
-    "operatorId": 2147,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/26/2026 01:44:33",
-    "dateEnd": "07/26/2026 01:44:33",
-    "lastUpdate": "06/26/2026 01:44:35",
-    "postalCode": "65428",
-    "city": "Rüsselsheim am Main",
-    "district": null,
-    "street": "Carl-Zeiss-Straße",
-    "radius": null,
-    "coordinates": "8.427505,49.987813",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Energieservice Rhein-Main GmbH"
-  },
-  {
     "id": 6284459,
     "operatorId": 2036,
     "type": 10,
@@ -27880,5 +27844,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6554137,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 03:14:37",
+    "dateEnd": "09/21/2026 03:14:37",
+    "lastUpdate": "08/21/2026 03:14:37",
+    "postalCode": "49838",
+    "city": "Langen",
+    "district": "Langen",
+    "street": "Am Haidberg",
+    "radius": null,
+    "coordinates": "7.4748519;52.5370496",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
