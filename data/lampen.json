@@ -27880,5 +27880,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LokalWerke GmbH"
+  },
+  {
+    "id": 6554479,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 05:42:01",
+    "dateEnd": "09/21/2026 05:42:01",
+    "lastUpdate": "08/21/2026 05:42:01",
+    "postalCode": "77833",
+    "city": "Ottersweier",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.055477;48.688134",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6554636,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 06:46:40",
+    "dateEnd": "09/21/2026 06:46:40",
+    "lastUpdate": "08/21/2026 06:46:40",
+    "postalCode": "65510",
+    "city": "Idstein",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.270867;50.221489",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
