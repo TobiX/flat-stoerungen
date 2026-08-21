@@ -8802,24 +8802,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6424287,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/24/2026 15:00:25",
-    "dateEnd": "08/24/2026 15:00:25",
-    "lastUpdate": "07/24/2026 15:00:25",
-    "postalCode": "54450",
-    "city": "Freudenburg",
-    "district": "Freudenburg",
-    "street": "Kolpingstr.",
-    "radius": null,
-    "coordinates": "6.52950156;49.54312545",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6425156,
     "operatorId": 237,
     "type": 10,
@@ -28078,5 +28060,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6556503,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 16:02:53",
+    "dateEnd": "09/21/2026 16:02:53",
+    "lastUpdate": "08/21/2026 16:02:53",
+    "postalCode": "61462",
+    "city": "Königstein im Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.483785;50.19556",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6556516,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/21/2026 16:20:20",
+    "dateEnd": "09/21/2026 16:20:20",
+    "lastUpdate": "08/21/2026 16:20:20",
+    "postalCode": "53909",
+    "city": "Zülpich",
+    "district": "Bessenich",
+    "street": "Wiesenstr.",
+    "radius": null,
+    "coordinates": "6.65772492;50.71096586",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
