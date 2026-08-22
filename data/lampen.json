@@ -27556,5 +27556,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6560027,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 14:30:49",
+    "dateEnd": "09/22/2026 14:30:49",
+    "lastUpdate": "08/22/2026 14:30:54",
+    "postalCode": "57290",
+    "city": "Neunkirchen",
+    "district": "Struthütten",
+    "street": "Am Bähnchen",
+    "radius": null,
+    "coordinates": "7.97070096;50.78742017",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
