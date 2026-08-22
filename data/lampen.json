@@ -27538,5 +27538,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6559695,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 12:10:17",
+    "dateEnd": "09/22/2026 12:10:17",
+    "lastUpdate": "08/22/2026 12:10:18",
+    "postalCode": "54518",
+    "city": "Dodenburg",
+    "district": "Dodenburg",
+    "street": "Schloßstr.",
+    "radius": null,
+    "coordinates": "6.77901659;49.91375498",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
