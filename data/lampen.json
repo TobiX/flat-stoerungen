@@ -27574,5 +27574,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6560505,
+    "operatorId": 222,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 17:52:20",
+    "dateEnd": "09/22/2026 17:52:20",
+    "lastUpdate": "08/22/2026 17:52:26",
+    "postalCode": "33689",
+    "city": "Bielefeld",
+    "district": "Kreisfreie Stadt Bielefeld",
+    "street": "Frankenweg",
+    "radius": null,
+    "coordinates": "8.604951,51.952814",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
