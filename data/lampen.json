@@ -27592,5 +27592,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6560788,
+    "operatorId": 3806,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 19:04:09",
+    "dateEnd": "09/22/2026 19:04:09",
+    "lastUpdate": "08/22/2026 19:04:14",
+    "postalCode": "06502",
+    "city": "Thale",
+    "district": "Harz",
+    "street": "Bockrieß",
+    "radius": null,
+    "coordinates": "11.059007,51.747164",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Thale"
   }
 ]
