@@ -27592,5 +27592,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Gemeinde Thale"
+  },
+  {
+    "id": 6561133,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 21:30:38",
+    "dateEnd": "09/22/2026 21:30:38",
+    "lastUpdate": "08/22/2026 21:30:40",
+    "postalCode": "65558",
+    "city": "Oberneisen",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.072602;50.324597",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
