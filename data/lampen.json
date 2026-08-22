@@ -28330,5 +28330,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6558498,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 05:12:28",
+    "dateEnd": "09/22/2026 05:12:28",
+    "lastUpdate": "08/22/2026 05:12:28",
+    "postalCode": "65795",
+    "city": "Hattersheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.478341;50.063898",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
