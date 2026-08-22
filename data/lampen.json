@@ -27520,5 +27520,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6559549,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/22/2026 11:18:36",
+    "dateEnd": "09/22/2026 11:18:36",
+    "lastUpdate": "08/22/2026 11:18:41",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Albstraße",
+    "radius": null,
+    "coordinates": "8.407769,48.942049",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
