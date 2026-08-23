@@ -8514,24 +8514,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6430521,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/26/2026 01:05:22",
-    "dateEnd": "08/26/2026 01:05:22",
-    "lastUpdate": "07/26/2026 01:05:22",
-    "postalCode": "54313",
-    "city": "Zemmer",
-    "district": "Rodt",
-    "street": "Zemmerer Str.",
-    "radius": null,
-    "coordinates": "6.67034792;49.87371511",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6431270,
     "operatorId": 237,
     "type": 10,
