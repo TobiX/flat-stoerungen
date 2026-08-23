@@ -3024,24 +3024,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6296957,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/28/2026 23:16:06",
-    "dateEnd": "07/28/2026 23:16:06",
-    "lastUpdate": "06/28/2026 23:16:06",
-    "postalCode": "97525",
-    "city": "Schwebheim",
-    "district": "Schweinfurt",
-    "street": "Schweinfurter Straße",
-    "radius": null,
-    "coordinates": "10.242858,50.002540",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6297163,
     "operatorId": 3524,
     "type": 10,
@@ -8640,24 +8622,6 @@
     "operatorName": "AVU Netz GmbH"
   },
   {
-    "id": 6434720,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/26/2026 23:06:43",
-    "dateEnd": "08/26/2026 23:06:43",
-    "lastUpdate": "07/26/2026 23:06:44",
-    "postalCode": "53909",
-    "city": "Zülpich",
-    "district": "Niederelvenich",
-    "street": "Nordstr.",
-    "radius": null,
-    "coordinates": "6.72153885;50.70709068",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6434730,
     "operatorId": 237,
     "type": 10,
@@ -8674,24 +8638,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6434742,
-    "operatorId": 222,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/26/2026 23:42:15",
-    "dateEnd": "08/26/2026 23:42:15",
-    "lastUpdate": "07/26/2026 23:42:20",
-    "postalCode": "33647",
-    "city": "Bielefeld",
-    "district": "Kreisfreie Stadt Bielefeld",
-    "street": "Wikingerstraße",
-    "radius": null,
-    "coordinates": "8.509945,51.988846",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
   },
   {
     "id": 6434953,
@@ -28024,5 +27970,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6565404,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/23/2026 23:42:15",
+    "dateEnd": "09/23/2026 23:42:15",
+    "lastUpdate": "08/23/2026 23:42:20",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingenweier",
+    "street": "Gansgrabenweg",
+    "radius": null,
+    "coordinates": "8.393343,48.930041",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6565409,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/23/2026 23:53:25",
+    "dateEnd": "09/23/2026 23:53:25",
+    "lastUpdate": "08/23/2026 23:53:25",
+    "postalCode": "73779",
+    "city": "Deizisau",
+    "district": "Esslingen",
+    "street": "Hermannstraße",
+    "radius": null,
+    "coordinates": "9.38924,48.71291",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]
