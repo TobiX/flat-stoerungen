@@ -34,41 +34,5 @@
     "liveInfo": "Ruhesteinstr. 1-17 + 2-36",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
-    "id": 6559214,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/22/2026 09:48:01",
-    "dateEnd": null,
-    "lastUpdate": "08/23/2026 09:44:05",
-    "postalCode": "50169",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.7031067365002786,50.90779",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6559215,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/22/2026 09:48:01",
-    "dateEnd": null,
-    "lastUpdate": "08/23/2026 09:44:05",
-    "postalCode": "50170",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.7031067365002786,50.90779",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]
