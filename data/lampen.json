@@ -3024,24 +3024,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6297163,
-    "operatorId": 3524,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/29/2026 00:42:34",
-    "dateEnd": "07/29/2026 00:42:34",
-    "lastUpdate": "06/29/2026 00:42:34",
-    "postalCode": "90409",
-    "city": "Nürnberg",
-    "district": "Nürnberg",
-    "street": "Goethestraße",
-    "radius": null,
-    "coordinates": "11.08441,49.46319",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Nürnberg"
-  },
-  {
     "id": 6297328,
     "operatorId": null,
     "type": 10,
@@ -28006,5 +27988,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6565563,
+    "operatorId": 222,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 00:32:08",
+    "dateEnd": "09/24/2026 00:32:08",
+    "lastUpdate": "08/24/2026 00:32:13",
+    "postalCode": "33649",
+    "city": "Bielefeld",
+    "district": "Kreisfreie Stadt Bielefeld",
+    "street": "Südholzkamp",
+    "radius": null,
+    "coordinates": "8.469462,51.964396",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6565568,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 00:41:40",
+    "dateEnd": "09/24/2026 00:41:40",
+    "lastUpdate": "08/24/2026 00:41:45",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Birkenweg",
+    "radius": null,
+    "coordinates": "8.383363,48.949499",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
