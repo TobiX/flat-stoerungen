@@ -27556,5 +27556,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6564029,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/23/2026 15:47:47",
+    "dateEnd": "09/23/2026 15:47:47",
+    "lastUpdate": "08/23/2026 15:47:45",
+    "postalCode": "65599",
+    "city": "Dornburg",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.045389;50.537715",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6564175,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/23/2026 16:05:26",
+    "dateEnd": "09/23/2026 16:05:26",
+    "lastUpdate": "08/23/2026 16:05:26",
+    "postalCode": "54439",
+    "city": "Saarburg",
+    "district": "Saarburg",
+    "street": "Friedensaue",
+    "radius": null,
+    "coordinates": "6.54555481;49.60484746",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
