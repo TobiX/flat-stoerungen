@@ -1,23 +1,5 @@
 [
   {
-    "id": 6177393,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "05/31/2026 12:50:23",
-    "dateEnd": "06/30/2026 12:50:23",
-    "lastUpdate": "05/31/2026 12:50:22",
-    "postalCode": "56317",
-    "city": "Linkenbach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.551023;50.570636",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6179218,
     "operatorId": 237,
     "type": 10,
@@ -8530,24 +8512,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Netze Duisburg GmbH"
-  },
-  {
-    "id": 6432590,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/26/2026 12:27:38",
-    "dateEnd": "08/26/2026 12:27:38",
-    "lastUpdate": "07/26/2026 12:27:38",
-    "postalCode": "52391",
-    "city": "Vettweiß",
-    "district": "Disternich",
-    "street": "Am Karbuch",
-    "radius": null,
-    "coordinates": "6.673462098631;50.737424845562",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6433159,

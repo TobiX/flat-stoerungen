@@ -34,5 +34,41 @@
     "liveInfo": "Ruhesteinstr. 1-17 + 2-36",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6563530,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/23/2026 12:58:25",
+    "dateEnd": null,
+    "lastUpdate": "08/23/2026 13:04:06",
+    "postalCode": "50189",
+    "city": "Elsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.597271223725589,50.954209",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6563531,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/23/2026 12:58:25",
+    "dateEnd": null,
+    "lastUpdate": "08/23/2026 13:04:06",
+    "postalCode": "50126",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.597271223725589,50.954209",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
