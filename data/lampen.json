@@ -2988,24 +2988,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6293032,
-    "operatorId": 2073,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/28/2026 04:36:02",
-    "dateEnd": "07/28/2026 04:36:02",
-    "lastUpdate": "06/28/2026 04:36:03",
-    "postalCode": "65931",
-    "city": "Frankfurt am Main",
-    "district": null,
-    "street": "Geierskopfweg",
-    "radius": null,
-    "coordinates": "8.504001,50.097724",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "SRM StraßenBeleuchtung Rhein-Main GmbH"
-  },
-  {
     "id": 6294408,
     "operatorId": 237,
     "type": 10,
