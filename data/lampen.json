@@ -27592,5 +27592,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6564552,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/23/2026 18:07:32",
+    "dateEnd": "09/23/2026 18:07:32",
+    "lastUpdate": "08/23/2026 18:07:32",
+    "postalCode": "71720",
+    "city": "Oberstenfeld",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.317045;49.029143",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
