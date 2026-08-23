@@ -8550,24 +8550,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6433341,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/26/2026 16:03:05",
-    "dateEnd": "08/26/2026 16:03:05",
-    "lastUpdate": "07/26/2026 16:03:05",
-    "postalCode": "54533",
-    "city": "Gransdorf",
-    "district": "Gransdorf",
-    "street": "Im Bachfeld",
-    "radius": null,
-    "coordinates": "6.688243631275;50.016796421028",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6434313,
     "operatorId": 1928,
     "type": 10,
@@ -27592,5 +27574,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6564201,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/23/2026 16:56:36",
+    "dateEnd": "09/23/2026 16:56:36",
+    "lastUpdate": "08/23/2026 16:56:35",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.563746;50.145568",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
