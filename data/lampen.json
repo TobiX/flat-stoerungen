@@ -1,23 +1,5 @@
 [
   {
-    "id": 6180017,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/01/2026 16:23:28",
-    "dateEnd": "07/01/2026 16:23:28",
-    "lastUpdate": "06/01/2026 16:23:28",
-    "postalCode": "71560",
-    "city": "Sulzbach an der Murr",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.513881;49.002766",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6180401,
     "operatorId": 237,
     "type": 10,
