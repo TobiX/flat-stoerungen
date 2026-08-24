@@ -3024,24 +3024,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6297328,
-    "operatorId": null,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/29/2026 01:08:58",
-    "dateEnd": "07/29/2026 01:08:58",
-    "lastUpdate": "06/29/2026 01:08:59",
-    "postalCode": "69502",
-    "city": "Hemsbach",
-    "district": "Rhein-Neckar-Kreis",
-    "street": "Draisstraße",
-    "radius": null,
-    "coordinates": "8.648316,49.584350",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": null
-  },
-  {
     "id": 6299893,
     "operatorId": 402,
     "type": 10,
@@ -28024,5 +28006,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6565888,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 02:08:48",
+    "dateEnd": "09/24/2026 02:08:48",
+    "lastUpdate": "08/24/2026 02:08:50",
+    "postalCode": "59590",
+    "city": "Geseke",
+    "district": "Eringerfeld",
+    "street": "Steinhauser Str.",
+    "radius": null,
+    "coordinates": "8.471550229144;51.586927034331",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6565889,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 02:10:28",
+    "dateEnd": "09/24/2026 02:10:28",
+    "lastUpdate": "08/24/2026 02:10:28",
+    "postalCode": "59590",
+    "city": "Geseke",
+    "district": "Eringerfeld",
+    "street": "Steinhauser Str.",
+    "radius": null,
+    "coordinates": "8.469396099902;51.587010097295",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
