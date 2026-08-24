@@ -1,23 +1,5 @@
 [
   {
-    "id": 6181471,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/02/2026 00:14:11",
-    "dateEnd": "07/02/2026 00:14:11",
-    "lastUpdate": "06/02/2026 00:14:13",
-    "postalCode": "65795",
-    "city": "Hattersheim am Main",
-    "district": "Main-Taunus-Kreis",
-    "street": "Mörikestraße",
-    "radius": null,
-    "coordinates": "8.46742041898645,50.04109873070004",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6182984,
     "operatorId": 237,
     "type": 10,
@@ -3148,24 +3130,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6303030,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/30/2026 00:14:55",
-    "dateEnd": "07/30/2026 00:14:55",
-    "lastUpdate": "06/30/2026 00:14:56",
-    "postalCode": "93339",
-    "city": "Riedenburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "11.708961,48.942388",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
   },
   {
     "id": 6304800,
@@ -28528,5 +28492,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6569914,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/25/2026 00:37:51",
+    "dateEnd": "09/25/2026 00:37:51",
+    "lastUpdate": "08/25/2026 00:37:50",
+    "postalCode": "45468",
+    "city": "Mülheim an der Ruhr",
+    "district": "Altstadt I",
+    "street": "Akazienallee",
+    "radius": null,
+    "coordinates": "6.823825;51.4328383",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
