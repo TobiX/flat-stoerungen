@@ -3114,24 +3114,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6302100,
-    "operatorId": 298,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/29/2026 20:54:19",
-    "dateEnd": "07/29/2026 20:54:19",
-    "lastUpdate": "06/29/2026 20:54:22",
-    "postalCode": "42553",
-    "city": "Velbert",
-    "district": "",
-    "street": "Nordrather Straße",
-    "radius": null,
-    "coordinates": "7.1522735;51.3168211",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Velbert GmbH"
-  },
-  {
     "id": 6302547,
     "operatorId": 402,
     "type": 10,
@@ -28438,5 +28420,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6569477,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 21:12:41",
+    "dateEnd": "09/24/2026 21:12:41",
+    "lastUpdate": "08/24/2026 21:12:41",
+    "postalCode": "61273",
+    "city": "Wehrheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.542562;50.278224",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6569483,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 21:24:53",
+    "dateEnd": "09/24/2026 21:24:53",
+    "lastUpdate": "08/24/2026 21:24:53",
+    "postalCode": "67746",
+    "city": "Langweiler",
+    "district": "Langweiler",
+    "street": "Im Teich",
+    "radius": null,
+    "coordinates": "7.52531295;49.66357498",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
