@@ -52,5 +52,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6567531,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/24/2026 09:00:00",
+    "dateEnd": "08/24/2026 13:00:00",
+    "lastUpdate": "08/24/2026 09:42:28",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Lerchenweg ",
+    "radius": 400,
+    "coordinates": "10.811252,52.42604",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6567532,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/25/2026 08:00:00",
+    "dateEnd": "08/25/2026 16:00:00",
+    "lastUpdate": "08/24/2026 09:43:36",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Marienborner Straße ",
+    "radius": 500,
+    "coordinates": "10.837464,52.45079",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
