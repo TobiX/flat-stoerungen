@@ -1,23 +1,5 @@
 [
   {
-    "id": 6179795,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/01/2026 15:43:14",
-    "dateEnd": "07/01/2026 15:43:14",
-    "lastUpdate": "06/01/2026 15:43:13",
-    "postalCode": "61267",
-    "city": "Neu-Anspach",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.508098;50.291466",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6180017,
     "operatorId": 237,
     "type": 10,
@@ -28384,5 +28366,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Pfalzwerke Netz AG"
+  },
+  {
+    "id": 6568639,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 16:27:54",
+    "dateEnd": "09/24/2026 16:27:54",
+    "lastUpdate": "08/24/2026 16:27:54",
+    "postalCode": "54306",
+    "city": "Kordel",
+    "district": "Kordel",
+    "street": "Oberstr.",
+    "radius": null,
+    "coordinates": "6.633075957923;49.840617926869",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
