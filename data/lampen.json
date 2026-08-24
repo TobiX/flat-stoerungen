@@ -28402,5 +28402,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6569217,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 19:51:56",
+    "dateEnd": "09/24/2026 19:51:56",
+    "lastUpdate": "08/24/2026 19:51:55",
+    "postalCode": "65558",
+    "city": "Holzheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.049401;50.355809",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6569344,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/24/2026 20:28:53",
+    "dateEnd": "09/24/2026 20:28:53",
+    "lastUpdate": "08/24/2026 20:28:53",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.56743;50.14038",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
