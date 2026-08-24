@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6569628,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/24/2026 22:14:40",
+    "dateEnd": null,
+    "lastUpdate": "08/24/2026 22:39:13",
+    "postalCode": "49635",
+    "city": "Badbergen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.987760487850121,52.632825999999994",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
