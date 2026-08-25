@@ -3114,24 +3114,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6307908,
-    "operatorId": 3524,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/01/2026 00:06:28",
-    "dateEnd": "08/01/2026 00:06:28",
-    "lastUpdate": "07/01/2026 00:06:32",
-    "postalCode": "90473",
-    "city": "Nürnberg",
-    "district": "Nürnberg",
-    "street": "Franz-Reichel-Ring",
-    "radius": null,
-    "coordinates": "11.131342,49.394543",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Nürnberg"
-  },
-  {
     "id": 6308140,
     "operatorId": 402,
     "type": 10,
