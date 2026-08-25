@@ -3078,24 +3078,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6307021,
-    "operatorId": 583,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/30/2026 19:50:37",
-    "dateEnd": "07/30/2026 19:50:37",
-    "lastUpdate": "06/30/2026 19:50:38",
-    "postalCode": "86343",
-    "city": "Königsbrunn",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.896078,48.265347",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LEW Verteilnetz GmbH"
-  },
-  {
     "id": 6307742,
     "operatorId": 237,
     "type": 10,
@@ -8710,24 +8692,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6444582,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/28/2026 19:07:46",
-    "dateEnd": "08/28/2026 19:07:46",
-    "lastUpdate": "07/28/2026 19:07:45",
-    "postalCode": "54614",
-    "city": "Oberlauch",
-    "district": "Oberlauch",
-    "street": "Prümer Str.",
-    "radius": null,
-    "coordinates": "6.4188194;50.1673943",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6445123,
@@ -28330,5 +28294,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6573190,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/25/2026 20:03:32",
+    "dateEnd": "09/25/2026 20:03:32",
+    "lastUpdate": "08/25/2026 20:03:33",
+    "postalCode": "54689",
+    "city": "Daleiden",
+    "district": "Daleiden",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "6.18700524;50.06437684",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
