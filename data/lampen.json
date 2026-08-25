@@ -28384,5 +28384,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6570660,
+    "operatorId": 302,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/25/2026 05:33:10",
+    "dateEnd": "09/25/2026 05:33:10",
+    "lastUpdate": "08/25/2026 05:33:15",
+    "postalCode": "58509",
+    "city": "Lüdenscheid",
+    "district": "",
+    "street": "Schubertstr.",
+    "radius": null,
+    "coordinates": "7.591963,51.222053",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "ENERVIE Vernetzt GmbH"
   }
 ]
