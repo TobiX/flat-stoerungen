@@ -1,23 +1,5 @@
 [
   {
-    "id": 6524000,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/24/2026 09:00:00",
-    "dateEnd": "08/24/2026 11:30:00",
-    "lastUpdate": "08/14/2026 07:46:52",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Reichenberger Ring 35",
-    "radius": 100,
-    "coordinates": "10.755894,52.41841",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6538513,
     "operatorId": 186,
     "type": 2,
@@ -49,24 +31,6 @@
     "street": "Zum Löschwasserteich 10",
     "radius": 150,
     "coordinates": "10.783875,52.35208",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6567531,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/24/2026 09:00:00",
-    "dateEnd": "08/24/2026 13:00:00",
-    "lastUpdate": "08/24/2026 09:42:28",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Lerchenweg ",
-    "radius": 400,
-    "coordinates": "10.811252,52.42604",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
