@@ -96,7 +96,7 @@
     "origin": 5,
     "dateStart": "08/24/2026 20:31:11",
     "dateEnd": null,
-    "lastUpdate": "08/25/2026 09:47:57",
+    "lastUpdate": "08/25/2026 10:47:54",
     "postalCode": "50171",
     "city": "Kerpen",
     "district": null,
@@ -106,5 +106,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6571592,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/25/2026 10:06:05",
+    "dateEnd": "08/25/2026 13:10:00",
+    "lastUpdate": "08/25/2026 10:06:05",
+    "postalCode": "38667",
+    "city": "Bad Harzburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.548425683228416,51.88423640898523",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
