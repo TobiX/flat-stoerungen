@@ -21708,24 +21708,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6546339,
-    "operatorId": 1782,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/19/2026 09:06:25",
-    "dateEnd": "09/19/2026 09:06:25",
-    "lastUpdate": "08/19/2026 09:06:25",
-    "postalCode": "95448",
-    "city": "Bayreuth",
-    "district": "Bayreuth",
-    "street": "Seestraße",
-    "radius": null,
-    "coordinates": "11.593862;49.955631",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6546340,
     "operatorId": 294,
     "type": 10,
@@ -21742,24 +21724,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "AVU Netz GmbH"
-  },
-  {
-    "id": 6546341,
-    "operatorId": 1782,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/19/2026 09:07:33",
-    "dateEnd": "09/19/2026 09:07:33",
-    "lastUpdate": "08/19/2026 09:07:33",
-    "postalCode": "95448",
-    "city": "Bayreuth",
-    "district": "Bayreuth",
-    "street": "Seestraße",
-    "radius": null,
-    "coordinates": "11.594171;49.955951",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   },
   {
     "id": 6546362,
