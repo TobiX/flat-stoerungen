@@ -52,5 +52,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6577025,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "08/27/2026 07:30:00",
+    "dateEnd": "08/27/2026 17:30:00",
+    "lastUpdate": "08/26/2026 15:44:07",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Saarstraße 33",
+    "radius": 500,
+    "coordinates": "10.771369,52.42434",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
