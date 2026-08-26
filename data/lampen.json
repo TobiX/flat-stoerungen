@@ -3078,24 +3078,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6311812,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/01/2026 18:51:16",
-    "dateEnd": "08/01/2026 18:51:16",
-    "lastUpdate": "07/01/2026 18:51:52",
-    "postalCode": "96185",
-    "city": "Schönbrunn i. Steigerwald",
-    "district": "Bamberg",
-    "street": "Riedleite",
-    "radius": null,
-    "coordinates": "10.696231,49.856663",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
-  },
-  {
     "id": 6311963,
     "operatorId": 237,
     "type": 10,
