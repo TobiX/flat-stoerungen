@@ -3114,24 +3114,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6308140,
-    "operatorId": 402,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/01/2026 01:50:35",
-    "dateEnd": "08/01/2026 01:50:35",
-    "lastUpdate": "07/01/2026 01:50:35",
-    "postalCode": "85737",
-    "city": "Ismaning",
-    "district": "München",
-    "street": "Reisingerstraße",
-    "radius": null,
-    "coordinates": "11.668612,48.21841",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Bayernwerk Netz GmbH"
-  },
-  {
     "id": 6309084,
     "operatorId": null,
     "type": 10,
