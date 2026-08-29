@@ -36,24 +36,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6581699,
-    "operatorId": 185,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "08/27/2026 19:36:05",
-    "dateEnd": "08/27/2026 21:10:00",
-    "lastUpdate": "08/27/2026 20:42:07",
-    "postalCode": "29320",
-    "city": "Hermannsburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.062065906381179,52.818393817342354",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Celle-Uelzen Netz GmbH"
-  },
-  {
     "id": 6584641,
     "operatorId": 528,
     "type": 2,
