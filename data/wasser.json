@@ -52,5 +52,23 @@
     "liveInfo": "Durlacher Str. 18-24",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6591050,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/29/2026 23:31:00",
+    "dateEnd": "08/30/2026 13:00:00",
+    "lastUpdate": "08/29/2026 23:39:29",
+    "postalCode": "45470",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": "Parsevalstraße ",
+    "radius": 200,
+    "coordinates": "6.929828,51.41125",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nStandrohr zur Notversorgung Parsevalstr. Ecke Böllrodt.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
