@@ -16,23 +16,5 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6581053,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "08/28/2026 08:00:00",
-    "dateEnd": "08/28/2026 12:00:00",
-    "lastUpdate": "08/27/2026 15:03:22",
-    "postalCode": "38444",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Zum Löschwasserteich 10",
-    "radius": 200,
-    "coordinates": "10.783875,52.35208",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]

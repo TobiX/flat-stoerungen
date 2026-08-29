@@ -52,23 +52,5 @@
     "liveInfo": "Durlacher Str. 18-24",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
-    "id": 6585107,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/28/2026 13:44:37",
-    "dateEnd": null,
-    "lastUpdate": "08/28/2026 14:27:49",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.587789723594055,50.9944715",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]

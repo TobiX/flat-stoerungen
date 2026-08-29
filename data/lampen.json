@@ -28582,5 +28582,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6589134,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/29/2026 12:37:43",
+    "dateEnd": "09/29/2026 12:37:43",
+    "lastUpdate": "08/29/2026 12:37:42",
+    "postalCode": "65760",
+    "city": "Eschborn",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.576543;50.147352",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6589829,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "08/29/2026 16:13:55",
+    "dateEnd": "09/29/2026 16:13:55",
+    "lastUpdate": "08/29/2026 16:13:51",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.429965;50.073892",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
