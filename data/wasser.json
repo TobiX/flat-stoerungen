@@ -88,5 +88,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6595278,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "08/30/2026 22:16:00",
+    "dateEnd": "08/31/2026 05:00:00",
+    "lastUpdate": "08/30/2026 22:18:31",
+    "postalCode": "46045",
+    "city": "Oberhausen",
+    "district": null,
+    "street": "Elsa-Brändström-Straße ",
+    "radius": 200,
+    "coordinates": "6.86204,51.477245",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6595452,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "08/30/2026 23:06:10",
+    "dateEnd": "08/31/2026 02:10:00",
+    "lastUpdate": "08/30/2026 23:30:11",
+    "postalCode": "38667",
+    "city": "Bad Harzburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.57936791641366,51.87980334102179",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
