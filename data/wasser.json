@@ -72,31 +72,13 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6594521,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "08/30/2026 17:59:38",
-    "dateEnd": null,
-    "lastUpdate": "08/30/2026 20:37:36",
-    "postalCode": "50169",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.749736225401173,50.8601495",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6595278,
     "operatorId": 3331,
     "type": 1,
     "origin": 2,
     "dateStart": "08/30/2026 22:16:00",
-    "dateEnd": "08/31/2026 05:00:00",
-    "lastUpdate": "08/30/2026 22:18:31",
+    "dateEnd": "08/31/2026 12:00:00",
+    "lastUpdate": "08/31/2026 02:52:49",
     "postalCode": "46045",
     "city": "Oberhausen",
     "district": null,
@@ -124,5 +106,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6595977,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "08/31/2026 02:02:07",
+    "dateEnd": null,
+    "lastUpdate": "08/31/2026 03:17:37",
+    "postalCode": "50126",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.634624972258305,50.94688",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
