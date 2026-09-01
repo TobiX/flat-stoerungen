@@ -54,24 +54,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6595452,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "08/30/2026 23:06:10",
-    "dateEnd": "08/31/2026 02:10:00",
-    "lastUpdate": "08/30/2026 23:30:11",
-    "postalCode": "38667",
-    "city": "Bad Harzburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.57936791641366,51.87980334102179",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6596972,
     "operatorId": 3331,
     "type": 1,
@@ -168,7 +150,7 @@
     "origin": 5,
     "dateStart": "08/31/2026 18:00:36",
     "dateEnd": null,
-    "lastUpdate": "08/31/2026 23:47:37",
+    "lastUpdate": "09/01/2026 03:07:39",
     "postalCode": "50171",
     "city": "Kerpen",
     "district": null,
