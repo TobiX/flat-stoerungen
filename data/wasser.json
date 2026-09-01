@@ -150,7 +150,7 @@
     "origin": 5,
     "dateStart": "08/31/2026 18:00:36",
     "dateEnd": null,
-    "lastUpdate": "09/01/2026 03:07:39",
+    "lastUpdate": "09/01/2026 09:37:57",
     "postalCode": "50171",
     "city": "Kerpen",
     "district": null,
@@ -160,5 +160,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6601614,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/02/2026 07:12:00",
+    "dateEnd": "09/02/2026 08:12:00",
+    "lastUpdate": "09/01/2026 07:14:17",
+    "postalCode": "38315",
+    "city": "Schladen-Werla",
+    "district": null,
+    "street": "Sellhof ",
+    "radius": 500,
+    "coordinates": "10.538057,52.023544",
+    "liveInfo": "Hydrant Erneuerung am 02.09.2026 von 08:00 bis 12:00 UHr",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
