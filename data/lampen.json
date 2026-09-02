@@ -22698,24 +22698,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6575405,
-    "operatorId": 325,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/26/2026 09:56:51",
-    "dateEnd": "09/26/2026 09:56:51",
-    "lastUpdate": "08/26/2026 09:56:54",
-    "postalCode": "48231",
-    "city": "Warendorf",
-    "district": "Warendorf",
-    "street": "Zuhornstr.",
-    "radius": null,
-    "coordinates": "7.992749,51.950419",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
-  },
-  {
     "id": 6575408,
     "operatorId": 1782,
     "type": 10,
@@ -28996,5 +28978,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LokalWerke GmbH"
+  },
+  {
+    "id": 6605823,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/02/2026 05:40:52",
+    "dateEnd": "10/02/2026 05:40:52",
+    "lastUpdate": "09/02/2026 05:40:52",
+    "postalCode": "35792",
+    "city": "Löhnberg",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.270788;50.507467",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
