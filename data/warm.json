@@ -72,24 +72,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6606239,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "09/02/2026 08:00:00",
-    "dateEnd": "09/02/2026 14:00:00",
-    "lastUpdate": "09/02/2026 06:52:13",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Waldenburger Straße 23",
-    "radius": 150,
-    "coordinates": "10.839435,52.45152",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6606385,
     "operatorId": 186,
     "type": 2,
