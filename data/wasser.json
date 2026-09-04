@@ -52,5 +52,41 @@
     "liveInfo": "Grimmweg 1-41, Irenicusstr. 2-34, Hauffweg 1-19, Dietrich-Bonhoeffer-Str. 15-25 ",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6618345,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "09/04/2026 12:44:00",
+    "dateEnd": "09/04/2026 20:00:00",
+    "lastUpdate": "09/04/2026 12:52:14",
+    "postalCode": "46119",
+    "city": "Oberhausen",
+    "district": null,
+    "street": "Ginsterweg ",
+    "radius": 500,
+    "coordinates": "6.86668,51.527363",
+    "liveInfo": "Rohrbruch an der Hauptwasserleitung. Betroffen von der vorübergehenden Unterbrechung der Wasserversorgung ist der Ginsterweg 27 - 56, Wacholderweg 1 - 35, Dorstener Str. 315 - 339. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6618525,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "09/04/2026 13:48:13",
+    "dateEnd": "09/04/2026 16:50:00",
+    "lastUpdate": "09/04/2026 14:57:18",
+    "postalCode": "46119",
+    "city": "Oberhausen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.872729831171939,51.52375416480139",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
