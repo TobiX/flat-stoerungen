@@ -2988,24 +2988,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6352871,
-    "operatorId": 4880,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/10/2026 02:53:59",
-    "dateEnd": "08/10/2026 02:53:59",
-    "lastUpdate": "07/10/2026 02:54:00",
-    "postalCode": "23968",
-    "city": "Gägelow",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "11.366618,53.902405",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Amt Grevesmühlen-Land"
-  },
-  {
     "id": 6354016,
     "operatorId": 237,
     "type": 10,
@@ -30022,5 +30004,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": null
+  },
+  {
+    "id": 6616947,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/04/2026 05:57:59",
+    "dateEnd": "10/04/2026 05:57:59",
+    "lastUpdate": "09/04/2026 05:57:59",
+    "postalCode": "57290",
+    "city": "Neunkirchen",
+    "district": "Wiederstein",
+    "street": "Frankfurter Str. (Wiederstein)",
+    "radius": null,
+    "coordinates": "8.037607064922;50.780144601466",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6617104,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/04/2026 06:17:11",
+    "dateEnd": "10/04/2026 06:17:11",
+    "lastUpdate": "09/04/2026 06:17:14",
+    "postalCode": "55768",
+    "city": "Hoppstädten-Weiersbach",
+    "district": "Weiersbach",
+    "street": "Gimbweilerstraße",
+    "radius": null,
+    "coordinates": "7.19490151;49.60430192",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
