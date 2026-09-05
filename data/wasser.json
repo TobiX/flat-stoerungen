@@ -1,23 +1,5 @@
 [
   {
-    "id": 6617922,
-    "operatorId": 528,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "09/04/2026 08:00:00",
-    "dateEnd": "09/04/2026 12:00:00",
-    "lastUpdate": "09/04/2026 10:12:22",
-    "postalCode": "76275",
-    "city": "Ettlingen",
-    "district": null,
-    "street": "",
-    "radius": 0,
-    "coordinates": "8.405371725433103,48.926736183244294",
-    "liveInfo": "Bergstr. 13-17 + 20-32",
-    "isFixed": false,
-    "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
     "id": 6617925,
     "operatorId": 528,
     "type": 2,
@@ -78,7 +60,7 @@
     "origin": 5,
     "dateStart": "09/05/2026 08:13:01",
     "dateEnd": null,
-    "lastUpdate": "09/05/2026 10:57:42",
+    "lastUpdate": "09/05/2026 14:27:46",
     "postalCode": "50129",
     "city": "Bergheim",
     "district": null,
