@@ -1,23 +1,5 @@
 [
   {
-    "id": 6225118,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/13/2026 01:51:54",
-    "dateEnd": "07/13/2026 01:51:54",
-    "lastUpdate": "06/13/2026 01:51:52",
-    "postalCode": "65760",
-    "city": "Eschborn",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.553975;50.159057",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6226487,
     "operatorId": 237,
     "type": 10,
@@ -8926,24 +8908,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6497224,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/08/2026 01:38:22",
-    "dateEnd": "09/08/2026 01:38:22",
-    "lastUpdate": "08/08/2026 01:38:31",
-    "postalCode": "46282",
-    "city": "Dorsten",
-    "district": "Hardt",
-    "street": "Gahlener Str.",
-    "radius": null,
-    "coordinates": "6.940656623171;51.658187080319",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6497229,
@@ -31138,5 +31102,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6621771,
+    "operatorId": 2055,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/05/2026 03:12:23",
+    "dateEnd": "10/05/2026 03:12:23",
+    "lastUpdate": "09/05/2026 03:12:23",
+    "postalCode": "12529",
+    "city": "Schönefeld",
+    "district": "Dahme-Spreewald",
+    "street": "Alt Kleinziethen",
+    "radius": null,
+    "coordinates": "13.444886,52.37776",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Schönefeld"
+  },
+  {
+    "id": 6622125,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/05/2026 05:11:56",
+    "dateEnd": "10/05/2026 05:11:56",
+    "lastUpdate": "09/05/2026 05:11:56",
+    "postalCode": "56599",
+    "city": "Leutesdorf",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.388666;50.448517",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
