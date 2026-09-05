@@ -70,5 +70,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6622708,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/05/2026 08:13:01",
+    "dateEnd": null,
+    "lastUpdate": "09/05/2026 10:57:42",
+    "postalCode": "50129",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.692124972907775,50.9803965",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
