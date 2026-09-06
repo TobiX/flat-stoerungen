@@ -31084,5 +31084,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Jena"
+  },
+  {
+    "id": 6628807,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/06/2026 15:09:33",
+    "dateEnd": "10/06/2026 15:09:33",
+    "lastUpdate": "09/06/2026 15:09:33",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.442917;50.081824",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6628808,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/06/2026 15:09:47",
+    "dateEnd": "10/06/2026 15:09:47",
+    "lastUpdate": "09/06/2026 15:09:47",
+    "postalCode": "65719",
+    "city": "Hofheim am Taunus",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.442723;50.081503",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
