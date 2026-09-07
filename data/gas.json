@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6635430,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/07/2026 18:14:03",
+    "dateEnd": null,
+    "lastUpdate": "09/07/2026 19:17:47",
+    "postalCode": "55469",
+    "city": "Simmern/Hunsrück",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.530000475596422,49.9825355",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]

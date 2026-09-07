@@ -18,24 +18,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6627978,
-    "operatorId": 415,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "09/06/2026 11:12:00",
-    "dateEnd": "09/06/2026 19:00:00",
-    "lastUpdate": "09/06/2026 12:19:37",
-    "postalCode": "65199",
-    "city": "Wiesbaden",
-    "district": null,
-    "street": "Kohlheckstraße ",
-    "radius": 1000,
-    "coordinates": "8.192082,50.08114",
-    "liveInfo": "Es wurde ein Notversorgung eingerichtet. Eine vollständige Versorgung kann hierüber leider nicht sichergestellt werden. \n\nZusätzlich steht an der Ecke Kranichstr./Eulenstr. im Bereich der Endhaltestelle ein Standrohr zur Verfügung",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Wiesbaden Netz GmbH"
-  },
-  {
     "id": 6633850,
     "operatorId": 528,
     "type": 2,
@@ -78,7 +60,7 @@
     "origin": 5,
     "dateStart": "09/07/2026 17:24:15",
     "dateEnd": null,
-    "lastUpdate": "09/07/2026 17:47:51",
+    "lastUpdate": "09/07/2026 20:37:48",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,
