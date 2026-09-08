@@ -1,41 +1,5 @@
 [
   {
-    "id": 6237131,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/16/2026 00:29:48",
-    "dateEnd": "07/16/2026 00:29:48",
-    "lastUpdate": "06/16/2026 00:29:48",
-    "postalCode": "61449",
-    "city": "Steinbach (Taunus)",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.574199;50.17111",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6237134,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/16/2026 00:32:13",
-    "dateEnd": "07/16/2026 00:32:13",
-    "lastUpdate": "06/16/2026 00:32:13",
-    "postalCode": "61449",
-    "city": "Steinbach (Taunus)",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.575464;50.172086",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6238702,
     "operatorId": 237,
     "type": 10,
@@ -3094,24 +3058,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6371059,
-    "operatorId": 3569,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/14/2026 01:11:54",
-    "dateEnd": "08/14/2026 01:11:54",
-    "lastUpdate": "07/14/2026 01:11:55",
-    "postalCode": "88605",
-    "city": "Meßkirch",
-    "district": "Sigmaringen",
-    "street": "Am Mühlkanal",
-    "radius": null,
-    "coordinates": "9.125834,47.998476",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Meßkirch"
   },
   {
     "id": 6372119,
@@ -32470,5 +32416,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Belkaw GmbH"
+  },
+  {
+    "id": 6636798,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/08/2026 01:32:30",
+    "dateEnd": "10/08/2026 01:32:30",
+    "lastUpdate": "09/08/2026 01:32:30",
+    "postalCode": "54689",
+    "city": "Dahnen",
+    "district": "Dahnen",
+    "street": "Hauptstr.",
+    "radius": null,
+    "coordinates": "6.14863174;50.08004873",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
