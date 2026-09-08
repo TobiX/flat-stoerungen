@@ -232,5 +232,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6638215,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/15/2026 08:00:00",
+    "dateEnd": "09/15/2026 13:00:00",
+    "lastUpdate": "09/08/2026 08:01:12",
+    "postalCode": "38446",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Burgallee ",
+    "radius": 550,
+    "coordinates": "10.857293,52.41463",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6639233,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/16/2026 08:13:00",
+    "dateEnd": "09/16/2026 14:13:00",
+    "lastUpdate": "09/08/2026 12:32:42",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Westerlinge ",
+    "radius": 500,
+    "coordinates": "10.732636,52.42388",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]

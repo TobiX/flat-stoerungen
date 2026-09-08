@@ -70,5 +70,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6638525,
+    "operatorId": 1763,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "09/08/2026 09:01:00",
+    "dateEnd": "09/08/2026 12:01:00",
+    "lastUpdate": "09/08/2026 09:02:38",
+    "postalCode": "94227",
+    "city": "Zwiesel",
+    "district": null,
+    "street": "Anton-Pech-Straße 1",
+    "radius": 250,
+    "coordinates": "13.23844,49.01305",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Zwiesel"
+  },
+  {
+    "id": 6638554,
+    "operatorId": 222,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/08/2026 09:30:00",
+    "dateEnd": "09/08/2026 13:45:00",
+    "lastUpdate": "09/08/2026 09:29:21",
+    "postalCode": "33615",
+    "city": "Bielefeld",
+    "district": null,
+    "street": "Leiblstraße ",
+    "radius": 500,
+    "coordinates": "8.505547,52.04953",
+    "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Wartungs- und Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
