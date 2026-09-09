@@ -33064,5 +33064,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6643005,
+    "operatorId": 4483,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/09/2026 06:08:15",
+    "dateEnd": "10/09/2026 06:08:15",
+    "lastUpdate": "09/09/2026 06:08:15",
+    "postalCode": "26655",
+    "city": "Westerstede",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.934795,53.258064",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Westerstede"
+  },
+  {
+    "id": 6643010,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/09/2026 06:17:55",
+    "dateEnd": "10/09/2026 06:17:55",
+    "lastUpdate": "09/09/2026 06:17:55",
+    "postalCode": "61348",
+    "city": "Bad Homburg v.d. Höhe",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.620121;50.227419",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
