@@ -34,5 +34,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6645159,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/09/2026 14:37:15",
+    "dateEnd": null,
+    "lastUpdate": "09/09/2026 15:07:39",
+    "postalCode": "59872",
+    "city": "Meschede",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.269737491376112,51.3568655",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]

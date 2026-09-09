@@ -250,5 +250,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6644815,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/16/2026 07:15:00",
+    "dateEnd": "09/16/2026 14:58:00",
+    "lastUpdate": "09/09/2026 13:59:24",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Theodor-Rehn-Straße 26",
+    "radius": 500,
+    "coordinates": "10.72794,52.41409",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6644966,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/15/2026 08:00:00",
+    "dateEnd": "09/15/2026 15:00:00",
+    "lastUpdate": "09/09/2026 14:03:49",
+    "postalCode": "38444",
+    "city": "wolfsburg",
+    "district": null,
+    "street": "Theodor-Heuss-Straße 63",
+    "radius": 150,
+    "coordinates": "10.747655,52.39315",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
