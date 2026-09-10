@@ -1,23 +1,5 @@
 [
   {
-    "id": 6639983,
-    "operatorId": 1832,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "09/08/2026 15:31:00",
-    "dateEnd": "09/09/2026 00:00:00",
-    "lastUpdate": "09/08/2026 15:33:41",
-    "postalCode": "99869",
-    "city": "Nessetal",
-    "district": null,
-    "street": "Vor dem Berge ",
-    "radius": 500,
-    "coordinates": "10.656095,50.9891",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Gothaer Stadtwerke Netz GmbH"
-  },
-  {
     "id": 6645890,
     "operatorId": 132,
     "type": 1,
