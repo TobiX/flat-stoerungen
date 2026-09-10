@@ -250,5 +250,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6648370,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/16/2026 08:01:00",
+    "dateEnd": "09/16/2026 12:01:00",
+    "lastUpdate": "09/10/2026 08:03:03",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Ernst-August-Straße ",
+    "radius": 300,
+    "coordinates": "10.833624,52.440647",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6648432,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/14/2026 08:20:00",
+    "dateEnd": "09/14/2026 12:20:00",
+    "lastUpdate": "09/10/2026 08:23:49",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Meinstraße ",
+    "radius": 500,
+    "coordinates": "10.844333,52.445522",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
