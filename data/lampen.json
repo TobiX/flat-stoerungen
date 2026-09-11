@@ -8946,24 +8946,6 @@
     "operatorName": "Stadt Hildesheim"
   },
   {
-    "id": 6522954,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/14/2026 01:47:14",
-    "dateEnd": "09/14/2026 01:47:14",
-    "lastUpdate": "08/14/2026 01:47:14",
-    "postalCode": "59889",
-    "city": "Eslohe (Sauerland)",
-    "district": "Bremke",
-    "street": "Landstraße",
-    "radius": null,
-    "coordinates": "8.211745619907;51.253743330741",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6523778,
     "operatorId": 237,
     "type": 10,
@@ -33082,5 +33064,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6654378,
+    "operatorId": 325,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/11/2026 05:40:28",
+    "dateEnd": "10/11/2026 05:40:28",
+    "lastUpdate": "09/11/2026 05:40:29",
+    "postalCode": "48231",
+    "city": "Warendorf",
+    "district": "Warendorf",
+    "street": "Vor den Knäppen",
+    "radius": null,
+    "coordinates": "7.985042,51.962925",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
+  },
+  {
+    "id": 6654383,
+    "operatorId": 368,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/11/2026 05:51:18",
+    "dateEnd": "10/11/2026 05:51:18",
+    "lastUpdate": "09/11/2026 05:51:19",
+    "postalCode": "67716",
+    "city": "Heltersberg",
+    "district": "",
+    "street": "Goethestr.",
+    "radius": null,
+    "coordinates": "7.714292,49.310303",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Pfalzwerke Netz AG"
   }
 ]
