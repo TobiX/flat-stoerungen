@@ -3348,24 +3348,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6386572,
-    "operatorId": 3892,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/16/2026 23:00:28",
-    "dateEnd": "08/16/2026 23:00:28",
-    "lastUpdate": "07/16/2026 23:00:28",
-    "postalCode": "57078",
-    "city": "Siegen",
-    "district": "Dillnhütten",
-    "street": "Geisweider Str. (Dillnhütten)",
-    "radius": null,
-    "coordinates": "8.011386,50.927521",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Siegen"
-  },
-  {
     "id": 6386581,
     "operatorId": 237,
     "type": 10,
@@ -3382,24 +3364,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6386586,
-    "operatorId": 583,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/16/2026 23:25:11",
-    "dateEnd": "08/16/2026 23:25:11",
-    "lastUpdate": "07/16/2026 23:25:12",
-    "postalCode": "86935",
-    "city": "Rott",
-    "district": "Landsberg a.Lech",
-    "street": "Monika-Karsch-Ring",
-    "radius": null,
-    "coordinates": "10.973049,47.909811",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LEW Verteilnetz GmbH"
   },
   {
     "id": 6388213,
