@@ -32740,5 +32740,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6659652,
+    "operatorId": 325,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/12/2026 12:29:46",
+    "dateEnd": "10/12/2026 12:29:46",
+    "lastUpdate": "09/12/2026 12:29:47",
+    "postalCode": "48231",
+    "city": "Warendorf",
+    "district": "Warendorf",
+    "street": "Gröblinger Weg",
+    "radius": null,
+    "coordinates": "7.992301,51.962620",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "WEV Warendorfer Energieversorgung GmbH"
+  },
+  {
+    "id": 6659823,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/12/2026 13:33:37",
+    "dateEnd": "10/12/2026 13:33:37",
+    "lastUpdate": "09/12/2026 13:33:37",
+    "postalCode": "61273",
+    "city": "Wehrheim",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.544885;50.278533",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
