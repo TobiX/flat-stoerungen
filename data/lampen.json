@@ -8910,24 +8910,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6529499,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/15/2026 16:31:26",
-    "dateEnd": "09/15/2026 16:31:26",
-    "lastUpdate": "08/15/2026 16:31:27",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": "Speldorf",
-    "street": "Duisburger Str.",
-    "radius": null,
-    "coordinates": "6.834956;51.4306887",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6530343,
     "operatorId": 132,
     "type": 10,
@@ -32776,5 +32758,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6660503,
+    "operatorId": null,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/12/2026 17:37:50",
+    "dateEnd": "10/12/2026 17:37:50",
+    "lastUpdate": "09/12/2026 17:37:52",
+    "postalCode": "72475",
+    "city": "Bitz",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "9.096058,48.248115",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": null
   }
 ]

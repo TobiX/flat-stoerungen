@@ -1,18 +1,18 @@
 [
   {
-    "id": 6659988,
+    "id": 6660320,
     "operatorId": 132,
     "type": 1,
     "origin": 5,
-    "dateStart": "09/12/2026 14:22:34",
+    "dateStart": "09/12/2026 16:10:52",
     "dateEnd": null,
-    "lastUpdate": "09/12/2026 15:27:38",
-    "postalCode": "50126",
+    "lastUpdate": "09/12/2026 18:17:38",
+    "postalCode": "50129",
     "city": "Bergheim",
     "district": null,
     "street": null,
     "radius": null,
-    "coordinates": "6.596437223681816,50.970375000000004",
+    "coordinates": "6.669540972629431,50.98804",
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
