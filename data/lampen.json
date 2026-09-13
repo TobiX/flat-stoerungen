@@ -1,23 +1,5 @@
 [
   {
-    "id": 6258918,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/21/2026 00:43:47",
-    "dateEnd": "07/21/2026 00:43:47",
-    "lastUpdate": "06/21/2026 00:43:47",
-    "postalCode": "65527",
-    "city": "Niedernhausen",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.317342;50.163857",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6260605,
     "operatorId": 237,
     "type": 10,
