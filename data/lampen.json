@@ -3276,24 +3276,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6401117,
-    "operatorId": 2257,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/19/2026 23:32:43",
-    "dateEnd": "08/19/2026 23:32:43",
-    "lastUpdate": "07/19/2026 23:33:14",
-    "postalCode": "23568",
-    "city": "Lübeck",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.770787,53.882838",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Hansestadt Lübeck"
-  },
-  {
     "id": 6402610,
     "operatorId": 237,
     "type": 10,
@@ -9052,24 +9034,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6534969,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/16/2026 23:07:54",
-    "dateEnd": "09/16/2026 23:07:54",
-    "lastUpdate": "08/16/2026 23:07:54",
-    "postalCode": "54597",
-    "city": "Roth bei Prüm",
-    "district": "Roth",
-    "street": "Hauptstr.",
-    "radius": null,
-    "coordinates": "6.39349644;50.30730794",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6535147,
