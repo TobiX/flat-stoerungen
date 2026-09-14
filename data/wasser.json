@@ -54,31 +54,13 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6669414,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "09/14/2026 15:35:00",
-    "dateEnd": "09/14/2026 19:30:00",
-    "lastUpdate": "09/14/2026 15:36:54",
-    "postalCode": "37520",
-    "city": "Osterode am Harz",
-    "district": null,
-    "street": "Lindenstraße ",
-    "radius": 500,
-    "coordinates": "10.235946,51.735992",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6669596,
     "operatorId": 132,
     "type": 1,
     "origin": 5,
     "dateStart": "09/14/2026 16:39:22",
     "dateEnd": null,
-    "lastUpdate": "09/14/2026 18:47:42",
+    "lastUpdate": "09/14/2026 20:57:37",
     "postalCode": "50189",
     "city": "Elsdorf",
     "district": null,
@@ -88,5 +70,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6670101,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "09/14/2026 19:12:09",
+    "dateEnd": "09/14/2026 22:15:00",
+    "lastUpdate": "09/14/2026 19:12:09",
+    "postalCode": "37520",
+    "city": "Osterode am Harz",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "10.20056410907177,51.717159170958645",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
