@@ -214,5 +214,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6669576,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/17/2026 08:05:00",
+    "dateEnd": "09/17/2026 15:05:00",
+    "lastUpdate": "09/14/2026 16:11:07",
+    "postalCode": "38440",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Hagebergstraße ",
+    "radius": 500,
+    "coordinates": "10.74895,52.42251",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
