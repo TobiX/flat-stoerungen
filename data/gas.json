@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6672581,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/15/2026 09:38:16",
+    "dateEnd": null,
+    "lastUpdate": "09/15/2026 11:57:45",
+    "postalCode": "27232",
+    "city": "Sulingen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.808770496666263,52.67742749999999",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
