@@ -322,5 +322,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6677121,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/22/2026 09:36:00",
+    "dateEnd": "09/22/2026 14:36:00",
+    "lastUpdate": "09/16/2026 09:40:13",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Gerhart-Hauptmann-Straße ",
+    "radius": 500,
+    "coordinates": "10.838669,52.44525",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
