@@ -1,23 +1,5 @@
 [
   {
-    "id": 6668767,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "09/16/2026 09:00:00",
-    "dateEnd": "09/16/2026 16:00:00",
-    "lastUpdate": "09/14/2026 12:55:39",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Uhlenhorst ",
-    "radius": 150,
-    "coordinates": "10.774824,52.403316",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6672068,
     "operatorId": 186,
     "type": 2,
