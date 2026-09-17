@@ -36,24 +36,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6679023,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "09/16/2026 18:36:34",
-    "dateEnd": null,
-    "lastUpdate": "09/16/2026 21:27:39",
-    "postalCode": "50126",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.626825708248283,50.9548135",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6680933,
     "operatorId": 198,
     "type": 1,
