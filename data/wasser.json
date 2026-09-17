@@ -54,24 +54,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6676905,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "09/16/2026 08:39:00",
-    "dateEnd": "09/16/2026 12:00:00",
-    "lastUpdate": "09/16/2026 08:40:46",
-    "postalCode": "38315",
-    "city": "Schladen-Werla",
-    "district": null,
-    "street": "Teichwiese 8",
-    "radius": 100,
-    "coordinates": "10.573443,52.01905",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6679023,
     "operatorId": 132,
     "type": 1,
