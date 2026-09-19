@@ -1,23 +1,5 @@
 [
   {
-    "id": 6287172,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "06/26/2026 23:10:29",
-    "dateEnd": "07/26/2026 23:10:29",
-    "lastUpdate": "06/26/2026 23:10:30",
-    "postalCode": "74906",
-    "city": "Bad Rappenau",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.124127;49.250014",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6294408,
     "operatorId": 237,
     "type": 10,
@@ -2788,24 +2770,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6425669,
-    "operatorId": 294,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/24/2026 23:24:12",
-    "dateEnd": "08/24/2026 23:24:12",
-    "lastUpdate": "07/24/2026 23:24:13",
-    "postalCode": "58300",
-    "city": "Wetter (Ruhr)",
-    "district": "Ennepe-Ruhr-Kreis",
-    "street": "An der Pferdebahn",
-    "radius": null,
-    "coordinates": "7.367381,51.361393",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "AVU Netz GmbH"
   },
   {
     "id": 6425679,
@@ -9214,24 +9178,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Plettenberg"
-  },
-  {
-    "id": 6557728,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/22/2026 00:08:59",
-    "dateEnd": "09/22/2026 00:08:59",
-    "lastUpdate": "08/22/2026 00:08:59",
-    "postalCode": "52372",
-    "city": "Kreuzau",
-    "district": "Stockheim",
-    "street": "Zum Schmitzbusch",
-    "radius": null,
-    "coordinates": "6.5314261;50.7533463",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6559345,
@@ -34756,5 +34702,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "ENERVIE Vernetzt GmbH"
+  },
+  {
+    "id": 6688924,
+    "operatorId": 4537,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/19/2026 00:23:11",
+    "dateEnd": "10/19/2026 00:23:11",
+    "lastUpdate": "09/19/2026 00:23:13",
+    "postalCode": "99869",
+    "city": "Drei Gleichen",
+    "district": "Landkreis Gotha",
+    "street": "Am Oberried",
+    "radius": null,
+    "coordinates": "10.763581,50.89992",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Gemeinde Drei Gleichen"
   }
 ]
