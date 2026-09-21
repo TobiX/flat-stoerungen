@@ -34450,5 +34450,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadt Linnich"
+  },
+  {
+    "id": 6697101,
+    "operatorId": 286,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/20/2026 23:36:19",
+    "dateEnd": "10/20/2026 23:36:19",
+    "lastUpdate": "09/20/2026 23:36:20",
+    "postalCode": "40883",
+    "city": "Ratingen",
+    "district": "Hösel",
+    "street": "An der Burg",
+    "radius": null,
+    "coordinates": "6.915132,51.333783",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Ratingen GmbH"
+  },
+  {
+    "id": 6697282,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/21/2026 00:29:51",
+    "dateEnd": "10/21/2026 00:29:51",
+    "lastUpdate": "09/21/2026 00:29:51",
+    "postalCode": "56588",
+    "city": "Waldbreitbach",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "7.400659;50.555241",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
