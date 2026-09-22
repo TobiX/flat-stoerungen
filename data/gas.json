@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 6704107,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/22/2026 09:51:10",
+    "dateEnd": null,
+    "lastUpdate": "09/22/2026 11:48:31",
+    "postalCode": "27232",
+    "city": "Sulingen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.739484996847182,52.701559",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6704548,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/22/2026 11:31:21",
+    "dateEnd": null,
+    "lastUpdate": "09/22/2026 11:48:31",
+    "postalCode": "52388",
+    "city": "Nörvenich",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.648939236221933,50.809612",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
