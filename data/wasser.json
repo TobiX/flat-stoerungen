@@ -1,23 +1,5 @@
 [
   {
-    "id": 6699384,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "09/22/2026 10:00:00",
-    "dateEnd": "09/22/2026 13:00:00",
-    "lastUpdate": "09/21/2026 10:47:03",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Karl-May-Straße ",
-    "radius": 200,
-    "coordinates": "10.711098,52.41366",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6700004,
     "operatorId": 186,
     "type": 2,
@@ -234,24 +216,6 @@
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   },
   {
-    "id": 6708714,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "09/23/2026 08:44:08",
-    "dateEnd": null,
-    "lastUpdate": "09/23/2026 13:18:55",
-    "postalCode": "50189",
-    "city": "Elsdorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.545979747989422,50.94505",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6708915,
     "operatorId": 3331,
     "type": 1,
@@ -268,5 +232,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6710562,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/23/2026 17:26:54",
+    "dateEnd": null,
+    "lastUpdate": "09/23/2026 18:38:09",
+    "postalCode": "50169",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.717870221421049,50.9080795",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
