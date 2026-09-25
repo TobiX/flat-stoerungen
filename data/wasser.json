@@ -88,5 +88,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6718203,
+    "operatorId": 1763,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "09/25/2026 07:01:00",
+    "dateEnd": "09/25/2026 15:00:00",
+    "lastUpdate": "09/25/2026 07:03:42",
+    "postalCode": "94227",
+    "city": "Zwiesel",
+    "district": null,
+    "street": "Am Sonnenhügel ",
+    "radius": 1000,
+    "coordinates": "13.23741,49.02461",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Zwiesel"
+  },
+  {
+    "id": 6718260,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "09/25/2026 07:52:00",
+    "dateEnd": "09/25/2026 13:00:00",
+    "lastUpdate": "09/25/2026 07:53:02",
+    "postalCode": "38667",
+    "city": "Bad Harzburg",
+    "district": null,
+    "street": "Fasanenstraße ",
+    "radius": 500,
+    "coordinates": "10.568102,51.90337",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
