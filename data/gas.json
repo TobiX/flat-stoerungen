@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6720488,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/25/2026 19:21:05",
+    "dateEnd": null,
+    "lastUpdate": "09/25/2026 20:07:53",
+    "postalCode": "59469",
+    "city": "Ense",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.960458487666914,51.508236499999995",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
