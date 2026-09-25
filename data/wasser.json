@@ -18,24 +18,6 @@
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
   },
   {
-    "id": 6705396,
-    "operatorId": 3311,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "09/24/2026 08:00:00",
-    "dateEnd": "09/24/2026 10:00:00",
-    "lastUpdate": "09/22/2026 15:07:53",
-    "postalCode": "38518",
-    "city": "Gifhorn",
-    "district": null,
-    "street": "Dannenbütteler Weg 48",
-    "radius": 150,
-    "coordinates": "10.570944,52.485546",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
     "id": 6716505,
     "operatorId": 350,
     "type": 1,
@@ -72,42 +54,6 @@
     "operatorName": "Regionetz GmbH"
   },
   {
-    "id": 6716509,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "09/24/2026 22:01:36",
-    "dateEnd": null,
-    "lastUpdate": "09/24/2026 22:07:53",
-    "postalCode": "50170",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.673580472722212,50.9072055",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6718203,
-    "operatorId": 1763,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "09/25/2026 07:01:00",
-    "dateEnd": "09/25/2026 15:00:00",
-    "lastUpdate": "09/25/2026 07:03:42",
-    "postalCode": "94227",
-    "city": "Zwiesel",
-    "district": null,
-    "street": "Am Sonnenhügel ",
-    "radius": 1000,
-    "coordinates": "13.23741,49.02461",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Zwiesel"
-  },
-  {
     "id": 6718260,
     "operatorId": 259,
     "type": 1,
@@ -124,5 +70,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6719492,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/25/2026 11:36:07",
+    "dateEnd": null,
+    "lastUpdate": "09/25/2026 13:57:58",
+    "postalCode": "50169",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.74197122531309,50.868091",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
