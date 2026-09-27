@@ -1,23 +1,5 @@
 [
   {
-    "id": 6328058,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/05/2026 07:40:29",
-    "dateEnd": "08/05/2026 07:40:29",
-    "lastUpdate": "07/05/2026 07:40:31",
-    "postalCode": "65760",
-    "city": "Eschborn",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.575696;50.145485",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6331273,
     "operatorId": 237,
     "type": 10,
@@ -2700,24 +2682,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6449630,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/29/2026 20:18:17",
-    "dateEnd": "08/29/2026 20:18:17",
-    "lastUpdate": "07/29/2026 20:18:17",
-    "postalCode": "56276",
-    "city": "Großmaischeid",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.640786;50.506041",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6449822,
     "operatorId": 237,
     "type": 10,
@@ -3418,24 +3382,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
-    "id": 6476126,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/03/2026 21:56:34",
-    "dateEnd": "09/03/2026 21:56:34",
-    "lastUpdate": "08/03/2026 21:56:35",
-    "postalCode": "56276",
-    "city": "Großmaischeid",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.638553;50.505984",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
   },
   {
     "id": 6477908,
@@ -7555,24 +7501,6 @@
     "street": "",
     "radius": null,
     "coordinates": "7.63437891216653;50.5066243844273",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6557274,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/21/2026 21:22:48",
-    "dateEnd": "09/21/2026 21:22:48",
-    "lastUpdate": "08/21/2026 21:22:49",
-    "postalCode": "56276",
-    "city": "Großmaischeid",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.63483257904784;50.5066190059501",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
@@ -15786,24 +15714,6 @@
     "operatorName": "Westnetz GmbH"
   },
   {
-    "id": 6621400,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/05/2026 01:01:40",
-    "dateEnd": "10/05/2026 01:01:40",
-    "lastUpdate": "09/05/2026 01:01:40",
-    "postalCode": "71570",
-    "city": "Oppenweiler",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "9.454042;48.982345",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6621401,
     "operatorId": 132,
     "type": 10,
@@ -23002,24 +22912,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6670107,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/14/2026 19:22:39",
-    "dateEnd": "10/14/2026 19:22:39",
-    "lastUpdate": "09/14/2026 19:22:39",
-    "postalCode": "65594",
-    "city": "Runkel",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.161978;50.42472",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
   },
   {
     "id": 6670108,
@@ -30834,24 +30726,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6702993,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/22/2026 05:08:44",
-    "dateEnd": "10/22/2026 05:08:44",
-    "lastUpdate": "09/22/2026 05:08:44",
-    "postalCode": "53567",
-    "city": "Buchholz (Westerwald)",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.391759;50.684376",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6703009,
     "operatorId": 237,
     "type": 10,
@@ -32287,24 +32161,6 @@
     "street": "",
     "radius": null,
     "coordinates": "8.424526;50.114696",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6708196,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/23/2026 06:18:43",
-    "dateEnd": "10/23/2026 06:18:43",
-    "lastUpdate": "09/23/2026 06:18:44",
-    "postalCode": "65719",
-    "city": "Hofheim am Taunus",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "8.423792;50.115217",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
@@ -37078,5 +36934,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6727208,
+    "operatorId": 132,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/27/2026 09:10:39",
+    "dateEnd": "10/27/2026 09:10:39",
+    "lastUpdate": "09/27/2026 09:10:38",
+    "postalCode": "54439",
+    "city": "Palzem",
+    "district": "Palzem",
+    "street": "Friedens Aue",
+    "radius": null,
+    "coordinates": "6.37043393;49.56673503",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
