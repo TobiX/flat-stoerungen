@@ -16,5 +16,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6730909,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/27/2026 20:26:00",
+    "dateEnd": "09/28/2026 15:00:00",
+    "lastUpdate": "09/28/2026 07:05:37",
+    "postalCode": "95447",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5828852,49.9318555",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 28.09.2026 15:00\nMonteur informiert um 27.09.2026 20:30\nMonteur vor Ort seit 27.09.2026 20:55\nStandort Notwasser: Eichendorffring bei 41 Kreuzung Heinrich-Heine-Str., Bayreuth-Frankengut, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]

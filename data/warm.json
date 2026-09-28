@@ -34,5 +34,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6731103,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "09/30/2026 08:18:00",
+    "dateEnd": "09/30/2026 14:36:00",
+    "lastUpdate": "09/28/2026 06:41:49",
+    "postalCode": "38446",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Stieglitzring ",
+    "radius": 500,
+    "coordinates": "10.81276,52.423878",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6731439,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "10/01/2026 07:37:00",
+    "dateEnd": "10/01/2026 12:37:00",
+    "lastUpdate": "09/28/2026 07:38:29",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Torfweg ",
+    "radius": 500,
+    "coordinates": "10.778683,52.445354",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
