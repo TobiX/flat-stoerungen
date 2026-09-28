@@ -1,23 +1,5 @@
 [
   {
-    "id": 6331489,
-    "operatorId": 237,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "07/06/2026 00:26:44",
-    "dateEnd": "08/06/2026 00:26:44",
-    "lastUpdate": "07/06/2026 00:26:44",
-    "postalCode": "53562",
-    "city": "Sankt Katharinen (Landkreis Neuwied)",
-    "district": "",
-    "street": "",
-    "radius": null,
-    "coordinates": "7.349088;50.594783",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Syna GmbH"
-  },
-  {
     "id": 6336542,
     "operatorId": 237,
     "type": 10,
@@ -37114,5 +37096,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6729966,
+    "operatorId": 528,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "09/28/2026 00:25:11",
+    "dateEnd": "10/28/2026 00:25:11",
+    "lastUpdate": "09/28/2026 00:25:12",
+    "postalCode": "76275",
+    "city": "Ettlingen",
+    "district": "Ettlingen",
+    "street": "Gutenbergstraße",
+    "radius": null,
+    "coordinates": "8.379581,48.947665",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "SWE Netz GmbH (Ettlingen)"
   }
 ]
