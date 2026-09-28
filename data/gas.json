@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6733155,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "09/28/2026 11:02:21",
+    "dateEnd": null,
+    "lastUpdate": "09/28/2026 17:08:00",
+    "postalCode": "27257",
+    "city": "Sudwalde",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.839086248148668,52.7906995",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
