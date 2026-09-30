@@ -72,19 +72,19 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6738419,
+    "id": 6741069,
     "operatorId": 132,
     "type": 1,
     "origin": 5,
-    "dateStart": "09/29/2026 15:30:27",
+    "dateStart": "09/30/2026 08:38:40",
     "dateEnd": null,
-    "lastUpdate": "09/30/2026 08:08:07",
+    "lastUpdate": "09/30/2026 08:57:54",
     "postalCode": "50170",
     "city": "Kerpen",
     "district": null,
     "street": null,
     "radius": null,
-    "coordinates": "6.673580472722212,50.9072055",
+    "coordinates": "6.665794736314716,50.915141",
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
