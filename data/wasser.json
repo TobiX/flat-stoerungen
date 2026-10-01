@@ -96,7 +96,7 @@
     "origin": 5,
     "dateStart": "10/01/2026 13:31:43",
     "dateEnd": null,
-    "lastUpdate": "10/01/2026 18:17:56",
+    "lastUpdate": "10/01/2026 21:47:55",
     "postalCode": "50170",
     "city": "Kerpen",
     "district": null,
@@ -106,5 +106,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6748554,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "10/01/2026 23:45:03",
+    "dateEnd": "10/02/2026 02:50:00",
+    "lastUpdate": "10/01/2026 23:45:03",
+    "postalCode": "45476",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.855179862140301,51.44653868820387",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
