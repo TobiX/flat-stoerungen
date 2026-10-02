@@ -1,23 +1,5 @@
 [
   {
-    "id": 6736573,
-    "operatorId": 220,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/01/2026 08:00:00",
-    "dateEnd": "10/01/2026 12:00:00",
-    "lastUpdate": "09/29/2026 08:52:50",
-    "postalCode": "33790",
-    "city": "Halle (Westf.)",
-    "district": null,
-    "street": "Amshausener Weg 3",
-    "radius": 80,
-    "coordinates": "8.396019,52.037315",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
     "id": 6736576,
     "operatorId": 220,
     "type": 2,
@@ -34,24 +16,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "T.W.O. Technische Werke Osning GmbH"
-  },
-  {
-    "id": 6746328,
-    "operatorId": 198,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "10/01/2026 11:21:00",
-    "dateEnd": "10/01/2026 15:00:00",
-    "lastUpdate": "10/01/2026 11:22:21",
-    "postalCode": "31135",
-    "city": "Hildesheim",
-    "district": null,
-    "street": "Friesentor ",
-    "radius": 500,
-    "coordinates": "10.013525,52.163216",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "EVI Energieversorgung Hildesheim GmbH & Co. KG"
   },
   {
     "id": 6746709,
@@ -162,24 +126,6 @@
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   },
   {
-    "id": 6750258,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/02/2026 08:33:42",
-    "dateEnd": null,
-    "lastUpdate": "10/02/2026 08:38:10",
-    "postalCode": "50169",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.749736225401173,50.8601495",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6750261,
     "operatorId": 528,
     "type": 2,
@@ -232,5 +178,23 @@
     "liveInfo": "Dringende Wartungsarbeiten!!!\nBetroffene Anwesen: Nr. 1-11",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6751257,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/02/2026 13:42:51",
+    "dateEnd": null,
+    "lastUpdate": "10/02/2026 17:37:56",
+    "postalCode": "50171",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.697718709500835,50.867226",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
