@@ -1,23 +1,5 @@
 [
   {
-    "id": 6749994,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/02/2026 06:34:00",
-    "dateEnd": "10/02/2026 18:41:00",
-    "lastUpdate": "10/02/2026 18:41:42",
-    "postalCode": "95448",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5943339,49.94535699999999",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 02.10.2026 20:00\nMonteur informiert um 02.10.2026 06:39\nMonteur vor Ort seit 02.10.2026 07:01\nStandort Notwasser: Grünewaldstraße 4, Ecke Richard-Strauß-Straße 10",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6750261,
     "operatorId": 528,
     "type": 2,
