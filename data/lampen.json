@@ -8028,42 +8028,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6624559,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/05/2026 18:15:14",
-    "dateEnd": "10/05/2026 18:15:14",
-    "lastUpdate": "09/05/2026 18:15:15",
-    "postalCode": "54459",
-    "city": "Wiltingen",
-    "district": "Wiltingen",
-    "street": "ZZ-Dorfplatz",
-    "radius": null,
-    "coordinates": "6.5901053;49.6591171",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6624562,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/05/2026 18:16:01",
-    "dateEnd": "10/05/2026 18:16:01",
-    "lastUpdate": "09/05/2026 18:16:02",
-    "postalCode": "54459",
-    "city": "Wiltingen",
-    "district": "Wiltingen",
-    "street": "ZZ-Dorfplatz",
-    "radius": null,
-    "coordinates": "6.5901338;49.6592972",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6624746,
     "operatorId": 2126,
     "type": 10,
@@ -33028,5 +32992,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Waldshut-Tiengen GmbH"
+  },
+  {
+    "id": 6755715,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/03/2026 14:38:35",
+    "dateEnd": "11/03/2026 14:38:35",
+    "lastUpdate": "10/03/2026 14:38:34",
+    "postalCode": "61389",
+    "city": "Schmitten",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.439622;50.26778",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
