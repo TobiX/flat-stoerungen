@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6760440,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/04/2026 16:55:01",
+    "dateEnd": null,
+    "lastUpdate": "10/04/2026 18:07:56",
+    "postalCode": "56154",
+    "city": "Boppard",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.486927741190653,50.200461000000004",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
