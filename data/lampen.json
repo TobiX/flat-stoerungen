@@ -34378,5 +34378,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6762145,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/05/2026 01:19:54",
+    "dateEnd": "11/05/2026 01:19:54",
+    "lastUpdate": "10/05/2026 01:19:54",
+    "postalCode": "61381",
+    "city": "Friedrichsdorf",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.638768;50.257349",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
