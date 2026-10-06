@@ -124,5 +124,23 @@
     "liveInfo": "Techniker ist zur Entstörung vor Ort",
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6768090,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/06/2026 07:06:00",
+    "dateEnd": "10/06/2026 13:06:00",
+    "lastUpdate": "10/06/2026 07:06:45",
+    "postalCode": "37431",
+    "city": "Bad Lauterberg im Harz",
+    "district": null,
+    "street": "",
+    "radius": 0,
+    "coordinates": "10.43584068306301,51.621141800225914",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
