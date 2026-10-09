@@ -1,23 +1,5 @@
 [
   {
-    "id": 6769680,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/08/2026 09:00:00",
-    "dateEnd": "10/08/2026 13:00:00",
-    "lastUpdate": "10/06/2026 14:44:20",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Otto-Pöhling-Straße 6",
-    "radius": 150,
-    "coordinates": "10.723388,52.414318",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6779784,
     "operatorId": 350,
     "type": 1,
@@ -54,42 +36,6 @@
     "operatorName": "Regionetz GmbH"
   },
   {
-    "id": 6782252,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/09/2026 07:47:03",
-    "dateEnd": null,
-    "lastUpdate": "10/09/2026 10:48:23",
-    "postalCode": "50126",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.648583960472175,50.9633455",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6782253,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/09/2026 07:47:03",
-    "dateEnd": null,
-    "lastUpdate": "10/09/2026 10:48:23",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.648583960472175,50.9633455",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6782267,
     "operatorId": 528,
     "type": 2,
@@ -106,5 +52,23 @@
     "liveInfo": "Dringende Wartungsarbeiten!!!\nBetroffene Anwesen: Nr. 12-28 + 11 a-17",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6783790,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/09/2026 15:07:00",
+    "dateEnd": null,
+    "lastUpdate": "10/09/2026 15:08:07",
+    "postalCode": "50189",
+    "city": "Elsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.576367971516051,50.929502",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]

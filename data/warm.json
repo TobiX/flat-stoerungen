@@ -18,24 +18,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6742317,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/08/2026 07:22:00",
-    "dateEnd": "10/08/2026 15:22:00",
-    "lastUpdate": "09/30/2026 14:23:22",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Max-Valentin-Straße 10",
-    "radius": 500,
-    "coordinates": "10.839848,52.443455",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6742318,
     "operatorId": 186,
     "type": 2,
