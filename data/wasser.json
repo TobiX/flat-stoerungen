@@ -34,5 +34,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6791378,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/11/2026 08:53:00",
+    "dateEnd": "10/11/2026 19:00:00",
+    "lastUpdate": "10/11/2026 10:01:02",
+    "postalCode": "95445",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5566738,49.94579950000001",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 11.10.2026 19:00\nMonteur informiert um 11.10.2026 09:04\nMonteur vor Ort seit 11.10.2026 09:21\nStandort Notwasser: Mosinger Straße 7, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
