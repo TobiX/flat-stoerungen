@@ -34,5 +34,23 @@
     "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 11.10.2026 19:00\nMonteur informiert um 11.10.2026 09:04\nMonteur vor Ort seit 11.10.2026 09:21\nStandort Notwasser: Mosinger Straße 7, Bayreuth, Germany",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6796035,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/12/2026 08:27:00",
+    "dateEnd": "10/12/2026 12:30:00",
+    "lastUpdate": "10/12/2026 08:29:06",
+    "postalCode": "37431",
+    "city": "Bad Lauterberg im Harz",
+    "district": null,
+    "street": "Weißdornweg ",
+    "radius": 500,
+    "coordinates": "10.453698,51.62472",
+    "liveInfo": "Techniker ist zur Entstörung vor Ort",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
