@@ -88,5 +88,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6800969,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/13/2026 07:18:00",
+    "dateEnd": "10/13/2026 08:48:00",
+    "lastUpdate": "10/13/2026 08:15:05",
+    "postalCode": "95445",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5548155,49.9544736",
+    "liveInfo": "Monteur informiert um 13.10.2026 07:18\nMonteur vor Ort seit 13.10.2026 07:25\nStandort Notwasser: Melanchthonstraße 74, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6800970,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/13/2026 07:24:00",
+    "dateEnd": "10/13/2026 08:54:00",
+    "lastUpdate": "10/13/2026 08:15:06",
+    "postalCode": "95445",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5424258,49.9463266",
+    "liveInfo": "Monteur informiert um 13.10.2026 07:24\nMonteur vor Ort seit 13.10.2026 07:38\nStandort Notwasser: Preuschwitzer Straße 91, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
