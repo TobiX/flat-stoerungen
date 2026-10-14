@@ -52,5 +52,41 @@
     "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 13.10.2026 16:00\nMonteur informiert um 13.10.2026 07:24\nMonteur vor Ort seit 13.10.2026 07:38\nStandort Notwasser: Preuschwitzer Straße 91, Bayreuth, Germany",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6805991,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/14/2026 08:19:53",
+    "dateEnd": null,
+    "lastUpdate": "10/14/2026 13:38:27",
+    "postalCode": "50129",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.743485962047784,50.989492",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6806002,
+    "operatorId": 1763,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/14/2026 08:30:00",
+    "dateEnd": "10/14/2026 15:00:00",
+    "lastUpdate": "10/14/2026 08:31:40",
+    "postalCode": "94227",
+    "city": "Zwiesel",
+    "district": null,
+    "street": "Theresienthaler Straße ",
+    "radius": 200,
+    "coordinates": "13.231837,49.026146",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Zwiesel"
   }
 ]
