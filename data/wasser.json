@@ -1,23 +1,5 @@
 [
   {
-    "id": 6797877,
-    "operatorId": 259,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/14/2026 08:30:00",
-    "dateEnd": "10/14/2026 12:30:00",
-    "lastUpdate": "10/12/2026 16:51:19",
-    "postalCode": "38723",
-    "city": "Seesen",
-    "district": null,
-    "street": "Eschengrund ",
-    "radius": 500,
-    "coordinates": "10.196093,51.892067",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6806002,
     "operatorId": 1763,
     "type": 1,
@@ -34,24 +16,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Zwiesel"
-  },
-  {
-    "id": 6807322,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "10/14/2026 13:59:00",
-    "dateEnd": "10/14/2026 12:59:00",
-    "lastUpdate": "10/14/2026 14:00:39",
-    "postalCode": "38667",
-    "city": "Bad Harzburg",
-    "district": null,
-    "street": "An der Wolfswiese ",
-    "radius": 500,
-    "coordinates": "10.537695,51.90343",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
   },
   {
     "id": 6810861,
@@ -106,5 +70,41 @@
     "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.\n\nStandrohr - Senner Hellweg 36 ",
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6812577,
+    "operatorId": 259,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "10/19/2026 08:00:00",
+    "dateEnd": "10/19/2026 12:30:00",
+    "lastUpdate": "10/15/2026 14:17:17",
+    "postalCode": "37431",
+    "city": "Bad Lauterberg im Harz",
+    "district": null,
+    "street": "siedlerstrasse",
+    "radius": 0,
+    "coordinates": "10.43584068306301,51.621141800225914",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
+  },
+  {
+    "id": 6812797,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/15/2026 14:45:00",
+    "dateEnd": "10/15/2026 22:00:00",
+    "lastUpdate": "10/15/2026 16:07:07",
+    "postalCode": "95444",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5893599,49.9360945",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 15.10.2026 22:00\nMonteur informiert um 15.10.2026 14:46\nMonteur vor Ort seit 15.10.2026 14:56\nStandort Notwasser: Hans-Sachs-Straße 15, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
