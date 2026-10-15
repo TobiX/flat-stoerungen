@@ -39544,5 +39544,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6810382,
+    "operatorId": 75,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/15/2026 05:55:46",
+    "dateEnd": "11/15/2026 05:55:46",
+    "lastUpdate": "10/15/2026 05:55:48",
+    "postalCode": "10115",
+    "city": "Berlin",
+    "district": null,
+    "street": "Allee der Kosmonauten",
+    "radius": null,
+    "coordinates": "13.542097,52.524301",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stromnetz Berlin GmbH"
+  },
+  {
+    "id": 6810555,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/15/2026 06:16:24",
+    "dateEnd": "11/15/2026 06:16:24",
+    "lastUpdate": "10/15/2026 06:16:24",
+    "postalCode": "71522",
+    "city": "Backnang",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.427127;48.955966",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
