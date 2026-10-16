@@ -70,5 +70,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Stadtwerke Nortorf AöR"
+  },
+  {
+    "id": 6818304,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/16/2026 19:04:32",
+    "dateEnd": null,
+    "lastUpdate": "10/16/2026 21:48:07",
+    "postalCode": "50129",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.743485962047784,50.989492",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
