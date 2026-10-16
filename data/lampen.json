@@ -2214,24 +2214,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6553690,
-    "operatorId": 528,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/21/2026 00:42:49",
-    "dateEnd": "09/21/2026 00:42:49",
-    "lastUpdate": "08/21/2026 00:42:53",
-    "postalCode": "76275",
-    "city": "Ettlingen",
-    "district": "Ettlingen",
-    "street": "Huttenkreuzstraße",
-    "radius": null,
-    "coordinates": "8.409811,48.945953",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
     "id": 6553695,
     "operatorId": 237,
     "type": 10,
@@ -41038,5 +41020,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6814512,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/16/2026 00:33:55",
+    "dateEnd": "11/16/2026 00:33:55",
+    "lastUpdate": "10/16/2026 00:33:56",
+    "postalCode": "65239",
+    "city": "Hochheim am Main",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "8.345079;50.013509",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
   }
 ]
