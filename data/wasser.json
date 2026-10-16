@@ -18,24 +18,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6812797,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/15/2026 14:45:00",
-    "dateEnd": "10/15/2026 21:05:00",
-    "lastUpdate": "10/15/2026 21:43:07",
-    "postalCode": "95444",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5893599,49.9360945",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 15.10.2026 22:00\nMonteur informiert um 15.10.2026 14:46\nMonteur vor Ort seit 15.10.2026 14:56\nStandort Notwasser: Hans-Sachs-Straße 15, Bayreuth, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6816593,
     "operatorId": 222,
     "type": 1,
@@ -78,7 +60,7 @@
     "origin": 5,
     "dateStart": "10/16/2026 19:04:32",
     "dateEnd": null,
-    "lastUpdate": "10/16/2026 21:48:07",
+    "lastUpdate": "10/17/2026 00:38:06",
     "postalCode": "50129",
     "city": "Bergheim",
     "district": null,
