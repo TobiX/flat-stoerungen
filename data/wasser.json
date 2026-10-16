@@ -36,24 +36,6 @@
     "operatorName": "Stadtwerke Nortorf AöR"
   },
   {
-    "id": 6811381,
-    "operatorId": 222,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "10/15/2026 09:48:00",
-    "dateEnd": "10/15/2026 20:00:00",
-    "lastUpdate": "10/15/2026 09:49:50",
-    "postalCode": "33659",
-    "city": "Bielefeld",
-    "district": null,
-    "street": "Nolkenfeld 6",
-    "radius": 150,
-    "coordinates": "8.549066,51.97365",
-    "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.\n\nStandrohr - Senner Hellweg 36 ",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6812577,
     "operatorId": 259,
     "type": 2,
@@ -88,5 +70,41 @@
     "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 15.10.2026 22:00\nMonteur informiert um 15.10.2026 14:46\nMonteur vor Ort seit 15.10.2026 14:56\nStandort Notwasser: Hans-Sachs-Straße 15, Bayreuth, Germany",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6816593,
+    "operatorId": 222,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/16/2026 10:46:00",
+    "dateEnd": "10/16/2026 18:30:00",
+    "lastUpdate": "10/16/2026 10:48:35",
+    "postalCode": "33719",
+    "city": "Bielefeld",
+    "district": null,
+    "street": "Drakestraße 5",
+    "radius": 150,
+    "coordinates": "8.595,52.02909",
+    "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.\n\nStandrohr befindet sich an der Drakestraße ecke Am Meierhof. ",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6816760,
+    "operatorId": 149,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "10/20/2026 08:00:00",
+    "dateEnd": "10/20/2026 14:00:00",
+    "lastUpdate": "10/16/2026 11:18:19",
+    "postalCode": "24589",
+    "city": "Nortorf",
+    "district": null,
+    "street": "Herbergstraße 10",
+    "radius": 500,
+    "coordinates": "9.850475,54.17065",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Nortorf AöR"
   }
 ]
