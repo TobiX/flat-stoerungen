@@ -142,5 +142,23 @@
     "liveInfo": "Monteur informiert um 17.10.2026 10:33\nMonteur vor Ort seit 17.10.2026 10:50",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6823037,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/17/2026 19:50:19",
+    "dateEnd": null,
+    "lastUpdate": "10/17/2026 20:18:09",
+    "postalCode": "33397",
+    "city": "Rietberg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.428189493230711,51.8107455",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
