@@ -144,21 +144,21 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6818332,
-    "operatorId": 132,
+    "id": 6821286,
+    "operatorId": 1782,
     "type": 1,
     "origin": 5,
-    "dateStart": "10/16/2026 19:53:25",
-    "dateEnd": null,
-    "lastUpdate": "10/16/2026 20:48:26",
-    "postalCode": "49767",
-    "city": "Twist",
+    "dateStart": "10/17/2026 10:29:00",
+    "dateEnd": "10/17/2026 11:45:00",
+    "lastUpdate": "10/17/2026 11:57:09",
+    "postalCode": "95444",
+    "city": "Bayreuth",
     "district": null,
     "street": null,
-    "radius": null,
-    "coordinates": "7.097194705353147,52.638054",
-    "liveInfo": null,
+    "radius": 1,
+    "coordinates": "11.574607,49.94196640000001",
+    "liveInfo": "Monteur informiert um 17.10.2026 10:33\nMonteur vor Ort seit 17.10.2026 10:50",
     "isFixed": false,
-    "operatorName": "Westnetz GmbH"
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
