@@ -18,24 +18,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6816593,
-    "operatorId": 222,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "10/16/2026 10:46:00",
-    "dateEnd": "10/16/2026 18:30:00",
-    "lastUpdate": "10/16/2026 10:48:35",
-    "postalCode": "33719",
-    "city": "Bielefeld",
-    "district": null,
-    "street": "Drakestraße 5",
-    "radius": 150,
-    "coordinates": "8.595,52.02909",
-    "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.\n\nStandrohr befindet sich an der Drakestraße ecke Am Meierhof. ",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6816760,
     "operatorId": 149,
     "type": 2,
