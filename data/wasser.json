@@ -52,5 +52,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6825494,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/18/2026 05:44:00",
+    "dateEnd": "10/18/2026 15:00:00",
+    "lastUpdate": "10/18/2026 07:45:13",
+    "postalCode": "95447",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.5571039,49.9356581",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 18.10.2026 15:00\nMonteur informiert um 18.10.2026 05:46\nMonteur vor Ort seit 18.10.2026 06:04\nStandort Notwasser: Böcklinstraße 34, Bayreuth, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
+  },
+  {
+    "id": 6825698,
+    "operatorId": 222,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/18/2026 08:31:00",
+    "dateEnd": "10/18/2026 23:30:00",
+    "lastUpdate": "10/18/2026 08:33:44",
+    "postalCode": "33699",
+    "city": "Bielefeld",
+    "district": null,
+    "street": "Kolmarer Straße ",
+    "radius": 500,
+    "coordinates": "8.605269,51.996014",
+    "liveInfo": "Monteur ist vor Ort und behebt die Störung.\nStandrohr zur Wasserentnahme an der Kolmarer Straße höhe Hausnummer 107.",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
   }
 ]
