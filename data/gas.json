@@ -124,5 +124,23 @@
     "liveInfo": "Funktionsprüfung Gasstation Nr. 25\nbetroffene Anwesen: 164-174, 62 und 160",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6831675,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/19/2026 10:38:43",
+    "dateEnd": null,
+    "lastUpdate": "10/19/2026 14:28:27",
+    "postalCode": "59955",
+    "city": "Winterberg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.52502224717226,51.196382",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
