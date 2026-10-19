@@ -36,24 +36,6 @@
     "operatorName": "Stadtwerke Nortorf AöR"
   },
   {
-    "id": 6825494,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/18/2026 05:44:00",
-    "dateEnd": "10/18/2026 17:20:00",
-    "lastUpdate": "10/18/2026 17:29:10",
-    "postalCode": "95447",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5571039,49.9356581",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 18.10.2026 15:00\nMonteur informiert um 18.10.2026 05:46\nMonteur vor Ort seit 18.10.2026 06:04\nStandort Notwasser: Böcklinstraße 34, Bayreuth, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6825698,
     "operatorId": 222,
     "type": 1,
@@ -70,5 +52,41 @@
     "liveInfo": "Monteur ist vor Ort und behebt die Störung.\nStandrohr zur Wasserentnahme an der Kolmarer Straße höhe Hausnummer 107.",
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6833375,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/19/2026 17:55:42",
+    "dateEnd": null,
+    "lastUpdate": "10/19/2026 21:08:11",
+    "postalCode": "50171",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.704696461419607,50.8754555",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6833963,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/19/2026 20:23:00",
+    "dateEnd": "10/20/2026 03:23:00",
+    "lastUpdate": "10/19/2026 20:25:42",
+    "postalCode": "37520",
+    "city": "Osterode am Harz",
+    "district": null,
+    "street": "Am Alten Riefensbeek ",
+    "radius": 500,
+    "coordinates": "10.377257,51.75373",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
