@@ -124,23 +124,5 @@
     "liveInfo": "Funktionsprüfung Gasstation Nr. 25\nbetroffene Anwesen: 164-174, 62 und 160",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
-    "id": 6837749,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/20/2026 13:12:38",
-    "dateEnd": null,
-    "lastUpdate": "10/20/2026 21:08:10",
-    "postalCode": "55442",
-    "city": "Stromberg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.777496742907473,49.936856",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]
