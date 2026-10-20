@@ -54,24 +54,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6830868,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/19/2026 09:07:00",
-    "dateEnd": "10/19/2026 13:34:00",
-    "lastUpdate": "10/19/2026 07:36:26",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Hoffmannstraße ",
-    "radius": 500,
-    "coordinates": "10.715348,52.41696",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6830869,
     "operatorId": 186,
     "type": 2,
