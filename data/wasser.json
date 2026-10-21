@@ -88,5 +88,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6840965,
+    "operatorId": 1782,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/21/2026 03:55:00",
+    "dateEnd": "10/21/2026 18:00:00",
+    "lastUpdate": "10/21/2026 05:53:20",
+    "postalCode": "95448",
+    "city": "Bayreuth",
+    "district": null,
+    "street": null,
+    "radius": 1,
+    "coordinates": "11.620091,49.9335731",
+    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 21.10.2026 18:00\nMonteur informiert um 21.10.2026 03:57\nMonteur vor Ort seit 21.10.2026 04:25\nStandort Notwasser: Uranusstraße 12, Bayreuth-Aichig, Germany",
+    "isFixed": false,
+    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
   }
 ]
