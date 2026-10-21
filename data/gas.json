@@ -124,5 +124,23 @@
     "liveInfo": "Funktionsprüfung Gasstation Nr. 25\nbetroffene Anwesen: 164-174, 62 und 160",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6842626,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/21/2026 11:08:36",
+    "dateEnd": null,
+    "lastUpdate": "10/21/2026 14:28:27",
+    "postalCode": "33829",
+    "city": "Borgholzhausen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.219892494957243,52.0926615",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
