@@ -106,5 +106,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6846880,
+    "operatorId": 259,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/22/2026 09:07:00",
+    "dateEnd": "10/22/2026 14:00:00",
+    "lastUpdate": "10/22/2026 09:08:40",
+    "postalCode": "37520",
+    "city": "Osterode am Harz",
+    "district": null,
+    "street": "sösetalstrasse 29",
+    "radius": 0,
+    "coordinates": "10.20056410907177,51.717069984457055",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Harz Energie Netz GmbH"
   }
 ]
