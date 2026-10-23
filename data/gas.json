@@ -1,23 +1,5 @@
 [
   {
-    "id": 6816361,
-    "operatorId": 528,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/22/2026 13:00:00",
-    "dateEnd": "10/22/2026 14:30:00",
-    "lastUpdate": "10/16/2026 09:46:12",
-    "postalCode": "76275",
-    "city": "Ettlingen",
-    "district": null,
-    "street": "Pforzheimer Straße ",
-    "radius": 500,
-    "coordinates": "8.428998,48.935562",
-    "liveInfo": "Funktionsprüfung Gasstation Nr. 25\nbetroffene Anwesen: 164-174, 62 und 160",
-    "isFixed": false,
-    "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
     "id": 6851504,
     "operatorId": 350,
     "type": 1,
