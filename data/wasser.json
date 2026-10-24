@@ -36,24 +36,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6851270,
-    "operatorId": 528,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/23/2026 09:00:00",
-    "dateEnd": "10/23/2026 12:00:00",
-    "lastUpdate": "10/23/2026 09:03:27",
-    "postalCode": "76275",
-    "city": "Ettlingen",
-    "district": null,
-    "street": "Buchenweg",
-    "radius": 0,
-    "coordinates": "8.405371725433103,48.926736183244294",
-    "liveInfo": "Dringende Wartungsarbeiten!!!\nBetroffene Anwesen: Buchenweg 13-31",
-    "isFixed": false,
-    "operatorName": "SWE Netz GmbH (Ettlingen)"
-  },
-  {
     "id": 6851960,
     "operatorId": 259,
     "type": 2,
