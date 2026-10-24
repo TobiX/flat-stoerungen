@@ -18,24 +18,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6847120,
-    "operatorId": 152,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "10/22/2026 10:30:00",
-    "dateEnd": "10/23/2026 06:30:00",
-    "lastUpdate": "10/23/2026 09:55:55",
-    "postalCode": "24937",
-    "city": "Flensburg",
-    "district": null,
-    "street": "Marienallee 39",
-    "radius": 100,
-    "coordinates": "9.416237,54.780865",
-    "liveInfo": "Unsere Techniker haben die Trinkwasserversorgung erfolgreich wiederhergestellt. Wir danken für Ihr Verständnis!",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Flensburg GmbH"
-  },
-  {
     "id": 6851119,
     "operatorId": 186,
     "type": 2,
