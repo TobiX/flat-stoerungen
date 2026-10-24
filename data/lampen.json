@@ -2502,24 +2502,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6591051,
-    "operatorId": 5181,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/29/2026 23:39:34",
-    "dateEnd": "09/29/2026 23:39:34",
-    "lastUpdate": "08/29/2026 23:39:34",
-    "postalCode": "48477",
-    "city": "Hörstel",
-    "district": "Kreis Steinfurt",
-    "street": "Bevergerner Straße",
-    "radius": null,
-    "coordinates": "7.609509,52.26771",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Hörstel"
-  },
-  {
     "id": 6594939,
     "operatorId": 3359,
     "type": 10,
@@ -10078,24 +10060,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6725651,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/27/2026 00:36:11",
-    "dateEnd": "10/27/2026 00:36:11",
-    "lastUpdate": "09/27/2026 00:36:10",
-    "postalCode": "47551",
-    "city": "Bedburg-Hau",
-    "district": "Schneppenbaum",
-    "street": "Heidehügel",
-    "radius": null,
-    "coordinates": "6.19887881;51.76540696",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6727208,
@@ -39706,5 +39670,41 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Verbandsgemeinde Brohltal"
+  },
+  {
+    "id": 6858509,
+    "operatorId": 222,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/24/2026 22:50:49",
+    "dateEnd": "11/24/2026 22:50:49",
+    "lastUpdate": "10/24/2026 22:50:49",
+    "postalCode": "33729",
+    "city": "Bielefeld",
+    "district": "Kreisfreie Stadt Bielefeld",
+    "street": "Fortbuchenweg",
+    "radius": null,
+    "coordinates": "8.636460,52.039072",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6858855,
+    "operatorId": 4007,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "10/25/2026 00:05:24",
+    "dateEnd": "11/25/2026 00:05:24",
+    "lastUpdate": "10/25/2026 00:05:25",
+    "postalCode": "56235",
+    "city": "Ransbach-Baumbach",
+    "district": "Westerwaldkreis",
+    "street": "In der Speidt",
+    "radius": null,
+    "coordinates": "7.729348,50.471749",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Verbandsgemeinde Ransbach-Baumbach"
   }
 ]
