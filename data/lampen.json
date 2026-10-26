@@ -2430,24 +2430,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6595285,
-    "operatorId": 4026,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/30/2026 22:28:41",
-    "dateEnd": "09/30/2026 22:28:41",
-    "lastUpdate": "08/30/2026 22:28:45",
-    "postalCode": "64646",
-    "city": "Heppenheim (Bergstraße)",
-    "district": "Bergstraße",
-    "street": "Im Bachemark",
-    "radius": null,
-    "coordinates": "8.630279,49.638297",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Kreisstadt Heppenheim"
-  },
-  {
     "id": 6595631,
     "operatorId": 237,
     "type": 10,
@@ -10024,24 +10006,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6729605,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/27/2026 22:23:19",
-    "dateEnd": "10/27/2026 22:23:19",
-    "lastUpdate": "09/27/2026 22:23:19",
-    "postalCode": "66907",
-    "city": "Glan-Münchweiler",
-    "district": "",
-    "street": "Kirchstr.",
-    "radius": null,
-    "coordinates": "7.442088,49.471484",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6729608,
@@ -40604,6 +40568,24 @@
     "radius": null,
     "coordinates": "8.369486;50.064457",
     "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6864397,
+    "operatorId": 237,
+    "type": 10,
+    "origin": 11,
+    "dateStart": "10/25/2026 23:01:08",
+    "dateEnd": "11/25/2026 23:01:08",
+    "lastUpdate": "10/26/2026 01:01:36",
+    "postalCode": "71364",
+    "city": "Winnenden",
+    "district": "",
+    "street": "",
+    "radius": null,
+    "coordinates": "9.407378;48.872698",
+    "liveInfo": "Leuchte blinkt",
     "isFixed": false,
     "operatorName": "Syna GmbH"
   }
