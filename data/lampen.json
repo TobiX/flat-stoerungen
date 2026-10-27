@@ -2574,24 +2574,6 @@
     "operatorName": "Syna GmbH"
   },
   {
-    "id": 6600300,
-    "operatorId": 1995,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "08/31/2026 23:33:15",
-    "dateEnd": "09/30/2026 23:33:15",
-    "lastUpdate": "08/31/2026 23:33:20",
-    "postalCode": "01108",
-    "city": "Dresden",
-    "district": "Stadt Dresden",
-    "street": "Altgomlitz",
-    "radius": null,
-    "coordinates": "13.790071,51.149158",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Rathaus Dresden"
-  },
-  {
     "id": 6600462,
     "operatorId": 237,
     "type": 10,
@@ -2608,24 +2590,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6600613,
-    "operatorId": 2133,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/01/2026 01:52:58",
-    "dateEnd": "10/01/2026 01:52:58",
-    "lastUpdate": "09/01/2026 01:53:03",
-    "postalCode": "59399",
-    "city": "Olfen",
-    "district": null,
-    "street": "Oststraße",
-    "radius": null,
-    "coordinates": "7.383081,51.707649",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Stadt Olfen"
   },
   {
     "id": 6600751,
@@ -10276,24 +10240,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6734756,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "09/28/2026 23:01:02",
-    "dateEnd": "10/28/2026 23:01:02",
-    "lastUpdate": "09/28/2026 23:01:02",
-    "postalCode": "66887",
-    "city": "Bosenbach",
-    "district": "",
-    "street": "Eckstr.",
-    "radius": null,
-    "coordinates": "7.527081,49.542185",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
   },
   {
     "id": 6735839,

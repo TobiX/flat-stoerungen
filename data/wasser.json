@@ -54,24 +54,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6863759,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "10/25/2026 22:33:23",
-    "dateEnd": "10/26/2026 01:35:00",
-    "lastUpdate": "10/26/2026 00:39:04",
-    "postalCode": "37441",
-    "city": "Bad Sachsa",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.54418240313769,51.59460444506584",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6864175,
     "operatorId": 350,
     "type": 1,
