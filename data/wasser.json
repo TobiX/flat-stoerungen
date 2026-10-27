@@ -72,24 +72,6 @@
     "operatorName": "SWE Netz GmbH (Ettlingen)"
   },
   {
-    "id": 6871487,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/27/2026 10:11:51",
-    "dateEnd": null,
-    "lastUpdate": "10/27/2026 14:18:13",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.506883958101569,50.984680499999996",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6871708,
     "operatorId": 528,
     "type": 1,
@@ -142,5 +124,23 @@
     "liveInfo": "Dringende Wartungsarbeiten aufgrund eines Rohrbruchs. \nBetroffenes Anwesen: Haus-Nr. 2",
     "isFixed": false,
     "operatorName": "SWE Netz GmbH (Ettlingen)"
+  },
+  {
+    "id": 6873506,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/27/2026 20:59:56",
+    "dateEnd": null,
+    "lastUpdate": "10/27/2026 22:28:11",
+    "postalCode": "50181",
+    "city": "Bedburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.5573619836571115,51.0100215",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
