@@ -160,5 +160,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6875297,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "11/03/2026 08:02:00",
+    "dateEnd": "11/03/2026 12:02:00",
+    "lastUpdate": "10/28/2026 08:04:44",
+    "postalCode": "38444",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Jakob-Kaiser-Weg ",
+    "radius": 500,
+    "coordinates": "10.757358,52.392822",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
