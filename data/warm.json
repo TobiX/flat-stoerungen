@@ -1,23 +1,5 @@
 [
   {
-    "id": 6831911,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/28/2026 08:18:00",
-    "dateEnd": "10/28/2026 13:40:00",
-    "lastUpdate": "10/19/2026 11:41:45",
-    "postalCode": "38446",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Fanny-Lewald-Ring ",
-    "radius": 500,
-    "coordinates": "10.830571,52.416275",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6836413,
     "operatorId": 186,
     "type": 2,
@@ -31,24 +13,6 @@
     "street": "Königswiese 2",
     "radius": 500,
     "coordinates": "10.784848,52.414463",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6846412,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "10/28/2026 12:49:00",
-    "dateEnd": "10/28/2026 15:49:00",
-    "lastUpdate": "10/22/2026 07:50:39",
-    "postalCode": "38446",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Ostpreußenstraße ",
-    "radius": 500,
-    "coordinates": "10.818649,52.422977",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
