@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6879766,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/29/2026 08:51:41",
+    "dateEnd": null,
+    "lastUpdate": "10/29/2026 08:58:17",
+    "postalCode": "45768",
+    "city": "Marl",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.057255466768947,51.626202500000005",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
