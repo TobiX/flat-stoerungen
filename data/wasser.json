@@ -1,23 +1,5 @@
 [
   {
-    "id": 6881322,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/29/2026 15:27:13",
-    "dateEnd": null,
-    "lastUpdate": "10/30/2026 09:08:17",
-    "postalCode": "50169",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.717870221421049,50.9080795",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6881610,
     "operatorId": 259,
     "type": 2,
@@ -132,7 +114,7 @@
     "origin": 5,
     "dateStart": "10/30/2026 14:56:24",
     "dateEnd": null,
-    "lastUpdate": "10/30/2026 16:48:11",
+    "lastUpdate": "10/30/2026 17:48:11",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,

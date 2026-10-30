@@ -1,23 +1,5 @@
 [
   {
-    "id": 6881470,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/29/2026 18:29:59",
-    "dateEnd": null,
-    "lastUpdate": "10/29/2026 20:48:11",
-    "postalCode": "57250",
-    "city": "Netphen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.047710488874465,50.9103165",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6881777,
     "operatorId": 132,
     "type": 1,
@@ -105,6 +87,24 @@
     "coordinates": "7.991408988225478,50.780395999999996",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6885243,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "10/30/2026 19:30:01",
+    "dateEnd": null,
+    "lastUpdate": "10/30/2026 19:58:11",
+    "postalCode": "57234",
+    "city": "Wilnsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.138146744947154,50.813933",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
