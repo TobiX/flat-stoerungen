@@ -88,5 +88,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6883320,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "11/11/2026 08:11:00",
+    "dateEnd": "11/11/2026 13:11:00",
+    "lastUpdate": "10/30/2026 07:12:48",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Königsberger Ring ",
+    "radius": 500,
+    "coordinates": "10.708387,52.39264",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
