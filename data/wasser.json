@@ -1,23 +1,5 @@
 [
   {
-    "id": 6877774,
-    "operatorId": 298,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "10/28/2026 20:02:00",
-    "dateEnd": "10/28/2026 22:30:00",
-    "lastUpdate": "10/28/2026 22:15:17",
-    "postalCode": "42555",
-    "city": "Velbert",
-    "district": null,
-    "street": "Am Neuhauskothen ",
-    "radius": 1000,
-    "coordinates": "7.109032,51.35532",
-    "liveInfo": "Störung aufgehoben\n\nUnter Umständen kann es in einigen Bereichen noch Lufteinschlüsse in der Wasserleitung geben. Diese können durch Spülen der Leitung entweichen.",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Velbert GmbH"
-  },
-  {
     "id": 6879704,
     "operatorId": 259,
     "type": 1,
