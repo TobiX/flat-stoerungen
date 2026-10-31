@@ -34,23 +34,5 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
-  },
-  {
-    "id": 6884521,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/30/2026 14:56:24",
-    "dateEnd": null,
-    "lastUpdate": "10/30/2026 17:48:11",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.57299998376007,50.9941645",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   }
 ]

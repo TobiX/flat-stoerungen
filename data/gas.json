@@ -1,23 +1,5 @@
 [
   {
-    "id": 6884520,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/30/2026 14:53:48",
-    "dateEnd": null,
-    "lastUpdate": "10/30/2026 16:08:13",
-    "postalCode": "57290",
-    "city": "Neunkirchen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.991408988225478,50.780395999999996",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6885243,
     "operatorId": 132,
     "type": 1,

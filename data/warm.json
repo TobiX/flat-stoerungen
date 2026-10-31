@@ -52,5 +52,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6888089,
+    "operatorId": 19,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "10/31/2026 16:21:00",
+    "dateEnd": "10/31/2026 23:59:00",
+    "lastUpdate": "10/31/2026 16:26:23",
+    "postalCode": "03048",
+    "city": "Cottbus",
+    "district": null,
+    "street": "Senftenberger Straße 7",
+    "radius": 175,
+    "coordinates": "14.321991,51.747326",
+    "liveInfo": "Monteur ist vor Ort und behebt die Störung.",
+    "isFixed": false,
+    "operatorName": "Elektroenergieversorgung Cottbus GmbH"
   }
 ]
