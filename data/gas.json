@@ -1,23 +1,5 @@
 [
   {
-    "id": 6881777,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "10/29/2026 20:47:05",
-    "dateEnd": null,
-    "lastUpdate": "10/30/2026 09:18:16",
-    "postalCode": "59514",
-    "city": "Welver",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.942871487481454,51.6213335",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6883890,
     "operatorId": 132,
     "type": 1,

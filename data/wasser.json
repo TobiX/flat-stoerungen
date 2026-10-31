@@ -18,24 +18,6 @@
     "operatorName": "Harz Energie Netz GmbH"
   },
   {
-    "id": 6881759,
-    "operatorId": 1729,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "10/29/2026 20:18:20",
-    "dateEnd": "10/29/2026 21:50:00",
-    "lastUpdate": "10/29/2026 20:18:20",
-    "postalCode": "91522",
-    "city": "Ansbach",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.55976933809508,49.288963734619614",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Stadtwerke Ansbach GmbH"
-  },
-  {
     "id": 6883562,
     "operatorId": 3311,
     "type": 2,
