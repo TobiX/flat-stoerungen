@@ -34,5 +34,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
+  },
+  {
+    "id": 6891524,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/01/2026 15:48:21",
+    "dateEnd": null,
+    "lastUpdate": "11/01/2026 16:48:11",
+    "postalCode": "50129",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.685133736407497,50.972167",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
