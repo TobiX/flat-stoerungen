@@ -52,5 +52,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6894118,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "11/16/2026 09:00:00",
+    "dateEnd": "11/16/2026 12:45:00",
+    "lastUpdate": "11/02/2026 07:47:43",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Schlotheimer Straße ",
+    "radius": 500,
+    "coordinates": "10.704418,52.392113",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
