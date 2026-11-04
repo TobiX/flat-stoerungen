@@ -1,41 +1,5 @@
 [
   {
-    "id": 6898304,
-    "operatorId": 527,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "11/03/2026 07:58:00",
-    "dateEnd": "11/03/2026 11:30:00",
-    "lastUpdate": "11/03/2026 11:32:45",
-    "postalCode": "76139",
-    "city": "Karlsruhe",
-    "district": null,
-    "street": "Insterburger Straße 27a",
-    "radius": 200,
-    "coordinates": "8.442586,49.03768",
-    "liveInfo": "Störungsmaßnahmen abgeschlossen\nWasserrohrbruch behoben",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Karlsruhe Netzservice GmbH"
-  },
-  {
-    "id": 6899119,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/03/2026 11:46:37",
-    "dateEnd": null,
-    "lastUpdate": "11/03/2026 18:58:13",
-    "postalCode": "50181",
-    "city": "Bedburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.558210471325166,50.9938565",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6899477,
     "operatorId": 222,
     "type": 1,
@@ -52,5 +16,23 @@
     "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.\n\nBetroffene Haushalte Hohes Feld 2, 4, 6, 6a sowie 8 bis 8d\n\nErsatzversorgung mit Standrohr vor Hausnummer 8.",
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6902515,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/04/2026 10:55:41",
+    "dateEnd": null,
+    "lastUpdate": "11/04/2026 14:18:17",
+    "postalCode": "50129",
+    "city": "Bergheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.677338972722213,50.9801035",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
