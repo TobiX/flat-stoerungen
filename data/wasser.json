@@ -1,23 +1,5 @@
 [
   {
-    "id": 6899477,
-    "operatorId": 222,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "11/03/2026 14:18:00",
-    "dateEnd": "11/03/2026 21:00:00",
-    "lastUpdate": "11/03/2026 14:21:27",
-    "postalCode": "33611",
-    "city": "Bielefeld",
-    "district": null,
-    "street": "Hohes Feld 4",
-    "radius": 50,
-    "coordinates": "8.534843,52.045532",
-    "liveInfo": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\nin Ihrer Straße sind Reparaturarbeiten am Wasserversorgungsnetz erforderlich. \n\nWir bitten Sie um Ihr Verständnis, dass unsere Arbeiten eine kurzfristige Unterbrechung Ihrer Wasserversorgung zur Folge haben.\n\nBetroffene Haushalte Hohes Feld 2, 4, 6, 6a sowie 8 bis 8d\n\nErsatzversorgung mit Standrohr vor Hausnummer 8.",
-    "isFixed": false,
-    "operatorName": "Bielefelder Netz GmbH"
-  },
-  {
     "id": 6902515,
     "operatorId": 132,
     "type": 1,
