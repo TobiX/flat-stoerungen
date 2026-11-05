@@ -16,5 +16,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6905203,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "11/05/2026 06:00:00",
+    "dateEnd": "11/05/2026 16:05:00",
+    "lastUpdate": "11/05/2026 11:13:32",
+    "postalCode": "45481",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": "Langenfeldstraße ",
+    "radius": 500,
+    "coordinates": "6.8668456,51.40467",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
