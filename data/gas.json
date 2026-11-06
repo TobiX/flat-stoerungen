@@ -1,23 +1,5 @@
 [
   {
-    "id": 6903863,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/04/2026 19:22:04",
-    "dateEnd": null,
-    "lastUpdate": "11/05/2026 07:38:14",
-    "postalCode": "50169",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.710091736546669,50.9160185",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6905528,
     "operatorId": 132,
     "type": 1,
@@ -60,7 +42,7 @@
     "origin": 5,
     "dateStart": "11/05/2026 11:09:10",
     "dateEnd": null,
-    "lastUpdate": "11/05/2026 19:18:13",
+    "lastUpdate": "11/05/2026 20:28:12",
     "postalCode": "57290",
     "city": "Neunkirchen",
     "district": null,
@@ -68,7 +50,7 @@
     "radius": null,
     "coordinates": "8.035607488689042,50.780769500000005",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -123,6 +105,24 @@
     "coordinates": "8.446129246661721,52.191002",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6907742,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/05/2026 20:22:53",
+    "dateEnd": null,
+    "lastUpdate": "11/05/2026 22:28:12",
+    "postalCode": "57319",
+    "city": "Bad Berleburg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.385830492768404,51.0420255",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
