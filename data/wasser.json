@@ -34,5 +34,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Stadtwerke Nortorf AöR"
+  },
+  {
+    "id": 6909681,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/06/2026 09:55:48",
+    "dateEnd": null,
+    "lastUpdate": "11/06/2026 12:58:16",
+    "postalCode": "50189",
+    "city": "Elsdorf",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.545979747989422,50.94505",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
