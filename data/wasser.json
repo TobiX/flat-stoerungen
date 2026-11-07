@@ -1,23 +1,5 @@
 [
   {
-    "id": 6906326,
-    "operatorId": 3331,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "11/05/2026 11:48:00",
-    "dateEnd": "11/05/2026 21:15:00",
-    "lastUpdate": "11/05/2026 15:39:38",
-    "postalCode": "45468",
-    "city": "Mülheim an der Ruhr",
-    "district": null,
-    "street": "Langenfeldstr.",
-    "radius": 0,
-    "coordinates": "6.874395606527022,51.40549460507871",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
-  },
-  {
     "id": 6908266,
     "operatorId": 149,
     "type": 1,
