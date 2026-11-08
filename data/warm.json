@@ -178,41 +178,5 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6914232,
-    "operatorId": 19,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "11/07/2026 18:12:29",
-    "dateEnd": "11/07/2026 20:15:00",
-    "lastUpdate": "11/07/2026 19:45:30",
-    "postalCode": "03044",
-    "city": "Cottbus",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "14.332433189904265,51.77972051914146",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Elektroenergieversorgung Cottbus GmbH"
-  },
-  {
-    "id": 6914233,
-    "operatorId": 19,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "11/07/2026 18:12:29",
-    "dateEnd": "11/07/2026 20:15:00",
-    "lastUpdate": "11/07/2026 19:45:30",
-    "postalCode": "03046",
-    "city": "Cottbus",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "14.332433189904265,51.77972051914146",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Elektroenergieversorgung Cottbus GmbH"
   }
 ]
