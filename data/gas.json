@@ -52,5 +52,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Elektroenergieversorgung Cottbus GmbH"
+  },
+  {
+    "id": 6917485,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/08/2026 16:07:26",
+    "dateEnd": null,
+    "lastUpdate": "11/08/2026 16:48:13",
+    "postalCode": "48455",
+    "city": "Bad Bentheim",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "7.142227206675988,52.299027",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]

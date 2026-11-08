@@ -1,23 +1,5 @@
 [
   {
-    "id": 6912975,
-    "operatorId": 149,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "11/07/2026 09:06:19",
-    "dateEnd": "11/07/2026 10:40:00",
-    "lastUpdate": "11/07/2026 09:06:19",
-    "postalCode": "24589",
-    "city": "Nortorf",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.840820365240132,54.168936943167125",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Stadtwerke Nortorf AöR"
-  },
-  {
     "id": 6913802,
     "operatorId": 350,
     "type": 1,
