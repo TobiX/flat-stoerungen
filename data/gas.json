@@ -1,23 +1,5 @@
 [
   {
-    "id": 6922933,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/09/2026 22:20:11",
-    "dateEnd": null,
-    "lastUpdate": "11/10/2026 09:28:20",
-    "postalCode": "59846",
-    "city": "Sundern (Sauerland)",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "8.009210232474036,51.330684000000005",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6924933,
     "operatorId": 132,
     "type": 1,
@@ -78,7 +60,7 @@
     "origin": 5,
     "dateStart": "11/10/2026 14:43:57",
     "dateEnd": null,
-    "lastUpdate": "11/10/2026 18:38:14",
+    "lastUpdate": "11/10/2026 20:08:13",
     "postalCode": "27232",
     "city": "Sulingen",
     "district": null,
@@ -86,7 +68,7 @@
     "radius": null,
     "coordinates": "8.801051249948259,52.685502",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -105,6 +87,24 @@
     "coordinates": "7.830712985995177,52.477704",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6927378,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/10/2026 23:51:45",
+    "dateEnd": null,
+    "lastUpdate": "11/11/2026 00:08:18",
+    "postalCode": "57223",
+    "city": "Kreuztal",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.017140744251808,50.9586055",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]
