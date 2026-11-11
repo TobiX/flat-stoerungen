@@ -72,24 +72,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6902265,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/10/2026 08:45:00",
-    "dateEnd": "11/10/2026 13:45:00",
-    "lastUpdate": "11/04/2026 09:46:14",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Finkenweg ",
-    "radius": 500,
-    "coordinates": "10.761666,52.42444",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6906725,
     "operatorId": 186,
     "type": 2,
