@@ -1,41 +1,5 @@
 [
   {
-    "id": 6931117,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/12/2026 18:59:35",
-    "dateEnd": null,
-    "lastUpdate": "11/13/2026 06:58:14",
-    "postalCode": "45768",
-    "city": "Marl",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.100901977458256,51.6592775",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6931118,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/12/2026 18:59:35",
-    "dateEnd": null,
-    "lastUpdate": "11/13/2026 06:58:14",
-    "postalCode": "45770",
-    "city": "Marl",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "7.100901977458256,51.6592775",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6931516,
     "operatorId": 132,
     "type": 1,
@@ -96,7 +60,7 @@
     "origin": 5,
     "dateStart": "11/13/2026 12:41:10",
     "dateEnd": null,
-    "lastUpdate": "11/13/2026 14:48:16",
+    "lastUpdate": "11/13/2026 17:48:15",
     "postalCode": "45731",
     "city": "Waltrop",
     "district": null,
@@ -104,7 +68,7 @@
     "radius": null,
     "coordinates": "7.402846981079577,51.6152315",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]

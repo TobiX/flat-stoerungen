@@ -18,24 +18,6 @@
     "operatorName": "Stadtwerke Velbert GmbH"
   },
   {
-    "id": 6931059,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 2,
-    "dateStart": "11/12/2026 16:10:00",
-    "dateEnd": "11/12/2026 19:10:00",
-    "lastUpdate": "11/12/2026 16:11:09",
-    "postalCode": "38667",
-    "city": "Bad Harzburg",
-    "district": null,
-    "street": "Bettingeroder Straße ",
-    "radius": 700,
-    "coordinates": "10.561417,51.90686",
-    "liveInfo": "Techniker ist zur Entstörung vor Ort",
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6931090,
     "operatorId": 259,
     "type": 1,
@@ -96,7 +78,7 @@
     "origin": 5,
     "dateStart": "11/13/2026 14:24:02",
     "dateEnd": null,
-    "lastUpdate": "11/13/2026 16:08:15",
+    "lastUpdate": "11/13/2026 16:38:15",
     "postalCode": "50170",
     "city": "Kerpen",
     "district": null,
