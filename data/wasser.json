@@ -18,24 +18,6 @@
     "operatorName": "Stadtwerke Velbert GmbH"
   },
   {
-    "id": 6931090,
-    "operatorId": 259,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "11/12/2026 18:48:17",
-    "dateEnd": "11/12/2026 21:50:00",
-    "lastUpdate": "11/12/2026 18:48:17",
-    "postalCode": "38667",
-    "city": "Bad Harzburg",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "10.586956933368295,51.8795367207303",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Harz Energie Netz GmbH"
-  },
-  {
     "id": 6931814,
     "operatorId": 132,
     "type": 1,
