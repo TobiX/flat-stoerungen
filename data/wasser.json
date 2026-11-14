@@ -18,24 +18,6 @@
     "operatorName": "Stadtwerke Velbert GmbH"
   },
   {
-    "id": 6931827,
-    "operatorId": 350,
-    "type": 1,
-    "origin": 3,
-    "dateStart": "11/13/2026 13:18:11",
-    "dateEnd": "11/13/2026 17:20:00",
-    "lastUpdate": "11/13/2026 13:18:11",
-    "postalCode": "52074",
-    "city": "Aachen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.04195385616045,50.7663195761333",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Regionetz GmbH"
-  },
-  {
     "id": 6932278,
     "operatorId": 132,
     "type": 1,
@@ -52,5 +34,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6932401,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "11/14/2026 20:04:00",
+    "dateEnd": "11/15/2026 14:00:00",
+    "lastUpdate": "11/14/2026 20:08:36",
+    "postalCode": "46242",
+    "city": "Bottrop",
+    "district": null,
+    "street": "Lehmkuhler Straße ",
+    "radius": 200,
+    "coordinates": "6.9378433,51.5091",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.\nWassernotversorgung per Standrohr bei Lehmkuhler Str. 81",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
