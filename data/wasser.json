@@ -18,24 +18,6 @@
     "operatorName": "Stadtwerke Velbert GmbH"
   },
   {
-    "id": 6932278,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/14/2026 11:46:48",
-    "dateEnd": null,
-    "lastUpdate": "11/14/2026 12:28:15",
-    "postalCode": "50170",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.665794736314716,50.915141",
-    "liveInfo": null,
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6932401,
     "operatorId": 3331,
     "type": 1,
@@ -106,5 +88,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6932676,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "11/15/2026 13:39:08",
+    "dateEnd": "11/15/2026 17:40:00",
+    "lastUpdate": "11/15/2026 16:48:15",
+    "postalCode": "52499",
+    "city": "Baesweiler",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.183847400095496,50.895240011054334",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6932677,
+    "operatorId": 350,
+    "type": 1,
+    "origin": 3,
+    "dateStart": "11/15/2026 13:39:08",
+    "dateEnd": "11/15/2026 17:40:00",
+    "lastUpdate": "11/15/2026 16:48:15",
+    "postalCode": "52499",
+    "city": "Baesweiler",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.183847400095496,50.895240011054334",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Regionetz GmbH"
   }
 ]
