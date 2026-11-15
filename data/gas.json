@@ -1,23 +1,5 @@
 [
   {
-    "id": 6932220,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/14/2026 06:28:50",
-    "dateEnd": null,
-    "lastUpdate": "11/14/2026 10:28:14",
-    "postalCode": "37688",
-    "city": "Beverungen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "9.36885700238236,51.6740355",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6932261,
     "operatorId": 132,
     "type": 1,
