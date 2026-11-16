@@ -124,5 +124,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Regionetz GmbH"
+  },
+  {
+    "id": 6933380,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/16/2026 08:28:17",
+    "dateEnd": null,
+    "lastUpdate": "11/16/2026 10:08:25",
+    "postalCode": "50170",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.572768471516051,50.856602",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]

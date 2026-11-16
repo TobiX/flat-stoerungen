@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6933381,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/16/2026 08:31:40",
+    "dateEnd": null,
+    "lastUpdate": "11/16/2026 09:28:26",
+    "postalCode": "49163",
+    "city": "Bohmte",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.32185724159145,52.368299",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
