@@ -1,23 +1,5 @@
 [
   {
-    "id": 6894118,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/16/2026 09:00:00",
-    "dateEnd": "11/16/2026 12:45:00",
-    "lastUpdate": "11/02/2026 07:47:43",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Schlotheimer Straße ",
-    "radius": 500,
-    "coordinates": "10.704418,52.392113",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6898364,
     "operatorId": 186,
     "type": 2,
@@ -121,6 +103,24 @@
     "street": "Wollgrasweg 1",
     "radius": 500,
     "coordinates": "10.867254,52.41317",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6934822,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "11/19/2026 08:00:00",
+    "dateEnd": "11/19/2026 15:00:00",
+    "lastUpdate": "11/17/2026 13:18:06",
+    "postalCode": "38448",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Torfweg ",
+    "radius": 100,
+    "coordinates": "10.778683,52.445354",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
