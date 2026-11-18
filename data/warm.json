@@ -124,5 +124,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
+  },
+  {
+    "id": 6936852,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "11/23/2026 07:54:00",
+    "dateEnd": "11/23/2026 13:54:00",
+    "lastUpdate": "11/18/2026 13:55:12",
+    "postalCode": "38446",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Moselstraße ",
+    "radius": 500,
+    "coordinates": "10.819572,52.4199",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
