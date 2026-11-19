@@ -54,24 +54,6 @@
     "operatorName": "Wasserwerk Gifhorn GmbH & Co. KG"
   },
   {
-    "id": 6935665,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/17/2026 22:21:24",
-    "dateEnd": null,
-    "lastUpdate": "11/17/2026 22:48:17",
-    "postalCode": "50170",
-    "city": "Kerpen",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.665794736314716,50.915141",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
     "id": 6936206,
     "operatorId": 132,
     "type": 1,
@@ -186,7 +168,7 @@
     "origin": 5,
     "dateStart": "11/18/2026 14:41:29",
     "dateEnd": null,
-    "lastUpdate": "11/18/2026 18:44:28",
+    "lastUpdate": "11/18/2026 22:40:51",
     "postalCode": "50126",
     "city": "Bergheim",
     "district": null,
@@ -194,7 +176,7 @@
     "radius": null,
     "coordinates": "6.634624972258305,50.94688",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -204,7 +186,7 @@
     "origin": 5,
     "dateStart": "11/18/2026 16:37:57",
     "dateEnd": null,
-    "lastUpdate": "11/18/2026 18:44:28",
+    "lastUpdate": "11/18/2026 22:40:51",
     "postalCode": "50181",
     "city": "Bedburg",
     "district": null,
@@ -212,7 +194,7 @@
     "radius": null,
     "coordinates": "6.573842971516051,50.977999",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -276,7 +258,7 @@
     "origin": 3,
     "dateStart": "11/18/2026 21:42:23",
     "dateEnd": "11/18/2026 23:15:00",
-    "lastUpdate": "11/18/2026 21:42:23",
+    "lastUpdate": "11/18/2026 22:51:17",
     "postalCode": "58454",
     "city": "Witten",
     "district": null,
@@ -286,5 +268,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Stadtwerke Witten GmbH"
+  },
+  {
+    "id": 6937230,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/18/2026 19:05:36",
+    "dateEnd": null,
+    "lastUpdate": "11/19/2026 04:00:52",
+    "postalCode": "50169",
+    "city": "Kerpen",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "6.757498221908454,50.852207",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
   }
 ]
