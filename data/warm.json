@@ -1,23 +1,5 @@
 [
   {
-    "id": 6925907,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/19/2026 08:14:00",
-    "dateEnd": "11/19/2026 13:57:00",
-    "lastUpdate": "11/10/2026 14:58:19",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Schulenburgallee 174",
-    "radius": 300,
-    "coordinates": "10.81162,52.45264",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6930828,
     "operatorId": 186,
     "type": 2,
@@ -31,24 +13,6 @@
     "street": "Hohensteinstraße 11",
     "radius": 500,
     "coordinates": "10.768239,52.423",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6934822,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/19/2026 08:00:00",
-    "dateEnd": "11/19/2026 15:00:00",
-    "lastUpdate": "11/17/2026 13:18:06",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Torfweg ",
-    "radius": 100,
-    "coordinates": "10.778683,52.445354",
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
@@ -162,24 +126,6 @@
     "operatorName": "LSW Netz GmbH & Co. KG"
   },
   {
-    "id": 6937495,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/19/2026 09:00:00",
-    "dateEnd": "11/19/2026 13:53:00",
-    "lastUpdate": "11/19/2026 06:56:06",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Semmelweisring ",
-    "radius": 500,
-    "coordinates": "10.774068,52.407177",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6937885,
     "operatorId": 186,
     "type": 2,
@@ -232,23 +178,5 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6938679,
-    "operatorId": 19,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/20/2026 08:03:00",
-    "dateEnd": "11/20/2026 15:03:00",
-    "lastUpdate": "11/20/2026 08:04:27",
-    "postalCode": "03048",
-    "city": "Cottbus",
-    "district": null,
-    "street": "Senftenberger Straße 7",
-    "radius": 175,
-    "coordinates": "14.321991,51.747326",
-    "liveInfo": "Planmäßige Wartungsarbeiten. Es kann zu Versorgungseinschränkungen kommen.",
-    "isFixed": false,
-    "operatorName": "Elektroenergieversorgung Cottbus GmbH"
   }
 ]
