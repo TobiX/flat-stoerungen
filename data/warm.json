@@ -1,23 +1,5 @@
 [
   {
-    "id": 6930828,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/20/2026 08:14:00",
-    "dateEnd": "11/20/2026 12:14:00",
-    "lastUpdate": "11/12/2026 10:36:45",
-    "postalCode": "38440",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Hohensteinstraße 11",
-    "radius": 500,
-    "coordinates": "10.768239,52.423",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6936852,
     "operatorId": 186,
     "type": 2,
