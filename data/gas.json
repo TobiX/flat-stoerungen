@@ -42,7 +42,7 @@
     "origin": 5,
     "dateStart": "11/20/2026 17:19:19",
     "dateEnd": null,
-    "lastUpdate": "11/20/2026 22:30:52",
+    "lastUpdate": "11/21/2026 03:50:52",
     "postalCode": "37696",
     "city": "Marienmünster",
     "district": null,
@@ -50,7 +50,7 @@
     "radius": null,
     "coordinates": "9.234406752727804,51.819984000000005",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   },
   {
@@ -87,6 +87,24 @@
     "coordinates": "9.16566125208983,51.569340499999996",
     "liveInfo": null,
     "isFixed": true,
+    "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6939534,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/21/2026 06:57:11",
+    "dateEnd": null,
+    "lastUpdate": "11/21/2026 08:30:53",
+    "postalCode": "33397",
+    "city": "Rietberg",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.420965993139255,51.7864435",
+    "liveInfo": null,
+    "isFixed": false,
     "operatorName": "Westnetz GmbH"
   }
 ]

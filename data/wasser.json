@@ -18,24 +18,6 @@
     "operatorName": "Stadtwerke Velbert GmbH"
   },
   {
-    "id": 6938232,
-    "operatorId": 1782,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/19/2026 17:40:00",
-    "dateEnd": "11/20/2026 01:42:00",
-    "lastUpdate": "11/20/2026 01:45:10",
-    "postalCode": "95447",
-    "city": "Bayreuth",
-    "district": null,
-    "street": null,
-    "radius": 1,
-    "coordinates": "11.5613524,49.9195959",
-    "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 20.11.2026 02:00\nMonteur informiert um 19.11.2026 17:42\nMonteur vor Ort seit 19.11.2026 17:59\nStandort Notwasser: Südlicher Ringweg 53B, Bayreuth-Saas, Germany",
-    "isFixed": false,
-    "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
     "id": 6938544,
     "operatorId": 1782,
     "type": 1,
@@ -52,24 +34,6 @@
     "liveInfo": "Vermutliche Zeit bis Wiederversorgung: 20.11.2026 14:00\nMonteur informiert um 20.11.2026 04:31\nMonteur vor Ort seit 20.11.2026 04:55\nStandort Notwasser: nicht möglich ",
     "isFixed": false,
     "operatorName": "Stadtwerke Bayreuth Energie und Wasser GmbH"
-  },
-  {
-    "id": 6938756,
-    "operatorId": 132,
-    "type": 1,
-    "origin": 5,
-    "dateStart": "11/20/2026 08:38:47",
-    "dateEnd": null,
-    "lastUpdate": "11/20/2026 14:50:54",
-    "postalCode": "50129",
-    "city": "Bergheim",
-    "district": null,
-    "street": null,
-    "radius": null,
-    "coordinates": "6.677338972722213,50.9801035",
-    "liveInfo": null,
-    "isFixed": true,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6939096,
@@ -124,5 +88,41 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Westnetz GmbH"
+  },
+  {
+    "id": 6939527,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "11/21/2026 05:27:00",
+    "dateEnd": "11/21/2026 18:00:00",
+    "lastUpdate": "11/21/2026 05:31:15",
+    "postalCode": "46147",
+    "city": "Oberhausen",
+    "district": null,
+    "street": "Eimersweg 8",
+    "radius": 100,
+    "coordinates": "6.810857,51.55746",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
+  },
+  {
+    "id": 6939529,
+    "operatorId": 3331,
+    "type": 1,
+    "origin": 2,
+    "dateStart": "11/21/2026 05:32:00",
+    "dateEnd": "11/21/2026 18:00:00",
+    "lastUpdate": "11/21/2026 05:36:16",
+    "postalCode": "45475",
+    "city": "Mülheim an der Ruhr",
+    "district": null,
+    "street": "Knüfen 46",
+    "radius": 50,
+    "coordinates": "6.892259,51.45604",
+    "liveInfo": "Wir reparieren aktuell einen Rohrbruch und raten, die Baustelle großräumig zu umfahren. Für die unvermeidlichen Beeinträchtigungen bittet RWW um Verständnis.",
+    "isFixed": false,
+    "operatorName": "RWW Rheinisch-Westfälische Wasserwerksgesellschaft mbH"
   }
 ]
