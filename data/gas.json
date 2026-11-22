@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 6940075,
+    "operatorId": 132,
+    "type": 1,
+    "origin": 5,
+    "dateStart": "11/22/2026 15:39:42",
+    "dateEnd": null,
+    "lastUpdate": "11/22/2026 16:00:54",
+    "postalCode": "33378",
+    "city": "Rheda-Wiedenbrück",
+    "district": null,
+    "street": null,
+    "radius": null,
+    "coordinates": "8.276739991376113,51.8584475",
+    "liveInfo": null,
+    "isFixed": false,
+    "operatorName": "Westnetz GmbH"
+  }
+]
