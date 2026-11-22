@@ -6,7 +6,7 @@
     "origin": 5,
     "dateStart": "11/21/2026 06:57:11",
     "dateEnd": null,
-    "lastUpdate": "11/21/2026 08:30:53",
+    "lastUpdate": "11/22/2026 01:00:52",
     "postalCode": "33397",
     "city": "Rietberg",
     "district": null,
@@ -14,7 +14,7 @@
     "radius": null,
     "coordinates": "8.420965993139255,51.7864435",
     "liveInfo": null,
-    "isFixed": false,
+    "isFixed": true,
     "operatorName": "Westnetz GmbH"
   }
 ]
