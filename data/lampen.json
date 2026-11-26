@@ -16722,42 +16722,6 @@
     "operatorName": "Stadt Lünen"
   },
   {
-    "id": 6878233,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "10/28/2026 23:11:35",
-    "dateEnd": "11/28/2026 23:11:35",
-    "lastUpdate": "10/28/2026 23:11:36",
-    "postalCode": "54411",
-    "city": "Hermeskeil",
-    "district": "Hermeskeil",
-    "street": "Züscher Str.",
-    "radius": null,
-    "coordinates": "6.951267739778;49.654775490853",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
-  },
-  {
-    "id": 6878236,
-    "operatorId": 368,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "10/28/2026 23:47:41",
-    "dateEnd": "11/28/2026 23:47:41",
-    "lastUpdate": "10/28/2026 23:47:43",
-    "postalCode": "67304",
-    "city": "Kerzenheim",
-    "district": "",
-    "street": "Jahnstr.",
-    "radius": null,
-    "coordinates": "8.058218,49.573367",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Pfalzwerke Netz AG"
-  },
-  {
     "id": 6878237,
     "operatorId": 237,
     "type": 10,
@@ -16774,24 +16738,6 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
-  },
-  {
-    "id": 6878530,
-    "operatorId": 132,
-    "type": 10,
-    "origin": 10,
-    "dateStart": "10/29/2026 01:04:01",
-    "dateEnd": "11/29/2026 01:04:01",
-    "lastUpdate": "10/29/2026 01:04:01",
-    "postalCode": "54308",
-    "city": "Langsur",
-    "district": "Langsur",
-    "street": "Brüderwies",
-    "radius": null,
-    "coordinates": "6.5015673;49.7204207",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "Westnetz GmbH"
   },
   {
     "id": 6879442,
@@ -58606,5 +58552,23 @@
     "liveInfo": "",
     "isFixed": false,
     "operatorName": "Syna GmbH"
+  },
+  {
+    "id": 6943374,
+    "operatorId": 3986,
+    "type": 10,
+    "origin": 10,
+    "dateStart": "11/26/2026 04:55:22",
+    "dateEnd": "12/26/2026 04:55:22",
+    "lastUpdate": "11/26/2026 04:55:25",
+    "postalCode": "53859",
+    "city": "Niederkassel",
+    "district": "Rhein-Sieg-Kreis",
+    "street": "Oberstraße",
+    "radius": null,
+    "coordinates": "7.048343,50.784679",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "Stadt Niederkassel"
   }
 ]
