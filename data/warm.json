@@ -1,41 +1,5 @@
 [
   {
-    "id": 6936913,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/26/2026 07:13:00",
-    "dateEnd": "11/26/2026 13:13:00",
-    "lastUpdate": "11/18/2026 14:14:27",
-    "postalCode": "38442",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Kirchnerstraße ",
-    "radius": 500,
-    "coordinates": "10.702487,52.420185",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
-    "id": 6938634,
-    "operatorId": 186,
-    "type": 2,
-    "origin": 2,
-    "dateStart": "11/26/2026 08:32:00",
-    "dateEnd": "11/26/2026 12:49:00",
-    "lastUpdate": "11/20/2026 07:50:45",
-    "postalCode": "38448",
-    "city": "Wolfsburg",
-    "district": null,
-    "street": "Bergmannskamp ",
-    "radius": 500,
-    "coordinates": "10.841875,52.456314",
-    "liveInfo": "",
-    "isFixed": false,
-    "operatorName": "LSW Netz GmbH & Co. KG"
-  },
-  {
     "id": 6942559,
     "operatorId": 186,
     "type": 2,
@@ -124,5 +88,23 @@
     "liveInfo": null,
     "isFixed": false,
     "operatorName": "Bielefelder Netz GmbH"
+  },
+  {
+    "id": 6944907,
+    "operatorId": 186,
+    "type": 2,
+    "origin": 2,
+    "dateStart": "12/08/2026 08:01:00",
+    "dateEnd": "12/08/2026 12:50:00",
+    "lastUpdate": "11/27/2026 11:52:01",
+    "postalCode": "38442",
+    "city": "Wolfsburg",
+    "district": null,
+    "street": "Katzenkamp 44",
+    "radius": 500,
+    "coordinates": "10.686471,52.4191",
+    "liveInfo": "",
+    "isFixed": false,
+    "operatorName": "LSW Netz GmbH & Co. KG"
   }
 ]
